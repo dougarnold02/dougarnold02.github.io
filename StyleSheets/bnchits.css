@@ -1,0 +1,52 @@
+$DOCUMENT {
+  font-size: 12pt;
+  margin-top: 5px;
+  margin-left: 5px;
+}
+
+
+hdr {
+  display: block;
+  margin-bottom: 2em;
+  margin-top: 2em;
+  background-color: #FFCC99;
+  text-align: center;
+}
+
+query {
+  font-family: monospace;
+  white-space: pre;
+  display:block;
+  font-size: 150%;
+}
+
+hdr:after {
+  content:  "Hits for query run on " attr(date) " (" attr(user) " on server " attr(server) ")"
+
+  
+}
+
+note {
+ display: block;
+ font-style: italic;
+}
+
+hit {
+  display: block;
+  margin-bottom: 10pt;
+  margin-left: 12pt;
+  font-family: sans-serif;
+}
+
+hit:after {
+  content: "  [" attr(text) " " attr(n) "]" ;
+  display: marker;
+  font-weight: bold;
+}
+
+kw {
+  display: inline;
+  font-weight: bold;
+  color: green;  
+}
+

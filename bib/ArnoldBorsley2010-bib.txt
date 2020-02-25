@@ -1,0 +1,13 @@
+@InProceedings{ArnoldBorsley2010,
+  author      = {Doug Arnold and Robert D. Borsley},
+  title       = {Auxiliary-Stranding Relative Clauses},
+  pages       = {47--67},
+  editor      =	{Stefan M{\"u}ller},
+  booktitle   =	{Proceedings of the 17th International Conference on Head-Driven Phrase Structure Grammar, Paris University Paris Diderot, France},
+  address     =	{Stanford},
+  publisher   =	{CSLI Publications},
+  url         = {http://cslipublications.stanford.edu/HPSG/2010/arnold-borsley.pdf},
+  url_checked = {31.10.2010},
+  year	      =	{2010}
+}
+

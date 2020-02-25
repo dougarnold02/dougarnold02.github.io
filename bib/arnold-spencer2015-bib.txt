@@ -1,0 +1,14 @@
+@inproceedings{arnold-spencer2015,
+  author =	 {Arnold, Doug and Spencer, Andrew},
+  title =	 { A Constructional Analysis for the Skeptical },
+  booktitle =	 {Proceedings of the 22nd International Conference on Head-Driven Phrase
+                  Structure Grammar, Nanyang Technological University (NTU), Singapore},
+  editor =	 {Stefan M{"u}ller},
+  issn =	 15351793,
+  url =		 {http://cslipublications.stanford.edu/HPSG/2015/arnold-spencer.pdf},
+  publisher =	 {CSLI Publications},
+  address =	 {Stanford, CA},
+  pages =	 {41-60},
+  year =	 2015
+} 
+

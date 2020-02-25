@@ -1,0 +1,8 @@
+@Misc{ArnoldIdiomsPoster15,
+  author =	 {Doug Arnold},
+  title =	 { A {G}lue Semantics for Structurally Regular {MWEs} },
+  howpublished = {{P}oster presented at 5th Parseme Meeting, Iasi, {R}omania},
+  month =	 {Sept},
+  year =	 2015,
+  annote = { Iasi should be Ia\cb{s}i, but this needs the combelow package}	
+}

@@ -1,0 +1,296 @@
+\newcommand{\natexlab}[1]{}
+\begin{thebibliography}{0}
+%\expandafter{\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi}
+\expandafter{\ifx\csname url\endcsname\relax\def\url#1{{\tt #1}}\fi}
+
+\bibitem[Arnold and Godard(2019)]{ArnoldGodard19Relative}
+Doug Arnold and Dani\`{e}le Godard.
+\newblock  \xlink{Relative clauses in
+  {HPSG}}{https://hpsg.hu-berlin.de/Projects/HPSG-handbook/PDFs/relative-clauses.pdf}.
+\newblock In Stefan M\"{u}ller, Anne Abeill\'{e}, Robert~D. Borsley, and
+  Jean-Pierre Koenig, editors, {\em Head-Driven Phrase Structure Grammar: The
+  handbook}. Language Science Press, Berlin, 2019.
+\newblock Prepublished version.
+\newblock
+  \url{https://hpsg.hu-berlin.de/Projects/HPSG-handbook/PDFs/relative-clauses.pdf}.
+
+\bibitem[Alsulami et~al.(2017)Alsulami, Arnold, and
+  Borsley]{AlsunamiArnoldBorsley2017}
+Abeer Alsulami, Doug Arnold, and Robert~D. Borsley.
+\newblock  \xlink{Simple and complex comparatives in modern standard
+  {A}rabic}{http://cslipublications.stanford.edu/HPSG/2017/hpsg2017-aab.pdf}.
+\newblock In Stefan M{\"u}ller, editor, {\em Proceedings of the 24th
+  International Conference on Head-Driven Phrase Structure Grammar, University
+  of Kentucky, Lexington}, pages 5--25, Stanford, CA, 2017. CSLI Publications.
+\newblock
+  \url{http://cslipublications.stanford.edu/HPSG/2017/hpsg2017-aab.pdf}.
+
+\bibitem[Arnold and Lucas(2016)]{arnold-lucas2016}
+Doug Arnold and Christoper Lucas.
+\newblock  \xlink{One of those constructions that really needs a proper
+  analysis}{http://cslipublications.stanford.edu/HPSG/2016/headlex2016-arnold-lucas.pdf}.
+\newblock In Doug Arnold, Miriam Butt, Berthold Crysmann, Tracy~Holloway King,
+  and Stefan M{\"u}ller, editors, {\em Proceedings of the Joint 2016 Conference
+  on Head-driven Phrase Structure Grammar and Lexical Functional Grammar,
+  Polish Academy of Sciences, Warsaw, Poland}, pages 43--63, Stanford, CA,
+  2016. CSLI Publications.
+\newblock
+  \url{http://cslipublications.stanford.edu/HPSG/2016/headlex2016-arnold-lucas.pdf}.
+
+\bibitem[Arnold and Bargmann(2016)]{ArnoldBargmann16IdiomPoster}
+Doug Arnold and Sascha Bargmann.
+\newblock  \xlink{Idiom licensing in non-restrictive relative
+  clauses}{http://repository.essex.ac.uk/id/eprint/17676}.
+\newblock {P}oster presented at 7th Parseme Meeting, Dubrovnik, {C}roatia, Sept
+  26-27 2016.
+\newblock \url{http://repository.essex.ac.uk/id/eprint/17676}.
+
+\bibitem[Arnold and Spencer(2015)]{arnold-spencer2015}
+Doug Arnold and Andrew Spencer.
+\newblock  \xlink{A constructional analysis for the
+  skeptical}{http://cslipublications.stanford.edu/HPSG/2015/arnold-spencer.pdf}.
+\newblock In Stefan M{\"u}ller, editor, {\em Proceedings of the 22nd
+  International Conference on Head-Driven Phrase Structure Grammar, Nanyang
+  Technological University (NTU), Singapore}, pages 41--60, Stanford, CA, 2015.
+  CSLI Publications.
+\newblock
+  \url{http://cslipublications.stanford.edu/HPSG/2015/arnold-spencer.pdf}.
+
+\bibitem[Arnold(2015)]{ArnoldIdiomsPoster15}
+Doug Arnold.
+\newblock  \xlink{A {G}lue semantics for structurally regular
+  {MWEs}}{http://repository.essex.ac.uk/id/eprint/16692}.
+\newblock {P}oster presented at 5th Parseme Meeting, Iasi, {R}omania, Sept
+  2015.
+\newblock \url{http://repository.essex.ac.uk/id/eprint/16692}.
+
+\bibitem[Arnold and Borsley(2014)]{arnold-borsley2014}
+Doug Arnold and Robert~D. Borsley.
+\newblock  \xlink{On the analysis of {E}nglish exhaustive
+  conditionals}{http://cslipublications.stanford.edu/HPSG/2014/arnold-borsley.pdf}.
+\newblock In Stefan M{\"u}ller, editor, {\em Proceedings of the 21th
+  International Conference on Head-Driven Phrase Structure Grammar, University
+  at Buffalo}, pages 27--47, 2014.
+\newblock
+  \url{http://cslipublications.stanford.edu/HPSG/2014/arnold-borsley.pdf}.
+
+\bibitem[Arnold and Sadler(2014)]{ArnoldSadler2014}
+Doug Arnold and Louisa Sadler.
+\newblock  \xlink{The `big mess'
+  construction}{http://www.stanford.edu/group/cslipublications/cslipublications/LFG/19/papers/lfg14arnoldsadler.pdf}.
+\newblock In Miriam Butt and Tracy~Holloway King, editors, {\em Proceedings of
+  the LFG14 Conference, Ann Arbor, Michigan, USA}, pages 47--67, Stanford, Ca.,
+  2014. CSLI Publications.
+\newblock
+  \url{http://www.stanford.edu/group/cslipublications/cslipublications/LFG/19/papers/lfg14arnoldsadler.pdf}.
+
+\bibitem[Arnold and Sadler(2013)]{ArnoldSadlerDD2013}
+Doug Arnold and Louisa Sadler.
+\newblock  \xlink{Displaced dependent
+  constructions}{http://www.stanford.edu/group/cslipublications/cslipublications/LFG/18/papers/lfg13arnoldsadler.pdf}.
+\newblock In Miriam Butt and Tracy~Holloway King, editors, {\em Proceedings of
+  the LFG13 Conference, University of Debrecen, Hungary}, pages 48--68,
+  Stanford, Ca., 2013. CSLI Publications.
+\newblock
+  \url{http://www.stanford.edu/group/cslipublications/cslipublications/LFG/18/papers/lfg13arnoldsadler.pdf}.
+
+\bibitem[Arnold and Sadler(2012)]{ArnoldSadlerAffected2012}
+Doug Arnold and Louisa Sadler.
+\newblock  \xlink{Affected experiencers and mixed semantics in
+  {LFG}/{G}lue}{http://cslipublications.stanford.edu/LFG/17/papers/lfg12arnoldsadler.pdf}.
+\newblock In Miriam Butt and Tracy~Holloway King, editors, {\em Proceedings of
+  the LFG12 Conference, Udayana University, Bali}, pages 44--63, Stanford, Ca.,
+  2012. CSLI Publications.
+\newblock
+  \url{http://cslipublications.stanford.edu/LFG/17/papers/lfg12arnoldsadler.pdf}.
+
+\bibitem[Arnold and Sadler(2011)]{ArnoldSadlerSplitting2011}
+Doug Arnold and Louisa Sadler.
+\newblock  \xlink{Resource splitting and reintegration with
+  supplementals}{http://cslipublications.stanford.edu/LFG/16/papers/lfg11arnoldsadler.pdf}.
+\newblock In Miriam Butt and Tracy~Holloway King, editors, {\em Proceedings of
+  the LFG11 Conference, Hong Kong University, Hong Kong}, pages 26--46,
+  Stanford, Ca., 2011. CSLI Publications.
+\newblock
+  \url{http://cslipublications.stanford.edu/LFG/16/papers/lfg11arnoldsadler.pdf}.
+
+\bibitem[Arnold and Borsley(2010)]{ArnoldBorsley2010}
+Doug Arnold and Robert~D. Borsley.
+\newblock  \xlink{Auxiliary-stranding relative
+  clauses}{http://cslipublications.stanford.edu/HPSG/2010/arnold-borsley.pdf}.
+\newblock In Stefan M{\"u}ller, editor, {\em Proceedings of the 17th
+  International Conference on Head-Driven Phrase Structure Grammar, Paris
+  University Paris Diderot, France}, pages 47--67, Stanford, 2010. CSLI
+  Publications.
+\newblock
+  \url{http://cslipublications.stanford.edu/HPSG/2010/arnold-borsley.pdf}.
+
+\bibitem[Arnold and Sadler(2010)]{ArnoldSadlerPottsian10}
+Doug Arnold and Louisa Sadler.
+\newblock  \xlink{{P}ottsian
+  {LFG}}{http://cslipublications.stanford.edu/LFG/15/papers/lfg10arnoldsadler.pdf}.
+\newblock In Miriam Butt and Tracy~Holloway King, editors, {\em Proceedings of
+  the LFG10 Conference, Carleton University, Ottawa}, pages 43--63, Stanford,
+  Ca., 2010. CSLI Publications.
+\newblock
+  \url{http://cslipublications.stanford.edu/LFG/15/papers/lfg10arnoldsadler.pdf}.
+
+\bibitem[Arnold and Borsley(2009)]{arnoldlagb09}
+Doug Arnold and Robert~D Borsley.
+\newblock  \xlink{{Non-nominal} \emph{which}
+  relatives}{http://www.essex.ac.uk/linguistics/research/resgroups/clgroup/papers/doug/lagb09.pdf}.
+\newblock Paper presented at the Annual Meeting of the Linguistics Association
+  of Great Britain, University of Edinburgh, September 2009.
+\newblock
+  \url{http://www.essex.ac.uk/linguistics/research/resgroups/clgroup/papers/doug/lagb09.pdf}.
+
+\bibitem[Arnold and Borsley(2008)]{ArnoldBorsley08}
+Doug Arnold and Robert~D. Borsley.
+\newblock  \xlink{Non-restrictive relative clauses, ellipsis and
+  anaphora}{http://cslipublications.stanford.edu/HPSG/9/arnold-borsley.pdf}.
+\newblock In Stefan M{\"u}ller, editor, {\em Proceedings of the 15th
+  International Conference on Head-Driven Phrase Structure Grammar (HPSG08),
+  NICT, Keihanna, Japan}, pages 325--345, Stanford, Ca., 2008. CSLI
+  Publications.
+\newblock \url{http://cslipublications.stanford.edu/HPSG/9/arnold-borsley.pdf}.
+
+\bibitem[Arnold(2007)]{Arnold07}
+D.J. Arnold.
+\newblock  \xlink{{Non-Restrictive} relatives are not
+  orphans}{http://journals.cambridge.org/}.
+\newblock {\em Journal of Linguistics}, 43 (2): 272--309, 2007.
+\newblock \url{http://journals.cambridge.org/}.
+
+\bibitem[Arnold and Linardaki(2007)]{ArnoldLinLFG07}
+Doug Arnold and Evita Linardaki.
+\newblock  \xlink{Linguistic constraints in
+  {LFG-DOP}}{http://cslipublications.stanford.edu/LFG/12/lfg07.html}.
+\newblock In Miriam Butt and Tracy~Holloway King, editors, {\em Proceedings of
+  the LFG07 Conference}, pages 66--86, Stanford, Ca., 2007. CSLI Publications.
+\newblock \url{http://cslipublications.stanford.edu/LFG/12/lfg07.html}.
+
+\bibitem[Arnold(2007)]{Arnold07DOPricher}
+Doug Arnold.
+\newblock  \xlink{{DOP}-based models for richer grammatical
+  frameworks}{http://repository.essex.ac.uk/id/eprint/112}.
+\newblock In Andrew Radford, editor, {\em Martin Atkinson --- the Minimalist
+  Muse}, volume~53 of {\em Essex Research Reports in Linguistics}, pages
+  17--41. Dept. of Language and Linguistics, University of Essex, 2007.
+\newblock \url{http://repository.essex.ac.uk/id/eprint/112}.
+
+\bibitem[Arnold and Linardaki(2007)]{ArnoldLinESSLLI07}
+Doug Arnold and Evita Linardaki.
+\newblock  \xlink{{HPSG-DOP}: Towards exemplar-based
+  {HPSG}}{http://www.essex.ac.uk/linguistics/research/resgroups/clgroup/papers/doug/esslli07.pdf},
+  6--17, August 2007.
+\newblock Presented at the Workshop `Exemplar-Based Models of Language
+  Acquisition and Use', ESSLLI 2007.
+\newblock
+  \url{http://www.essex.ac.uk/linguistics/research/resgroups/clgroup/papers/doug/esslli07.pdf}.
+
+\bibitem[Arnold and Linardaki(2007)]{ArnoldLinTFSG07}
+Doug Arnold and Evita Linardaki.
+\newblock  \xlink{A data-oriented parsing model for
+  {HPSG}}{http://cst.dk/anders/publ/tfsg/proceedings07.pdf}.
+\newblock In Anders S{\o}gaard and Petter Haugereid, editors, {\em 2nd
+  International Workshop on Typed Feature Structure Grammars ({TFSG'07})},
+  pages 1--9, Tartu, Estonia, 24-26, May 2007. Center for Sprogteknologi,
+  Kobenhavens Universitet, Working Papers, Report No. 8, ISN1600-339X.
+\newblock \url{http://cst.dk/anders/publ/tfsg/proceedings07.pdf}.
+
+\bibitem[Arnold et~al.(2007)Arnold, Sadler, and
+  Villavicencio]{arnold-sadler-villa06a}
+Doug Arnold, Louisa Sadler, and Aline Villavicencio.
+\newblock {P}ortuguese: Corpora, coordination and agreement.
+\newblock In Sam Featherston and Wolfgang Sternefeld, editors, {\em Roots:
+  Linguistics in search of its evidential base}, number~96 in Studies in
+  Generative Grammar, pages 9--28. Mouton de Gruyter, Berlin, 2007.
+
+\bibitem[Villavicencio et~al.(2005)Villavicencio, Sadler, and
+  Arnold]{villavicencio-etal05}
+Aline Villavicencio, Louisa Sadler, and Doug Arnold.
+\newblock  \xlink{An {HPSG} account of closest conjunct agreement in {NP}
+  coordination in
+  {P}ortuguese}{http://www.stanford.edu/group/cslipublications/cslipublications/HPSG/2005/vsa.pdf}.
+\newblock In Stephan M\"uller, editor, {\em Proceedings of the 12th
+  International Conference on Head-Driven Phrase Structure Grammar}, pages
+  427--447, Stanford, CA, 2005. CSLI Publications.
+\newblock
+  \url{http://www.stanford.edu/group/cslipublications/cslipublications/HPSG/2005/vsa.pdf}.
+
+\bibitem[Arnold(2004)]{arnoldlagb04}
+Doug Arnold.
+\newblock  \xlink{{Non-Restrictive} relatives are not
+  orphans}{http://www.essex.ac.uk/linguistics/research/resgroups/clgroup/papers/doug/lagb04.pdf}.
+\newblock Paper presented at the Autumn Meeting of the Linguistics Association
+  of Great Britain, Roehamton, University of Surrey, September 2004.
+\newblock
+  \url{http://www.essex.ac.uk/linguistics/research/resgroups/clgroup/papers/doug/lagb04.pdf}.
+
+\bibitem[Arnold(2004)]{Arnold04a}
+D.J. Arnold.
+\newblock  \xlink{{Non-Restrictive} relative clauses in construction based
+  {HPSG}}{http://cslipublications.stanford.edu/HPSG/5/arnold.pdf}.
+\newblock In Stefan M{\"u}ller, editor, {\em Proceedings of the 11th
+  International Conference on Head-Driven Phrase Structure Grammar}, pages
+  27--47, Stanford, 2004. CSLI Publications.
+\newblock \url{http://cslipublications.stanford.edu/HPSG/5/arnold.pdf}.
+
+\bibitem[Arnold(2003)]{Arnold03}
+D.J. Arnold.
+\newblock Why translation is difficult for computers.
+\newblock In Harold Somers, editor, {\em Computers and Translation: A
+  translator's guide}, pages 119--142. John Benjamins, Amsterdam, 2003.
+
+\bibitem[Arnold(2000)]{arnold00errl}
+Doug Arnold.
+\newblock  \xlink{Corpus access for beginners: the {W3Corpora}
+  project}{http://www.essex.ac.uk/linguistics/research/resgroups/clgroup/papers/doug/errl32.pdf}.
+\newblock In Harald Clahsen, editor, {\em Essex Research Reports in
+  Linguistics}, volume~32, pages 55--102. Department of Language and
+  Linguistics, University of Essex, November 2000.
+\newblock
+  \url{http://www.essex.ac.uk/linguistics/research/resgroups/clgroup/papers/doug/errl32.pdf}.
+
+\bibitem[Arnold(2000)]{Arnold00}
+D.J. Arnold.
+\newblock  \xlink{World {Wide} {Web} access to
+  corpora}{http://www.essex.ac.uk/linguistics/research/clgroup/papers/doug/w3corpora00.pdf}.
+\newblock {\em Corpus-Based Research in English Language and Linguistics:
+  Monograph Issue of Cuadernos de Filologia Inglesa de la Universidad de
+  Murcia}, 9 (1): 125--145, 2000.
+\newblock Pascual Cantos Gomez, editor, ISSN 0213-5485.
+\newblock
+  \url{http://www.essex.ac.uk/linguistics/research/clgroup/papers/doug/w3corpora00.pdf}.
+
+\bibitem[Arnold(1999)]{Arnold99c}
+Doug Arnold.
+\newblock Web access to corpora: the {W3Corpora} project.
+\newblock In {\em Proc European Conference of the Association for Computational
+  Linguistics (EACL'99) Workshop on Computer and Internet Supported Education
+  in Language and Speech Technology}, University of Bergen, Norway, June 1999.
+  European Association for Computational Linguistics.
+\newblock 6 pages.
+
+\bibitem[Arnold et~al.(1999)Arnold, Aarts, Buckley, Berglund, Nelson, and
+  Rondell]{Arnoldea99}
+Doug Arnold, Bas Aarts, Justin Buckley, Ylva Berglund, Gerald Nelson, and
+  Martin Rondell.
+\newblock  \xlink{Corpora and grammars on the web: the {W3Corpora}--{IGE}
+  {Project}}{http://www.essex.ac.uk/linguistics/external/clmt/w3c-ige/FinalReport/}.
+\newblock {Final Report} {JTAP}--2/247, February 1999.
+\newblock
+  \url{http://www.essex.ac.uk/linguistics/external/clmt/w3c-ige/FinalReport/}.
+
+\bibitem[Arnold and Berglund(1998)]{ArnoldBerglund98}
+Doug Arnold and Ylva Berglund.
+\newblock  \xlink{{WWW} access to corpora: a tool for teaching and learning
+  about
+  corpora}{http://www.essex.ac.uk/linguistics/external/clmt/w3c/corpus_ling/TALC.html}.
+\newblock In {\em TALC-98 (Third International Conference on Teaching and
+  Language Corpora)}, Keeble College, Oxford, 24--27 July 1998. Humanities
+  Computing Unit, Oxford University, Oxford.
+\newblock
+  \url{http://www.essex.ac.uk/linguistics/external/clmt/w3c/corpus_ling/TALC.html}.
+
+\end{thebibliography}

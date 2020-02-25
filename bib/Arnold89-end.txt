@@ -1,0 +1,7 @@
+
+%T Theoretical and Descriptive Issues in Machine Translation 
+%I University of Essex
+%C Colchester, UK
+%A D.J. Arnold
+%D 1989
+%L Arnold:89

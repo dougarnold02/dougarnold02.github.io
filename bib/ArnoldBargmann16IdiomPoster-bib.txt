@@ -1,0 +1,8 @@
+@Misc{ArnoldBargmann16IdiomPoster,
+  author =	 {Doug Arnold and Sascha Bargmann },
+  title =	 { Idiom Licensing in Non-restrictive Relative Clauses },
+  howpublished = {{P}oster presented at 7th Parseme Meeting, Dubrovnik, {C}roatia},
+  month =	 {Sept 26-27},
+  year =	 2016,
+  url =		 {http://repository.essex.ac.uk/id/eprint/17676}
+}

@@ -1,0 +1,10 @@
+@techreport{ArnoldSadler92adj,
+  author =	 {D.J. Arnold
+		  and Louisa Sadler},
+  year =	 1992,
+  month =	 {April},
+  institution =	 {Department of Language and Linguistics, University of
+                  Essex},
+  title =	 { Noun-Modifying Adjectives in {HPSG} }
+}
+

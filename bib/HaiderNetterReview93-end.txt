@@ -1,0 +1,9 @@
+
+%V 8 
+%N 4
+%A D.J. Arnold
+%T Review of H. Haider and K. Netter (eds) \emphRepresentation and Derivation in the Theory of Grammar (Dordrecht, Kluwer Academic Press, 1993)
+%L HaiderNetterReview93
+%D 1993
+%J Machine Translation
+%P 267-273

@@ -1,0 +1,11 @@
+
+%A D.J. Arnold
+%A Louisa Sadler
+%B Proceedings of the Conference in Language Learning and Business Education
+%E Peter Silcock
+%T Machine Translation 
+%C Barcellona
+%I Escuela Superior de Administracion y Direccion de Empresas
+%L ArnoldSadler:89b
+%D 1989
+%P 141-154

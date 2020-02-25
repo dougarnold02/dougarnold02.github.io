@@ -1,0 +1,13 @@
+
+%T Trace in Eurotra 
+%C Manchester
+%A D.J. Arnold
+%A P.A. Bennett
+%A R.L. Johnson
+%A J. McNaught
+%A H.L. Somers
+%A P.J. Whitelock
+%A Y.A. Wilks
+%I CCL, UMIST
+%D 1982
+%L Arnoldetal82

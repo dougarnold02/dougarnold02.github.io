@@ -1,0 +1,17 @@
+@InProceedings{ArnoldLinTFSG07,
+  author =	 {Doug Arnold
+		  and Evita Linardaki},
+  title =	 { A Data-Oriented Parsing Model for {HPSG} },
+  booktitle =	 {2nd International Workshop on Typed Feature Structure
+                  Grammars ({TFSG'07})},
+  editor =	 {Anders S{\o}gaard and Petter Haugereid},
+  pages =	 {1-9},
+  year =	 2007,
+  publisher =	 {Center for Sprogteknologi, Kobenhavens Universitet,
+                  Working Papers, Report No. 8, ISN1600-339X },
+  address =	 {Tartu, Estonia},
+  month =	 {24-26, May},
+  url =		 {http://cst.dk/anders/publ/tfsg/proceedings07.pdf},
+  annote =	 {ISN 1600-339X}
+}
+

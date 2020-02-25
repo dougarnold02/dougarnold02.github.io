@@ -1,0 +1,10 @@
+@techreport{Balkanetal94a,
+  author =	 {Lorna Balkan and Siety Meijer and Doug Arnold and
+                  Eva Dauphin and Dominique Estival and Kirsten
+                  Falkedal and Sabine Lehmann and Klaus Netter and
+                  Sylvie Regnier--Prost},
+  year =	 1994,
+  institution =	 {TSNLP Project, CL/MT Group, University of Essex},
+  title =	 {Issues in {T}est {S}uite Design}
+}
+

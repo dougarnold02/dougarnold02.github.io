@@ -1,0 +1,35 @@
+@techreport{Balkanetal94b,
+  author =	 {Lorna Balkan
+		  and Siety Meijer
+		  and Doug Arnold
+		  and Dominique Estival
+		  and Kirsten Falkedal
+		  and Sabine Lehmann
+		  and Eva Dauphin
+		  and Klaus Netter
+		  and Sylvie Regnier-Prost
+		  and Stephan Oepen},
+  year =	 1994,
+  institution =	 {TSNLP Project, CL/MT Group, University of Essex},
+  title =	 { {T}est {S}uite Design Annotation Scheme }
+}
+
+@techreport{Balkanetal94a,
+  author =	 {Lorna Balkan and Siety Meijer and Doug Arnold and
+                  Eva Dauphin and Dominique Estival and Kirsten
+                  Falkedal and Sabine Lehmann and Klaus Netter and
+                  Sylvie Regnier--Prost},
+  year =	 1994,
+  institution =	 {TSNLP Project, CL/MT Group, University of Essex},
+  title =	 {Issues in {T}est {S}uite Design}
+}
+
+@article{Balkanetal94,
+  author =	 {Lorna Balkan
+		  and D.J. Arnold
+		  and S. Meijer},
+  year =	 1994,
+  journal =	 {{ASLIB} Conference: Translating and the Computer, 16},
+  title =	 { Test Suites for {N}atural {L}anguage {P}rocessing }
+}
+

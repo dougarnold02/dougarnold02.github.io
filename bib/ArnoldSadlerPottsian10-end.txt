@@ -1,0 +1,11 @@
+
+%A Doug Arnold
+%A Louisa Sadler
+%B Proceedings of the LFG10 Conference, Carleton University, Ottawa 
+%E Miriam Butt and Tracy Holloway King
+%T  Pottsian LFG 
+%C Stanford, Ca.
+%I CSLI Publications
+%P 43-63
+%L ArnoldSadlerPottsian10
+%D 2010

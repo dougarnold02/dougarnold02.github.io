@@ -1,0 +1,11 @@
+
+%C Berlin
+%I Language Science Press
+%B Head-Driven Phrase Structure Grammar: The handbook
+%D 2019
+%A Doug Arnold
+%A Danie\\*`le Godard
+%O Prepublished version
+%T  Relative Clauses in HPSG 
+%E  Stefan Mueller, Anne Abeille\\*' and Jean-Pierre Koenig
+%L 

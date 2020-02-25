@@ -1,0 +1,7 @@
+
+%T  Evaluations of Some MT Systems and Formalisms: Report prepared for Eurolang Project, Task 1, Inventory of Techniques  
+%A D.J. Arnold
+%A Paul Schmidt
+%I Department of Language and Linguistics, University of Essex
+%D 1992
+%L ArnoldSchmidt92

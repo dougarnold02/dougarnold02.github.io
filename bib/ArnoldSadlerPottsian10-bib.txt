@@ -1,0 +1,12 @@
+@InProceedings{ArnoldSadlerPottsian10,
+  author =	 {Doug Arnold and Louisa Sadler},
+  title =	 { {P}ottsian {LFG} },
+  booktitle =	 {Proceedings of the LFG10 Conference, Carleton University, Ottawa },
+  year =	 2010,
+  editor =	 {Miriam Butt and Tracy Holloway King},
+  publisher =	 {CSLI Publications},
+  address =	 {Stanford, Ca.},
+  pages =	 {43-63},
+  url =		 {http://cslipublications.stanford.edu/LFG/15/papers/lfg10arnoldsadler.pdf}
+}
+

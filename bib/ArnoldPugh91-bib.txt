@@ -1,0 +1,11 @@
+@techreport{ArnoldPugh91,
+  author =	 {D.J. Arnold
+		  and Jeanette Pugh},
+  year =	 1991,
+  month =	 {September},
+  institution =	 {Department of Language and Linguistics, University of
+                  Essex},
+  title =	 { {E}urotra-{UK} Final Report (1985-90) and Comprehensive
+                  Bibliography (1983-90) }
+}
+

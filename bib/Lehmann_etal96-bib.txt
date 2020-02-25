@@ -1,0 +1,15 @@
+@inproceedings{Lehmann_etal:96,
+  author    = {Lehmann, Sabine and Stephan Oepen and Sylvie
+               Regnier-Prost and Klaus Netter and
+               Veronika Lux and Judith Klein
+               and Kirsten Falkedal and Frederik Fouvry and
+               Dominique Estival and Eva Dauphin and Herve
+               Compagnion and Judith Baur and Lorna Balkan and Doug Arnold},
+  title     = {{TSNLP} --- {Test} {Suites} for {Natural} {Language} {Processing}},
+  booktitle = {Proceedings of the 16th International Conference on Computational Linguistics ({COLING}-96)},
+  address   = {Center for Sprogteknologi, Copenhagen},
+  volume    = 2,
+  year      = 1996,
+  pages     = {711-716}
+}
+

@@ -1,0 +1,13 @@
+@article{HaiderNetterReview93,
+  author =	 {D.J. Arnold},
+  year =	 1993,
+  journal =	 {Machine Translation},
+  number =	 4,
+  pages =	 {267-273},
+  title =	 {Review of {H. Haider} and {K. Netter} (eds)
+                  \emph{{R}epresentation and {D}erivation in the
+                  {T}heory of {G}rammar} ({D}ordrecht, {K}luwer
+                  {A}cademic {P}ress, 1993)},
+  volume =	 8
+}
+

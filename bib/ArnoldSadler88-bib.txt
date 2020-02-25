@@ -1,0 +1,12 @@
+@incollection{ArnoldSadler:88,
+   author =  {D.J. Arnold and Louisa Sadler},
+   booktitle =  {Recent Developments and
+                 Applications of {Natural} {Language} {Processing}},
+   address =  {London},
+   year    =  1988,
+   editor  =  {Jeremy Peckham},
+   publisher =  {Kogan Page},
+   pages =  {23-55},
+   title =  {{(Non)-Compostionality} and {Translation}}
+}
+

@@ -1,0 +1,13 @@
+@article{Arnold:93a,
+   author  =  {D.J. Arnold},
+   year    =  1993,
+   journal =  {{Machine} {Translation}},
+   number  =  1,
+   pages   =  {247-251},
+   title   =  {Reaction to {Somers}},
+   volume  =  7,
+   note    = {(Current Research in {Machine} {Translation}: contribution to peer
+             group commentary)}
+
+}
+

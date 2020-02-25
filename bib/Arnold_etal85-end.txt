@@ -1,0 +1,15 @@
+
+%B Proceedings of the First International Conference on Theoretical and Methodological Issues in Machine Translation
+%T A Mu-1 View of the CAT Framework in Eurotra 
+%C Colgate University, New York
+%A D.J. Arnold
+%A L. Jaspaert
+%A R.L. Johnson
+%A S. Krauwer
+%A M. Rosner
+%A \0Tombe
+%A G.B. Varile
+%A S. Warwick
+%P 1-14
+%D 1985
+%L Arnold_etal:85

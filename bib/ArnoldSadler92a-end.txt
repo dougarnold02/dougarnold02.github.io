@@ -1,0 +1,10 @@
+
+%A D.J. Arnold
+%A Louisa Sadler
+%B Translating and the Computer 12
+%E Pamela Mayorcas
+%C London
+%T Eurotra: An Assessment of the Current State of the EC's MT Programme 
+%I Aslib
+%L ArnoldSadler92a
+%D 1992

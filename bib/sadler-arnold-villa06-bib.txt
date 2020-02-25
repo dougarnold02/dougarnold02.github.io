@@ -1,0 +1,11 @@
+@InProceedings{sadler-arnold-villa06,
+  author =	 { Louisa Sadler and Doug Arnold and Aline Villavicencio },
+  title =	 { {P}ortuguese: Corpora, Coordination and Agreement },
+  booktitle =	 {Linguistic Evidence: Empirical, Theoretical, and
+                  Computational Perspectives (LingEvid2005) },
+  year =	 2006,
+  address =	 {SFB441, T\"ubingen},
+  month =	 {February},
+  url =		 {http://www.sfb441.uni-tuebingen.de/LingEvid2006/}
+}
+

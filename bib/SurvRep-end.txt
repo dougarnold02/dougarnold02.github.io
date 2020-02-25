@@ -1,0 +1,6 @@
+
+%T  Survey of Formalisms for Machine Translation 
+%A D.J. Arnold
+%I Department of Language and Linguistics, University of Essex 
+%D 1990
+%L SurvRep

@@ -1,0 +1,14 @@
+/* This style sheet is for CL papers ... */
+/* For more information, see             */
+/*http://www.hwg.org/resources/faqs/     */
+/*http://www.htmlhelp.com/reference/css/   */
+
+BODY {   background-color: white; color: black; font-family: arial, sans-serif }
+TABLE { font-family: arial, sans-serif }
+P { font-family: arial, sans-serif }
+H1 { text-align: center; font-weight: bold; font-size: 24pt }
+H2 { text-align: center; font-weight: bold; font-size: 16pt }
+/* A:link { color: blue; font-weight: bold; text-decoration: underline }   */
+/* A:hover { color: blue; font-weight: bold; text-decoration: underline }  */
+/* A:active { color: blue; font-weight: bold; text-decoration: underline } */
+/* A:visited { color: red; font-weight: bold; text-decoration: underline } */

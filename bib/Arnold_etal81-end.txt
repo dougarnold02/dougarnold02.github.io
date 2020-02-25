@@ -1,0 +1,13 @@
+
+%T An Investigation of 3rd and 4th level labels in Eurotra 
+%C Manchester
+%A D.J. Arnold
+%A R.L. Johnson
+%A G.C. Keil
+%A F.E. Knowles
+%A J. McNaught
+%A H.L. Somers
+%A Y.A. Wilks
+%I CCL, UMIST
+%D 1981
+%L Arnold_etal81

@@ -1,0 +1,8 @@
+
+%T Tools and techniques for Machine Translation teaching: a survey
+%A Lorna Balkan
+%A Doug Arnold
+%A Louisa Sadler
+%D 1997, url http://www.essex.ac.uk/linguistics/clmt/group/projects/MTforTeaching/ 
+%I CL/MT Group, University of Essex
+%L MTSurvey97

@@ -1,0 +1,11 @@
+@article{Balkanetal95c,
+  author =	 {Lorna Balkan and Klaus Netter and Doug Arnold and
+                  Siety Meijer},
+  address =	 {Paris, 6-7 July 1994},
+  year =	 1994,
+  journal =	 {Language Engineering Convention --- Journees du genie
+                  linguistique},
+  title =	 {{TSNLP}: {T}est {S}uites for {N}atural {L}anguage
+                  {P}rocessing}
+}
+

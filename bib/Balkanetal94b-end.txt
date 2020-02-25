@@ -1,0 +1,15 @@
+
+%T  Test Suite Design Annotation Scheme  
+%A Lorna Balkan
+%A Siety Meijer
+%A Doug Arnold
+%A Dominique Estival
+%A Kirsten Falkedal
+%A Sabine Lehmann
+%A Eva Dauphin
+%A Klaus Netter
+%A Sylvie Regnier-Prost
+%A Stephan Oepen
+%I TSNLP Project, CL/MT Group, University of Essex
+%D 1994
+%L Balkanetal94b

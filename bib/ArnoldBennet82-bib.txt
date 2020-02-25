@@ -1,0 +1,8 @@
+@techreport{ArnoldBennet82,
+  author =	 {D.J. Arnold
+		  and P.A. Bennett},
+  year =	 1982,
+  institution =	 {Cognitive Studies Centre, University of Essex},
+  title =	 { {REST}: an overview and guide }
+}
+

@@ -1,0 +1,11 @@
+
+%A D.J. Arnold
+%A \0Tombe
+%B Machine Translation: Theoretical and Methodological Issues
+%E Sergei Nirenberg
+%T Basic theory and methodology in Eurotra 
+%C Cambridge
+%I Cambridge University Press
+%L ArnoldTombe:87
+%D 1987
+%P 114-135

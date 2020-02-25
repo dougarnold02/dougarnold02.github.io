@@ -1,0 +1,12 @@
+
+%V 8
+%N 1-2
+%A D.J. Arnold
+%A Dave Moffat
+%A Louisa Sadler
+%A Andy Way
+%T Automatic Test Suite Generation
+%L Arnold_etal:93b
+%D 1993
+%J Machine Translation
+%P 29-38

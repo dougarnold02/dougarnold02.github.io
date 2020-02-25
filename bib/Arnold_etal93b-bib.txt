@@ -1,0 +1,13 @@
+@article{Arnold_etal:93b,
+   author =  {D.J. Arnold and Dave Moffat and Louisa Sadler and Andy Way},
+   year =  1993,
+   journal =  {{Machine} {Translation}},
+   number =  {1-2},
+   pages =  {29-38},
+   title =  {Automatic Test Suite Generation},
+   volume =  8,
+   annote   = {(Working Papers in Language Processing 27,
+             Department of Language and Linguistics, University of Essex
+             September 1991)}
+}
+

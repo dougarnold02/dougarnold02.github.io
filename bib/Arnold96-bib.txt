@@ -1,0 +1,13 @@
+@article{Arnold96,
+  author =	 {D.J. Arnold},
+  title =	 { Parameterizing {Lexical} {Conceptual} {Structure} for {Interlingual}
+                  {Machine} {Translation}. {A} {R}eview of ``{M}achine {T}ranslation; {A}
+                  {V}iew from the {L}exicon'' by {B}onnie {J}ean {D}orr },
+  journal =	 {Machine Translation},
+  year =	 1996,
+  volume =	 11,
+  number =	 3,
+  pages =	 {217-241},
+  note =	 {ISSN 0922-6567}
+}
+

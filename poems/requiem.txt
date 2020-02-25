@@ -1,0 +1,241 @@
+;; This buffer is for notes you don't want to save, and for Lisp evaluation.
+;; If you want to create a file, visit that file with C-x C-f,
+;; then enter the text in that file's own buffer.
+
+Pie Jesu
+
+Pie Jesu Domine
+Dona eis requiem
+Dona eis requiem
+
+Pie Jesu Domine
+dona eis requiem
+dona eis requiem
+
+Dona eis Domine
+dona eis requiem
+sempiternam requiem
+sempiternam requiem
+sempiternam requiem
+
+Pie Jesu Jesu
+Pie Jesu domine
+dona eis dona eis
+sempiternam requiem
+sempiternam requiem
+
+Our 'kitchen sink' translation into English is: Lord Jesus, we dutifully come now to
+offer ourselves at thy altar. Come now Lord, bring us to rest in thy temple of
+everlasting repose. Classical scholars please assist us here.
+
+We would like to dedicate this page to all military and civilian victims of war.
+
+
+
+Requiem
+1. Introit
+
+Requiem aeternam dona eis, Domine. 
+et lux perpetua luceat eis. 
+Te decet hymnus Deus, in Sion, 
+et tibi reddetur votum in Jerusalem. 
+exaudi orationem meam, ad te omnis caro veniet. 
+2. Kyrie
+
+Kyrie eleison. Christe eleison. Kyrie eleison.
+
+3. Gradual
+
+Requiem aeternam dona eis Domine. 
+et lux perpetua luceat eis. 
+In memoria aeterna erit justus. 
+ab auditione mala non timebit. 
+4. Tract
+
+Absolve Domine, anima omnium fidelium defunctorum. 
+ab omni vinculo delictorum. 
+Et gratia tua illis succurrente, 
+mereantur evadere judicium ultionis. 
+Et lucis aeternae beatitudine perfrui. 
+5. Sequence
+
+Dies irae, dies illa, Solvet saeclum in vavilla: 
+Teste David cum Sibylla. 
+
+
+Quantus tremor est futurus, Quando judex est venturus, 
+Cuncta stricte discussurus! 
+
+
+Tuba mirum spargens sonum, Per sepulcra regionum, 
+Coget omnes ante thronum. 
+
+
+Mors stupebit et natura, 
+Cum resurget creatura, Judicanti responsura. 
+
+
+Liber scriptus proferetur, 
+In quo totum continetur, Unde mundus judicetur. 
+
+
+Judex ergo cum sedebit, Quidquid latet, apparebit: 
+Nil inultum remanebit. 
+
+
+Quid sum miser tunc dicturus? Quem patronum rogaturus? 
+Cum vix justus sit securus. 
+
+
+Rex tremendae majestatis, Qui salvandos salvas gratis, 
+Salva me, fons pietatis. 
+
+
+Recordare Jesu pie, Quod sum causa tuae viae, 
+Ne me perdas illa die. 
+
+
+Quaerens me, sedisti lassus, Redemisti crucem passus, 
+Tantus labor non sit cassus. 
+
+
+Juste judex ultionis, Donum fac remissionis, 
+Ante diem rationis. 
+
+
+Ingemisco, tamquam reus, Culpa rubet vultus meus, 
+Supplicanti parce Deus. 
+
+
+Qui Mariam absolvisti, Et latronem exaudisti, 
+Mihi quoque spem dedisti. 
+
+
+Preces meae non sunt dignae: Sed tu bonus fac benigne, 
+Ne perenni cremer igne. 
+
+
+Inter oves locum praesta, Et ab haedis me sequestra, 
+Statuens in parte dextra. 
+
+
+Confutatis maledictis, Flammis acribus addictis: 
+Voca me cum benedictis. 
+
+
+Oro supplex et acclinis, Cor contritum quasi cinis: 
+Gere curam mei finis. 
+
+
+Lacrimosa dies illa, Qua resurget ex favilla 
+Judicantus homo reus: Huic ergo parce Deus. 
+
+
+Pie Jesu Domine. Dona eis requiem. Amen 
+;; ---------------------------------------------------------- 
+Duruflé, Requiem, Op.9 
+
+    I. Introit 
+
+Requiem aeternam dona eis, Domine;     Grant them eternal rest, O Lord; 
+et lux perpetua luceat eis;            and may perpetual light shine upon them. 
+Te decet hymnus, Deus, in Sion,        A hymn in Zion befits you, O God, 
+et tibi reddetur votum in Jerusalem.   and a debt will be paid to you in Jerusalem. 
+Exaudi orationem meam:                 Hear my prayer: that all 
+ad te omnis caro veniet.               earthly flesh will come to you. 
+  
+
+    II. Kyrie 
+
+Kyrie eleison.                         Lord, have mercy upon us. 
+Christe eleison.                       Christ, have mercy upon us. 
+Kyrie eleison.                         Lord, have mercy upon us. 
+  
+
+    III. Domine Jesu Christe 
+
+Domine Jesu Christe, Rex  gloriae:     O Lord Jesus Christ, King of Glory: 
+libera animas omnium fidelum           deliver the souls of all the faithful dead 
+defunctorum de poenis inferni et       from the pains of hell and from the 
+profondo lacu.                         deep pit. 
+Libera eas de ore leonis;              Deliver them from the mouth of the lion; 
+ne absorbeat eas tartarus,             that hell may not swallow them, and 
+ne cadant in obscurum.                 that they may not fall into darkness. 
+Sed signifer sanctus Michael           But may the holy standard-bearer Michael 
+repraesentet eas in lucem sanctam      show them that holy light 
+quam olim Abrahæ promisisti et         which you once promised to Abraham 
+semini ejus.                           and his descendents. 
+Hostias et preces tibi, Domine,        We offer to you, O Lord, sacrifices and 
+laudis offerimus.  Tu suscipe pro      prayers. Receive them on behalf of 
+animabus illis, quarum hodie           those souls whom we commemorate 
+memoriam facimus.  Fac eas,            today.  Grant, O Lord, that they 
+Domine, de morte transire ad           might pass from death into that 
+vitam, quam olim Abrahae               life which you once promised to 
+promisisti et semini ejus.             Abraham and his descendents. 
+  
+
+    IV. Sanctus 
+
+Sanctus, sanctus, sanctus, Dominus     Holy, holy, holy, Lord God of Sabaoth. 
+Deus Sabaoth.  Pleni sunt coeli et     Heaven and earth are filled with 
+terra gloria tua.                      your glory. 
+Hosanna in excelsis!                   Hosanna in the highest! 
+Benedictus qui venit in nomini         Blessed is he that comes in the name 
+Domini.  Hosanna in excelsis!          of the Lord.  Hosanna in the highest! 
+  
+
+    V. Pie Jesu 
+
+Pie Jesu Domine:                       Merciful Lord Jesus: 
+dona eis requiem sempiternam.          grant them everlasting peace. 
+  
+
+    VI. Agnus Dei 
+
+Agnus Dei, qui tollis peccata mundi:   Lamb of God, who takes away the sins of 
+dona eis requiem.                      the world, grant them rest. 
+Agnus Dei, qui tollis peccata mundi:   Lamb of God, who takes away the sins of 
+dona eis requiem.                      the world, grant them rest. 
+Agnus Dei, qui tollis peccata mundi:   Lamb of God, who takes away the sins of 
+dona eis requiem sempiternam.          world, grant them rest everlasting. 
+  
+
+    VII. Lux aeterna 
+
+Lux aeterna luceat eis, Domine,        Let eternal light shine upon them, O Lord, 
+cum sanctis tuis in aeternam;          with your saints forever; 
+quia pius es.                          for you are merciful. 
+Requiem aeternam dona eis, Domine,     Grant them eternal rest, O Lord, 
+et lux perpetua luceat eis.            and let everlasting light shine upon them. 
+  
+
+    VIII.  Libera me 
+
+Libera me, Domine, de morte aeterna,   Deliver me, O Lord, from death eternal, 
+in die illa tremenda:                  on that terrifying day: 
+quando coeli movendi sunt et terra     when heaven and earth shall shake, 
+dum veneris judicare saeculum          when you come to judge the earth 
+per ignem.                             by fire. 
+Tremens factus sum ego et timeo,       I tremble and fear, 
+dum discussio venerit,                 until judgement shall come, 
+atque ventura ira.                     and also the coming wrath. 
+Dies illa, dies irae,                  On that day, day of wrath, 
+calamitis et miseriae,                 calamity, and misery, 
+dies magna et amara valde              that momentous and exceedingly bitter day, 
+dum veneris judicare saeculum          when you come to judge the earth 
+per ignem:                             by fire: 
+requiem æternam dona eis, Domine,      grant them eternal rest, O Lord, 
+et lux perpetua luceat eis.            and may perpetual light shine upon them. 
+  
+
+    IX. In Paradisum 
+
+In Paradisum deducant te Angeli;       May the Angels lead you into Paradise; 
+in tuo adventu suscipiant te           may the Martyrs welcome you 
+Martyres, et perducant te              on your arrival, and guide you 
+in civitatem sanctam Jerusalem.        into the holy city of Jerusalem. 
+Chorus Angelorum te suscipiat,         May a choir of Angels welcome you, 
+et cum Lazaro quondam paupere,         and as with Lazarus, who was once poor, 
+aeternam habeas requiem.               may you have eternal rest. 
+
+  

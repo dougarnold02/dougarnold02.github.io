@@ -1,0 +1,14 @@
+@InProceedings{Arnold99c,
+  author =	 {Doug Arnold},
+  title =	 {Web Access to Corpora: the {W3Corpora} Project},
+  booktitle =	 {Proc European Conference of the Association for
+                  Computational Linguistics (EACL'99) Workshop on
+                  Computer and Internet Supported Education in
+                  Language and Speech Technology},
+  year =	 1999,
+  address =	 {University of Bergen, Norway},
+  month =	 {June},
+  note =	 {6 pages},
+  organization = {European Association for Computational Linguistics}
+}
+

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+     xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+     xmlns:georss="http://www.georss.org/georss"
+     xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+     xmlns:media="http://search.yahoo.com/mrss/"><channel>
+  <title></title>
+  <atom:link href="./PreviewKeyboardShortCuts.xml" rel="self" type="application/rss+xml" />
+  <link></link>
+  <description><![CDATA[]]></description>
+  <language>en</language>
+  <pubDate>Sat, 01 Oct 2016 15:39:43 +0100</pubDate>
+  <lastBuildDate>Sat, 01 Oct 2016 15:39:43 +0100</lastBuildDate>
+  <generator>Emacs 24.4 Org-mode 8.2.10</generator>
+  <webMaster>doug@essex.ac.uk (nil)</webMaster>
+  <image>
+    <url>http:./PreviewShortCuts.png</url>
+    <title></title>
+    <link></link>
+  </image>
+
+
+  <item>
+    <title>Preview Short Cuts</title>
+    <link>./PreviewKeyboardShortCuts.html#sec-1</link>
+    <guid isPermaLink="false">./PreviewKeyboardShortCuts.html#sec-1</guid>
+    <pubDate>Sat, 01 Oct 2016 15:12:00 +0100</pubDate>
+
+    <description><![CDATA[<table border="1" cellspacing="0" cellpadding="2" rules="all" frame="border">
+
+
+    <colgroup>
+    <col  class="left" />
+
+    <col  class="left" />
+
+    <col  class="left" />
+    </colgroup>
+    <tbody>
+    <tr>
+    <td class="left">Highlight Text</td>
+    <td class="left">CTRL-CMD-</td>
+    <td class="left">H</td>
+    </tr>
+
+    <tr>
+    <td class="left">Underline Text</td>
+    <td class="left">CTRL-CMD-</td>
+    <td class="left">U</td>
+    </tr>
+
+    <tr>
+    <td class="left">Strike Thru Text</td>
+    <td class="left">CTRL-CMD-</td>
+    <td class="left">S</td>
+    </tr>
+
+    <tr>
+    <td class="left">Rectangle</td>
+    <td class="left">CTRL-CMD-</td>
+    <td class="left">R</td>
+    </tr>
+
+    <tr>
+    <td class="left">Oval</td>
+    <td class="left">CTRL-CMD-</td>
+    <td class="left">O</td>
+    </tr>
+
+    <tr>
+    <td class="left">Line</td>
+    <td class="left">CTRL-CMD-</td>
+    <td class="left">(vert bar)</td>
+    </tr>
+
+    <tr>
+    <td class="left">Text</td>
+    <td class="left">CTRL-CMD-</td>
+    <td class="left">T</td>
+    </tr>
+
+    <tr>
+    <td class="left">Note</td>
+    <td class="left">CTRL-CMD-</td>
+    <td class="left">N</td>
+    </tr>
+    </tbody>
+    </table>
+    ]]></description>
+  </item>
+</channel>
+</rss>

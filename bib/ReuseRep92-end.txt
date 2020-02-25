@@ -1,0 +1,15 @@
+
+%E S. Markantonatou and L. Sadler
+%T Reusability of Grammatical Resources and Grammar Development in ALEP 
+%A D.Arnold
+%A T.Badia
+%A h\0Genabith
+%A D.Kohl
+%A S.Markantonatou
+%A S.Momma
+%A S.Pulman
+%A L.Sadler
+%A P.Schmidt
+%I Commission of the European Communities
+%D 1992
+%L ReuseRep92

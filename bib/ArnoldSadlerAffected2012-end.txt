@@ -1,0 +1,11 @@
+
+%A Doug Arnold
+%A Louisa Sadler
+%B Proceedings of the LFG12 Conference, Udayana University, Bali
+%E Miriam Butt and Tracy Holloway King
+%T  Affected experiencers and mixed semantics in LFG/Glue
+%C Stanford, Ca.
+%I CSLI Publications
+%P 44-63
+%L ArnoldSadlerAffected2012
+%D 2012

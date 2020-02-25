@@ -1,0 +1,9 @@
+
+%T The Construction of Test Material 
+%A Lorna Balkan
+%A Doug Arnold
+%A Frederik Fouvry
+%A et al
+%I TSNLP Project, CL/MT Group, University of Essex
+%D 1995
+%L Balkanetal95a

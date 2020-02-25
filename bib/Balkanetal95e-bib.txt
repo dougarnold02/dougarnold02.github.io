@@ -1,0 +1,9 @@
+@article{Balkanetal95e,
+  author =	 {Lorna Balkan and Doug Arnold and Frederik Fouvry},
+  address =	 {London, 16-18 October 1995},
+  year =	 1995,
+  journal =	 {Second Language Engineering Convention},
+  title =	 {Test Suites for Evaluation in {N}atural {L}anguage
+                  {E}ngineering}
+}
+

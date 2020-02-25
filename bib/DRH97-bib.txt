@@ -1,0 +1,12 @@
+@inproceedings{DRH97,
+  author    = {D.J. Arnold},
+  title     = {{WWW-IGE}: {W}orld {W}ide {W}eb Access to {C}orpora
+               and the {I}nternet {G}rammar of {E}nglish},
+  booktitle = {Proceedings of {DRH}-97 ({D}igital {R}esources in the {H}umanities)},
+  address   = {St. Anne's College Oxford},
+  month     = {Sept},
+  pages     = {711-716},
+  year      = 1997,
+  annote      = {(abstract: http://users.ox.ac.uk/\~talc98/arnold.htm)}
+}
+

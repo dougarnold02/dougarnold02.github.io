@@ -1,0 +1,12 @@
+@techreport{LS1,
+  author =	 {D.J. Arnold
+		  and L. Jaspaert
+		  and L. des~Tombe},
+  address =	 {Luxembourg},
+  year =	 1983,
+  month =	 {August},
+  institution =	 {DGXIII, CEC},
+  title =	 { Preliminary linguistic specifications for {E}urotra,
+                  version 1 ({LS-1}) }
+}
+

@@ -1,0 +1,10 @@
+@techreport{non-comp-trans,
+  author =	 {D.J. Arnold
+		  and Louisa Sadler},
+  year =	 1987,
+  month =	 {Nov},
+  institution =	 {Department of Language and Linguistics, University of
+                  Essex},
+  title =	 { Non-compositionality and translation }
+}
+

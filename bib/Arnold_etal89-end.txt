@@ -1,0 +1,11 @@
+
+%A D.J. Arnold
+%A Martin Atkinson
+%A Jacques Durand
+%A Claire Grover
+%A Louisa Sadler
+%T Essays on Grammatical Theory and Universal Grammar 
+%C Oxford
+%I Oxford University Press
+%D 1989
+%L Arnold_etal:89

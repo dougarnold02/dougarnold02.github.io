@@ -1,0 +1,11 @@
+@TechReport{MTSurvey97,
+  author =	 {Lorna Balkan and Doug Arnold and Louisa Sadler},
+  title =	 {Tools and techniques for {Machine} {Translation}
+                  teaching: a survey},
+  institution =	 {CL/MT Group, University of Essex},
+  month =	 {April},
+  year =	 1997,
+  url =
+                  {http://www.essex.ac.uk/linguistics/clmt/group/projects/MTforTeaching/}
+}
+

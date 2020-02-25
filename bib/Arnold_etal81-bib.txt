@@ -1,0 +1,11 @@
+@techreport{Arnold_etal81,
+  author =	 {D.J. Arnold and R.L. Johnson and G.C. Keil and
+                  F.E. Knowles and J. McNaught and H.L. Somers and
+                  Y.A. Wilks},
+  address =	 {Manchester},
+  year =	 1981,
+  institution =	 {{CCL}, {UMIST}},
+  title =	 {An Investigation of 3rd and 4th level labels in
+                  {E}urotra}
+}
+

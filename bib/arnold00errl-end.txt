@@ -1,0 +1,11 @@
+
+%V 32
+%A Doug Arnold
+%B Essex Research Reports in Linguistics
+%E Harald Clahsen
+%C University of Essex
+%T Corpus Access for Beginners: the W3Corpora Project
+%I Department of Language and Linguistics
+%L arnold00errl
+%P 55-102
+%D 2000

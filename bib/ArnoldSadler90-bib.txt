@@ -1,0 +1,9 @@
+@article{ArnoldSadler:90,
+   author =  {D.J. Arnold and L. Sadler},
+   year =  1990,
+   journal =  {{Machine} {Translation}},
+   pages =  {195-222},
+   title =  {The Theoretical Basis of {MiMo}},
+   volume =  5
+}
+

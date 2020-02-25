@@ -1,0 +1,9 @@
+
+%T Test Suites for Evaluation in Natural Language Engineering 
+%C London, 16-18 October 1995
+%A Lorna Balkan
+%A Doug Arnold
+%A Frederik Fouvry
+%J Second Language Engineering Convention
+%D 1995
+%L Balkanetal95e

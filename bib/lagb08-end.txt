@@ -1,0 +1,6 @@
+%T  Non-nominal \emphwhich Relatives 
+%A Doug Arnold
+%A Robert D Borsley
+%D 2009, url http://www.essex.ac.uk/linguistics/research/resgroups/clgroup/papers/doug/lagb09.pdf 
+%O Paper presented at the Annual Meeting of the Linguistics Association of Great Britain, University of Edinburgh
+%L arnold:lagb09

@@ -1,0 +1,11 @@
+
+%A Louisa Sadler
+%A Ian Crookston
+%A D.J. Arnold
+%A Andy Way
+%O (Page numbers not integrated)
+%B Third International Conference on Theoretical and Methodological Issues in Machine Translation 11-13 June 1990
+%C Linguistics Research Center, Austin, Texas
+%T LFG and Translation
+%L Sadler_etal:90
+%D 1990

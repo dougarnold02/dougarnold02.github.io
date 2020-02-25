@@ -1,0 +1,11 @@
+
+%L ArnoldBorsley2010
+%T Auxiliary-Stranding Relative Clauses
+%I CSLI Publications
+%B Proceedings of the 17th International Conference on Head-Driven Phrase Structure Grammar, Paris University Paris Diderot, France
+%D 2010 
+%A Doug Arnold
+%A Robert D. Borsley
+%P 47-67
+%E Stefan Mueller
+%C Stanford

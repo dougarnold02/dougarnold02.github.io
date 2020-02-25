@@ -1,0 +1,21 @@
+
+%A D.J. Arnold
+%A Peter Lau
+%A e\0Tombe
+%A Hanne Ruus
+%B Eurotra Reference Manual 1.2.
+%E Steven Krauwer and Maggie King
+%T  Chapter IV: Eurotra Mu-1  
+%I RUU, Utrecht, and DGXIII, CEC, Luxembourg
+%L RM1-2
+%D 1986
+%P 55-129
+
+%A D.J. Arnold
+%B Eurotra Reference Manual 1.0. (January), 1.1 (July)
+%E Steven Krauwer and Maggie King
+%T Chapter II: Eurotra Mu-3, Basic Principles 
+%I RUU, Utrecht, and DGXIII, CEC, Luxembourg
+%P 8-20
+%D 1986
+%L RM1

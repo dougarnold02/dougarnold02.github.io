@@ -1,0 +1,12 @@
+
+%B Proceedings of the Third Conference of the European Chapter of the Association for Computational Linguistics (EACL-3)
+%T A Model for Preference 
+%C Copenhagen
+%A D. Petitpierre
+%A S. Krauwer
+%A \0Tombe
+%A D.J. Arnold
+%A G.B. Varile
+%P 134-139
+%D 1987
+%L Petitpierre_etal:87

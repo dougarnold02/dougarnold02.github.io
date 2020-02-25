@@ -1,0 +1,14 @@
+@incollection{RM2,
+  author =	 {D.J. Arnold
+		  and Louis des~Tombe
+		  and Steven Krauwer
+		  and Nino Varile},
+  booktitle =	 {{E}urotra Reference Manual 2.0. (October 1986), 3.0
+                  (February 1987)},
+  year =	 1987,
+  editor =	 {Steven Krauwer and Maggie King},
+  publisher =	 {RUU, Utrecht, and DGXIII, CEC, Luxembourg},
+  pages =	 {23-71},
+  title =	 { Chapter {III}: {E}urotra {Mu-2} }
+}
+

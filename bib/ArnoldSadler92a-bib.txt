@@ -1,0 +1,11 @@
+@incollection{ArnoldSadler92a,
+   author    =  {D.J. Arnold and Louisa Sadler},
+   booktitle =  {Translating and the Computer 12},
+   address   =  {London},
+   year      =  1992,
+   editor    =  {Pamela Mayorcas},
+   publisher =  {Aslib},
+   title     =  {{Eurotra}: An Assessment of the Current State of the
+                 {EC}'s {MT} Programme}
+}
+

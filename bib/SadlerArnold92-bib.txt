@@ -1,0 +1,24 @@
+@inproceedings{SadlerArnold:92c,
+   author  =  {Louisa Sadler and D.J. Arnold},
+   address =  {Nantes, France},
+   year    =  1992,
+   booktitle =  {Proceedings of the 15th International Conference on
+               Computational Linguistics, volume II},
+   pages   =  {728-734},
+   title   =  {A Constraint-Based Approach to Translating Anaphoric
+                  Dependencies},
+   annote    = {(Working Papers in Language Processing 29
+              Department of Language and Linguistics, University of Essex
+              October 1991)}
+}
+
+@article{SadlerArnold:92,
+   author  =  {Louisa Sadler and D.J. Arnold},
+   year    =  1992,
+   journal =  {{META}},
+   number  =  4,
+   pages   =  {657-680},
+   title   =  {Unification and {Machine} {Translation}},
+   volume  =  37
+}
+

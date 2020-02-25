@@ -1,0 +1,35 @@
+/* This is a CSS style sheet that ... */
+/* centres headings, and uses a nice font */
+/* For more information, see             */
+/*http://www.hwg.org/resources/faqs/     */
+/*http://www.htmlhelp.com/reference/css/   */
+
+BODY  { /* background: url(http://privatewww.essex.ac.uk/~doug/img/background.gif); */
+        background-color: white; color: black; 
+        font-family: arial, sans-serif    
+      }
+TABLE { font-family: arial, sans-serif }
+P     { font-family: arial, sans-serif }
+H1    { text-align: center; font-weight: bold; color:purple; font-size: 24pt }
+H2    { text-align: center; font-weight: bold; font-size: 18pt }
+
+/* this is for things like exercises, which are produced in DIVs           */
+/* by hyperlatex (from `newtheorems', and otherwise sometimes get centered */
+/*DIV   { text-align: left; }*/
+
+/* I   {background-color: rgb(204,204,204); font-size:16pt} */
+
+
+/* A:link    { color: blue; font-weight: bold; text-decoration: underline } */
+/* A:hover   { color: blue; font-weight: bold; text-decoration: underline } */
+A:link:hover { color: green; text-decoration: underline }  
+/* A:active  { color: blue; font-weight: bold; text-decoration: underline } */
+/* A:visited { color: red; font-weight: bold; text-decoration: underline  } */
+
+/* LI { list-style-type: square ; color: green } */
+
+/* This is an experiment -- 2col_leftNav looked nice */
+/***********************************************/
+/* 2col_leftNav.css                            */
+/* Use with template 2col_leftNav.html          */
+/***********************************************/

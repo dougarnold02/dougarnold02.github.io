@@ -1,0 +1,11 @@
+@techreport{PreNomAdj94,
+  author =	 {D.J. Arnold
+		  and Louisa Sadler},
+  year =	 1994,
+  month =	 {December},
+  institution =	 {Department of Language and Linguistics, University of
+                  Essex},
+  title =	 { Prenominal adjectives and the phrasal/lexical
+                  distinction }
+}
+

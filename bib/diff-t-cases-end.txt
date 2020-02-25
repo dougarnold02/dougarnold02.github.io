@@ -1,0 +1,6 @@
+
+%T  Difficult T-cases in version 3.0 
+%A D.J. Arnold
+%I Department of Language and Linguistics, University of Essex 
+%D 1987
+%L diff-t-cases

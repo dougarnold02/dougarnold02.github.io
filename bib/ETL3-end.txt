@@ -1,0 +1,9 @@
+
+%T  Preliminary linguistic specifications for Eurotra, version 2 (ETL-3)  
+%C Luxembourg
+%A D.J. Arnold
+%A L. Jaspaert
+%A }\0Tombe
+%I DGXIII, CEC
+%D 1984
+%L ETL3

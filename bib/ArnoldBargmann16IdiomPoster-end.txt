@@ -1,0 +1,7 @@
+
+%D 2016
+%L ArnoldBargmann16IdiomPoster
+%A Doug Arnold
+%A Sascha Bargmann 
+%N Poster presented at 7th Parseme Meeting, Dubrovnik, Croatia
+%T  Idiom Licensing in Non-restrictive Relative Clauses 

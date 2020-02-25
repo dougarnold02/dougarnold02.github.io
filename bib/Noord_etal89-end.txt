@@ -1,0 +1,13 @@
+
+%B Proceedings of the Fourth Conference of the European Chapter of the Association for Computational Linguistics (EACL-5)
+%T An Approach to Sentence-Level Anaphora in Machine Translation 
+%C Manchester
+%A \0Noord
+%A J. Dorrepaal
+%A D.J. Arnold
+%A S. Krauwer
+%A L. Sadler
+%A \0Tombe
+%P 299-307
+%D 1989
+%L Noord_etal:89

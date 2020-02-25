@@ -1,0 +1,14 @@
+
+%T Issues in Test Suite Design 
+%A Lorna Balkan
+%A Siety Meijer
+%A Doug Arnold
+%A Eva Dauphin
+%A Dominique Estival
+%A Kirsten Falkedal
+%A Sabine Lehmann
+%A Klaus Netter
+%A Sylvie Regnier--Prost
+%I TSNLP Project, CL/MT Group, University of Essex
+%D 1994
+%L Balkanetal94a

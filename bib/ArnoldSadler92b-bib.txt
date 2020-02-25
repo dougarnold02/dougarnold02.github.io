@@ -1,0 +1,14 @@
+@inproceedings{ArnoldSadler:92b,
+   author =   {D.J. Arnold and Louisa Sadler},
+   address =  {Montreal, Canada},
+   year =     1992,
+   booktitle =  {Proceedings of the Fourth International Conference on
+              Theoretical and Methodological Issues in {Machine} {Translation}},
+   pages =    {195-204},
+   title =    {Rationalism and the Treatment of Referential
+                  Dependencies},
+   annote  =  {(Working Papers in Language Processing 36,
+             Department of Language and Linguistics,
+             University of Essex, May, 1992)}
+}
+

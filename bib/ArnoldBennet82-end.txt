@@ -1,0 +1,7 @@
+
+%T  REST: an overview and guide  
+%A D.J. Arnold
+%A P.A. Bennett
+%I Cognitive Studies Centre, University of Essex
+%D 1982
+%L ArnoldBennet82

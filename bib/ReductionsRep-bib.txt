@@ -1,0 +1,10 @@
+@techreport{ReductionsRep,
+  author =	 {D.J. Arnold and Josef van~Genabith and Steve Pulman
+                  and Paul Schmidt and Louisa Sadler},
+  year =	 1992,
+  editor =	 {Louisa Sadler},
+  title =	 {Study in Reductions between Formalisms},
+  institution =	 {Department of Language and Linguistics, University
+                  of Essex}
+}
+

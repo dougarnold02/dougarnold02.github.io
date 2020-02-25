@@ -1,0 +1,6 @@
+includefiles := poems.tex misc-.tex lawrence-.tex fenton-.tex donne-.tex yeats-.tex neruda-.tex auden-.tex masefield-.tex houseman-.tex stopping_by_woods-.tex rexroth-.tex matthew_arnold-.tex $(includefiles)
+# This file is used by the local Makefile to
+# work out the dependencies of the main LaTeX file.
+# It adds to the variable includefiles, which is used in the Makefile.
+# It is *NOT* automatically updated when the main  .tex file changes.
+# To update it, remove it, and remake it.

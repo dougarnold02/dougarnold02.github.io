@@ -1,0 +1,15 @@
+@incollection{ Arnold06Head,
+  author =	 {D.J. Arnold},
+  title =	 { Head Feature Principle and Feature Distribution
+                  Constraints },
+  year =	 2006,
+  volume =	 5,
+  booktitle =	 {Encyclopedia of Language and Linguistics, 2nd ed},
+  editor =	 {Keith Brown},
+  publisher =	 {Elsevier},
+  pages =	 {230-234},
+  address =	 {Oxford},
+  articleno =	 1968,
+  note =	 {ISBN 0-08-044299-4}
+}
+

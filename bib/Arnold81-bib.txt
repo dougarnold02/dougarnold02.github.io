@@ -1,0 +1,11 @@
+@article{Arnold81,
+  author =	 {D.J. Arnold},
+  year =	 1981,
+  journal =	 {Incorporated Linguist},
+  number =	 3,
+  title =	 {Review of \emph{Speech Act Classification} by
+                  {Th}. {Ballmer} and {W.} {Brennenstuhl}, {S}pringer
+                  {V}erlag, {Berlin}, 1981},
+  volume =	 20
+}
+

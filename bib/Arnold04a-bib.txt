@@ -1,0 +1,17 @@
+@InProceedings{Arnold04a,
+  author =	 {D.J. Arnold},
+  title =	 { {Non-Restrictive} Relative Clauses in Construction Based
+                  {HPSG} },
+  booktitle =	 {Proceedings of the 11th International Conference on
+                  Head-Driven Phrase Structure Grammar },
+  editor =	 {Stefan M\"{u}ller},
+  address =	 {Stanford},
+  publisher =	 {CSLI Publications},
+  url =		 {http://cslipublications.stanford.edu/HPSG/5/arnold.pdf},
+  pages =	 {27-47},
+  year =	 2004,
+  annote =	 {ISSN 1535-1793},
+  other =	 {Center for Computational Linguistics, Katholieke
+                  Universiteit Leuven}
+}
+

@@ -1,0 +1,14 @@
+@incollection{RM1-2,
+  author =	 {D.J. Arnold
+		  and Peter Lau
+		  and Louis des~Tombe
+		  and Hanne Ruus},
+  booktitle =	 {{E}urotra Reference Manual 1.2.},
+  year =	 1986,
+  month =	 {July},
+  editor =	 {Steven Krauwer and Maggie King},
+  publisher =	 {RUU, Utrecht, and DGXIII, CEC, Luxembourg},
+  pages =	 {55-129},
+  title =	 { Chapter {IV}: {E}urotra {Mu-1} }
+}
+

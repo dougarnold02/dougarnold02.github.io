@@ -1,0 +1,7 @@
+
+%T  Eurotra-UK Final Report (1985-90) and Comprehensive Bibliography (1983-90)  
+%A D.J. Arnold
+%A Jeanette Pugh
+%I Department of Language and Linguistics, University of Essex
+%D 1991
+%L ArnoldPugh91

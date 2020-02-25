@@ -1,0 +1,11 @@
+
+%E Louisa Sadler
+%T Study in Reductions between Formalisms
+%A D.J. Arnold
+%A h\0Genabith
+%A Steve Pulman
+%A Paul Schmidt
+%A Louisa Sadler
+%I Department of Language and Linguistics, University of Essex 
+%D 1992
+%L ReductionsRep

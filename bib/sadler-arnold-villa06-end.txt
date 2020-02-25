@@ -1,0 +1,9 @@
+
+%C SFB441, Tuebingen
+%L sadler-arnold-villa06
+%B Linguistic Evidence: Empirical, Theoretical, and Computational Perspectives (LingEvid2005) 
+%D 2006
+%T  Portuguese: Corpora, Coordination and Agreement 
+%A  Louisa Sadler
+%A Doug Arnold
+%A Aline Villavicencio 

@@ -1,0 +1,11 @@
+@techreport{ArnoldSadler91-rep,
+  author =	 {D J Arnold
+		  and L Sadler},
+  year =	 1991,
+  month =	 {December},
+  institution =	 {Department of Language and Linguistics, University of
+                  Essex},
+  title =	 { {E}urotra: An Assessment of the Current State of the
+                  {EC}'s {MT} Programme }
+}
+

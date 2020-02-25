@@ -1,0 +1,12 @@
+
+%V 5
+%A D.J. Arnold
+%O ISBN 0-08-044299-4 
+%B Encyclopedia of Language and Linguistics, 2nd ed
+%E Keith Brown
+%C Oxford
+%T  Head Feature Principle and Feature Distribution Constraints 
+%I Elsevier
+%L 
+%D 2006
+%P 230-234

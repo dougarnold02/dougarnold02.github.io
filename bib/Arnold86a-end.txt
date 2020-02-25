@@ -1,0 +1,13 @@
+
+%V 5
+%N 3
+%A D.J. Arnold
+%O (Special issue dedicated to the Eurotra MT project) 
+%E H. Somers
+%T General view of the design methodology (of Eurotra)
+%C Berlin
+%I Mouton de Gruyter
+%P 136-138
+%L Arnold:86a
+%D 1986
+%J Multilingua

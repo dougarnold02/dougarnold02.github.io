@@ -1,0 +1,11 @@
+@incollection{ArnoldTombe:87,
+   author    =  {D.J. Arnold and Louis des~Tombe},
+   booktitle =  {{Machine} {Translation}: Theoretical and Methodological Issues},
+   address   =  {Cambridge},
+   year      =  1987,
+   editor    =  {Sergei Nirenberg},
+   publisher =  {Cambridge University Press},
+   pages     =  {114-135},
+   title     =  {Basic theory and methodology in {Eurotra}}
+}
+

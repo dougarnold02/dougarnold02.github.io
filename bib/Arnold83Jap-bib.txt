@@ -1,0 +1,8 @@
+@article{Arnold83Jap,
+    author =  {D.J. Arnold},
+    address =  {Brussels},
+    year =  1983,
+    journal =  {{E}urotra-Japanese National Project Joint Workshop on {MT}},
+    title =  {{E}urotra {I}nterface {S}tructure: a linguistic view}
+}
+

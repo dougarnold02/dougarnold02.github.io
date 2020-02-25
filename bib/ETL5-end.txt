@@ -1,0 +1,9 @@
+
+%T  Eurotra Linguistic Specifications (ETL-5)  
+%C Luxembourg
+%A D.J. Arnold
+%A L. Jaspaert
+%A }\0Tombe
+%I DGXIII, CEC
+%D 1984
+%L ETL5

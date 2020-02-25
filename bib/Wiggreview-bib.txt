@@ -1,0 +1,11 @@
+@article{Wiggreview,
+  author =	 {D.J. Arnold},
+  year =	 1989,
+  journal =	 {AISBQ},
+  volume =	 69,
+  title =	 {Review of \emph{{C}omputer {T}ranslation of
+                  {N}atural {L}anguage} by {W}. {G}oshawke,
+                  {I}.{D}.{K}. {K}elly, and {J}.{D}. {W}igg, {S}igma
+                  {P}ress, 1987}
+}
+

@@ -1,0 +1,10 @@
+
+%A D.J. Arnold
+%B Computers and Translation: A translator's guide
+%E Harold Somers 
+%T  Why Translation is difficult for Computers 
+%C Amsterdam
+%I John Benjamins
+%L Arnold03
+%P 119-142
+%D 2003

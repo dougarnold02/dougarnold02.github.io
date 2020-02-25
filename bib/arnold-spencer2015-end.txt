@@ -1,0 +1,11 @@
+
+%D 2015 
+%I CSLI Publications
+%B Proceedings of the 22nd International Conference on Head-Driven Phrase Structure Grammar, Nanyang Technological University (NTU), Singapore
+%L arnold-spencer2015
+%P 41-60
+%C Stanford, CA
+%E Stefan M"uller
+%A Doug Arnold
+%A Andrew Spencer
+%T  A Constructional Analysis for the Skeptical 

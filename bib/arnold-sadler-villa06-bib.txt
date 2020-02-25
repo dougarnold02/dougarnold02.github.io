@@ -1,0 +1,31 @@
+@InCollection{arnold-sadler-villa06a,
+  author =	 { Doug Arnold 
+		  and Louisa Sadler 
+		  and Aline Villavicencio },
+  editor =	 {Sam Featherston and Wolfgang Sternefeld},
+  title =	 { {P}ortuguese: Corpora, Coordination and Agreement },
+  booktitle =	 {Roots: Linguistics in search of its evidential base},
+  year =	 2007,
+  publisher =	 {Mouton de Gruyter},
+  series =	 { Studies in Generative Grammar },
+  number =	 96,
+  pages =	 {9--28},
+  address =	 {Berlin},
+  annote =	 {book version of Arnold/Sadler/Villavicencio 2006}
+}
+
+@comment{  url = {http://journals.cambridge.org/action/displayFulltext?type=1&fid=1056720&jid=LIN&volumeId=43&issueId=02&aid=1056716} }
+
+
+@InProceedings{arnold-sadler-villa06,
+  author =	 { Doug Arnold and Louisa Sadler and Aline Villavicencio },
+  title =	 { {P}ortuguese: Corpora, Coordination and Agreement },
+  editor =	 {Sam Featherston and Wolfgang Sternefeld},
+  booktitle =	 {Proceedings of LingEvid2005: Linguistic Evidence: Empirical, Theoretical, and
+                  Computational Perspectives},
+  year =	 {2006},
+  address =	 {Tuebingen},
+  month =	 {February},
+  url =		 {http://www.essex.ac.uk/linguistics/research/clgroup/papers/doug/LingEvid2006.pdf}
+}
+

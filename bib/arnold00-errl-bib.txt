@@ -1,0 +1,15 @@
+@InCollection{arnold00:errl,
+  author =	 {Doug Arnold},
+  title =	 {Corpus Access for Beginners: the {W3Corpora}
+                  Project},
+  booktitle =	 {Essex Research Reports in Linguistics},
+  pages =	 {55-102},
+  publisher =	 {Department of Language and Linguistics},
+  year =	 2000,
+  editor =	 {Harald Clahsen},
+  volume =	 32,
+  address =	 {University of Essex},
+  month =	 {November},
+url = {http://www.essex.ac.uk/linguistics/research/resgroups/clgroup/papers/doug/errl32.pdf}
+}
+

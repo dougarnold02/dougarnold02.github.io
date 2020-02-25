@@ -1,0 +1,10 @@
+
+%A D.J. Arnold
+%A R.L. Johnson
+%O (Also: Report CSCM-19, Cognitive Studies Centre, University of Essex) 
+%B Proceedings of the 11th International Conference on Computational Linguistics (COLING-84)
+%C Stanford
+%T Robust processing in Machine Translation
+%L ArnoldJohnson:84
+%D 1984
+%P 472-475

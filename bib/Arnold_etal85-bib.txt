@@ -1,0 +1,13 @@
+@inproceedings{Arnold_etal:85,
+   author =  {D.J. Arnold and L. Jaspaert and
+                 R.L. Johnson and S. Krauwer and
+                 M. Rosner and L. des~Tombe and
+                        G.B. Varile and S. Warwick},
+   address =  {Colgate University, New York},
+   year =  1985,
+   booktitle =  {Proceedings of the First International Conference on
+                 Theoretical and Methodological Issues in {Machine} {Translation}},
+   pages =  {1-14},
+   title =  {A {Mu-1} View of the {CAT} Framework in {Eurotra}}
+}
+

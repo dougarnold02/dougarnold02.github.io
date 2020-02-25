@@ -1,0 +1,11 @@
+@InCollection{Arnold03,
+  author =	 {D.J. Arnold},
+  title =	 { Why Translation is difficult for Computers },
+  booktitle =	 {Computers and Translation: A translator's guide},
+  publisher =	 {John Benjamins},
+  pages =	 {119-142},
+  address =	 {Amsterdam},
+  year =	 2003,
+  editor =	 {Harold Somers}
+}
+

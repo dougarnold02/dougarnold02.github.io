@@ -1,0 +1,9 @@
+
+%V 6
+%A D.J. Arnold
+%A Louisa Sadler
+%T Transfer Formalisms
+%L ArnoldSadler:91
+%D 1991
+%J Machine Translation
+%P 193-200

@@ -1,0 +1,12 @@
+@incollection{ArnoldSadler:89b,
+   author    =  {D.J. Arnold and Louisa Sadler},
+   booktitle =  {Proceedings of the Conference in
+                 Language Learning and Business Education},
+   address   =  {Barcellona},
+   year      =  1989,
+   editor    =  {Peter Silcock},
+   publisher =  {Escuela Superior de Administracion y Direccion de Empresas},
+   pages     =  {141-154},
+   title     =  {{Machine} {Translation}}
+}
+

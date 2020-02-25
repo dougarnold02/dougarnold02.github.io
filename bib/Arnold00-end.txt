@@ -1,0 +1,10 @@
+
+%N 1
+%V 9
+%A D.J. Arnold
+%O Pascual Cantos Gomez, editor, ISSN 0213-5485
+%T  World Wide Web Access to Corpora 
+%L Arnold00
+%J Corpus-Based Research in English Language and Linguistics: Monograph Issue of Cuadernos de Filologia Inglesa de la Universidad de Murcia
+%D 2000
+%P 125-145

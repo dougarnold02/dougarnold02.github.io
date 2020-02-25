@@ -1,0 +1,7 @@
+
+%T  Unification and Machine Translation  
+%A Louisa Sadler
+%A D.J. Arnold
+%I Department of Language and Linguistics, University of Essex
+%D 1992
+%L SadlerArnold92-rep

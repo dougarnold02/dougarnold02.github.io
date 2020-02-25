@@ -1,0 +1,11 @@
+
+%V 47 
+%N 4
+%A Lorna Balkan
+%A D.J. Arnold
+%A Siety Meijer
+%T Test Suites for Natural Language Processing
+%L Balkanetal94c
+%D 1994
+%J AISB Proceedings
+%P 95-98

@@ -1,0 +1,26 @@
+
+%N 96
+%A  Doug Arnold
+%A Louisa Sadler
+%A Aline Villavicencio 
+%S  Studies in Generative Grammar 
+%B Roots: Linguistics in search of its evidential base
+%E Sam Featherston and Wolfgang Sternefeld
+%C Berlin
+%T  Portuguese: Corpora, Coordination and Agreement 
+%I Mouton de Gruyter
+%P 9-28
+%L arnold-sadler-villa06a
+%D 2007
+
+%L 
+
+%A  Doug Arnold
+%A Louisa Sadler
+%A Aline Villavicencio 
+%B Proceedings of LingEvid2005: Linguistic Evidence: Empirical, Theoretical, and Computational Perspectives
+%E Sam Featherston and Wolfgang Sternefeld
+%C Tuebingen
+%T  Portuguese: Corpora, Coordination and Agreement 
+%D 2006
+%L arnold-sadler-villa06

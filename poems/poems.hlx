@@ -1,0 +1,61 @@
+% Time-stamp: <06/08/31 16:36:14 doug s3453i.essex.ac.uk poems.hlx>
+%% Hacks for poems:
+
+%% The LaTeX has:
+    %% poem: \begin{poem}{TITLE}{AUTHOR} ..... \end{poem}
+% \newenvironment{poem}[2]{\textbf{#1}\\\emph{#2}\begin{verse}}
+%                        {\end{verse}}
+%% and a redefinition of the verse environment:
+%% it reduces the \itemsep (which is what comes between lines)
+%% to zero, and also zeroes \parsep;
+%% it stops \\ having its special meaning, and
+%% make LaTeX respect line endings.
+%% Essentially, it inverts the use of \\ -- normally used in the verse environment to
+%% separate *lines* -- now used to separate *verses* 
+
+%% For hyperlatex, the poem and verse environments are rolled together into one definition:
+
+\HlxEval{
+  	;; define a hyperlatex (lisp) macro to do the job:
+(defun hyperlatex-format-poem ()
+   (interactive)
+   (hyperlatex-pop-stacks)
+   (let* ((beg (point))
+           (title (hyperlatex-parse-required-argument))
+	   (author (hyperlatex-parse-required-argument))
+	   (end (progn (search-forward  "\\end{poem}" nil nil)
+		       (point))))
+	(goto-char beg)
+	(narrow-to-region beg end)
+	;; (hyperlatex-gen "BR" t)
+	(while (search-forward "\n" nil t)
+	  (hyperlatex-gen "BR"))
+	;; get rid of \\end{poem}
+	(search-forward  "\\end{poem}" nil nil)
+	(delete-char -10)
+	;; (hyperlatex-gen "BR")
+	(widen)
+	(goto-char beg)
+        (hyperlatex-gen "strong")
+        (insert (hyperlatex-evaluate-string title))
+        (hyperlatex-gen "/strong")
+	(hyperlatex-gen "BR")	
+	(hyperlatex-gen "em")
+	(insert (hyperlatex-evaluate-string author))
+	(hyperlatex-gen "/em")
+	)
+   )
+	  ;; associate the latex command name with this lisp command:
+	  ;; by put-ing it as the hyperlatex property of the latex command:
+ (put 'poem	    'hyperlatex	'hyperlatex-format-poem)
+	
+	} 
+
+%% \hfill is useful for getting indentation better:
+%% just put in a pile of spaces
+\newcommand{\hfill}{~~~~~~~~~~~~~~~~~~~~~~~}
+
+%% If you really need to indent a line,
+%% \Indent or \Indent{1in}, etc:
+\newcommand{\Indent}[1][.5in]{\hspace{#1}}
+\newcommand{\Stanza}[1]{\begin{center}#1\end{center}}

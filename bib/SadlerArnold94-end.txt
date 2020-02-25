@@ -1,0 +1,9 @@
+
+%V 30
+%A Louisa Sadler
+%A D.J. Arnold
+%T Prenominal Adjectives and the Phrasal/Lexical Distinction
+%L SadlerArnold:94
+%D 1994
+%J Journal of Linguistics
+%P 187-226

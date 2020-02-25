@@ -1,0 +1,11 @@
+@incollection{Arnold:93b,
+   author =  {D.J. Arnold},
+   booktitle =  {La Traductique},
+   address =  {Montreal},
+   year    =  1993,
+   editor  =  {P. Bouillon and A. Clas},
+   publisher =  {Les Presses de l'{Universite} de {Montreal}},
+   pages   =  {64-76},
+   title   =  {Sur la Conception du Transfert}
+}
+

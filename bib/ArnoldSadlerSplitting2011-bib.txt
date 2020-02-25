@@ -1,0 +1,12 @@
+@InProceedings{ArnoldSadlerSplitting2011,
+  author =	 {Doug Arnold and Louisa Sadler},
+  title =	 { Resource Splitting and Reintegration with Supplementals },
+  booktitle =	 {Proceedings of the LFG11 Conference, Hong Kong University, Hong Kong},
+  year =	 2011,
+  editor =	 {Miriam Butt and Tracy Holloway King},
+  publisher =	 {CSLI Publications},
+  address =	 {Stanford, Ca.},
+  pages =	 {26-46},
+  url =          {http://cslipublications.stanford.edu/LFG/16/papers/lfg11arnoldsadler.pdf}
+}
+

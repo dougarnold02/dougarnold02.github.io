@@ -1,0 +1,11 @@
+
+%V 53
+%A Doug Arnold
+%S Essex Research Reports in Linguistics
+%B Martin Atkinson --- the Minimalist Muse
+%E Andrew Radford
+%T  DOP-based models for richer grammatical frameworks 
+%I Dept. of Language and Linguistics, University of Essex
+%L Arnold07DOPricher
+%P 17-41
+%D 2007

@@ -1,0 +1,55 @@
+% Time-stamp: <06/08/31 16:32:55 doug s3453i.essex.ac.uk poems.sty>
+%% Hacks for poems:
+
+    %% poem: \begin{poem}{TITLE}{AUTHOR} ..... \end{poem}
+\newenvironment{poem}[2]{\pagebreak[3]%
+                           \begin{verse}
+                           \parbox{\textwidth-2\leftmargin}{%
+                           \begin{center}
+                             \textbf{#1}\\\emph{#2}\\[2ex]%
+                         \end{center}}
+                       }
+                          {\end{verse}}
+
+%% This is to put stanza numbers above stanzas, in roughly
+%% the middle of the line.
+%% It is just a guess really, but it looks okay.
+\newcommand{\Stanza}[1]{\hspace*{.25\textwidth}#1\\}
+
+% If you wanted the author at the end ....
+% \newcommand{\Author}{}
+% \renewenvironment{poem}[2]{\textbf{#1}\renewcommand{\Author}{\par \emph{ --- #2}}\begin{verse}}
+%                        {\Author\end{verse}}
+
+%% This hacks the verse environment:
+%% it reduces the \itemsep (which is what comes between lines)
+%% to zero, and also zeroes \parsep;
+%% it stops \\ having its special meaning, and
+%% make LaTeX respect line endings.
+%% Essentially, it inverts the use of \\ -- normally used in the verse environment to
+%% separate *lines* -- now used to separate *verses* 
+
+%% When we print filoxfax pages, we had better reduce the left margin so add 
+%% a -3.5em setting for \itemindent
+
+\renewenvironment{verse}
+               {%\let\\\@centercr                   % dja
+                \list{}{\itemsep      0pt%          % dja
+                        \parsep       0pt%          % dja
+                        \topsep       0pt%          % dja
+                        \partopsep    0pt%          % dja
+                        % \itemindent   -1.5em%
+                        \itemindent -3.5em          % dja
+                        \listparindent\itemindent
+                        \rightmargin \leftmargin
+                        \advance\leftmargin 1.5em}%
+                \item\relax
+                \raggedright                        % dja
+                \obeylines                          % dja
+                }
+               {\item\relax\endlist}
+
+%% If you really need to indent a line,
+%% \Indent or \Indent{1in}, etc:
+\newcommand{\Indent}[1][.5in]{\hspace{#1}}
+\raggedbottom

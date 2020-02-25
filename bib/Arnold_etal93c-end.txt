@@ -1,0 +1,11 @@
+
+%V 8 
+%N 1-2
+%A D.J. Arnold
+%A \0Lee Humphreys
+%A Louisa Sadler
+%T Evaluation: an Assessment
+%L Arnold_etal:93c
+%D 1993
+%J Machine Translation
+%P 1-24

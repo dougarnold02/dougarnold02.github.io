@@ -1,0 +1,14 @@
+@inproceedings{Tombe_etal:85,
+   author =  {L. des~Tombe and D.J. Arnold and
+                 L. Jaspaert and R. Johnson and
+                 S. Krauwer and M. Rosner and G.B. Varile and S. Warwick},
+   address =  {Hamilton, N.Y.},
+   year =     1985,
+   publisher =  {Colgate Univ.},
+   booktitle =  {Proceedings of the Conference on
+               Theoretical and Methodological Issues in
+                {Machine} {Translation} of Natural Languages},
+   pages =     {283-288},
+   title =    {A Preliminary Linguistic Framework for {E}urotra ({June} 1985)}
+}
+

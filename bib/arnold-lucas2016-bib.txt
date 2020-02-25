@@ -1,0 +1,15 @@
+@inproceedings{arnold-lucas2016,
+  author =	 {Arnold, Doug and Christoper Lucas},
+  title =	 { One of those Constructions that Really Needs a Proper Analysis },
+  booktitle =	 {Proceedings of the Joint 2016 Conference on Head-driven Phrase Structure
+                  Grammar and Lexical Functional Grammar, Polish Academy of Sciences, Warsaw,
+                  Poland},
+  editor =	 {Arnold, Doug and Butt, Miriam and Crysmann, Berthold and King, Tracy Holloway
+                  and M{\"u}ller, Stefan},
+  issn =	 {1535-1793, 1098-6782},
+  url =		 {http://cslipublications.stanford.edu/HPSG/2016/headlex2016-arnold-lucas.pdf},
+  publisher =	 {CSLI Publications},
+  address =	 {Stanford, CA},
+  pages =	 {43--63},
+  year =	 2016
+}

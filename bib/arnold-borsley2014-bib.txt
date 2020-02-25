@@ -1,0 +1,12 @@
+@inproceedings{arnold-borsley2014,
+  author =	 {Arnold, Doug and Borsley, Robert D.},
+  title =	 { On the Analysis of {E}nglish Exhaustive Conditionals },
+  booktitle =	 {Proceedings of the 21th International Conference on Head-Driven Phrase
+                  Structure Grammar, University at Buffalo},
+  editor =	 {Stefan M\"{u}ller},
+  issn =	 15351793,
+  url =		 {http://cslipublications.stanford.edu/HPSG/2014/arnold-borsley.pdf},
+  pages =	 {27--47},
+  year =	 2014
+} 
+

@@ -1,0 +1,9 @@
+@techreport{Arnold_ea94,
+  author =	 {Doug Arnold
+		  and Martin Rondell
+		  and Frederik Fouvry},
+  year =	 1994,
+  institution =	 {TSNLP Project, CL/MT Group, University of Essex},
+  title =	 { Design and Implementation of {T}est {S}uite Tools }
+}
+

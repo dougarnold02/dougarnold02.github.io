@@ -1,0 +1,10 @@
+@book{Arnold_etal:89,
+   editor    =  {D.J. Arnold and Martin Atkinson and
+                 Jacques Durand and Claire Grover and Louisa Sadler},
+   address   =  {Oxford},
+   year      =   1989,
+   publisher =  {Oxford University Press},
+   title =  {Essays on Grammatical Theory and Universal
+                 Grammar}
+}
+

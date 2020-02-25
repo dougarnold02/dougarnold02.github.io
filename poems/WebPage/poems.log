@@ -1,0 +1,137 @@
+This is pdfTeX, Version 3.1415926-1.40.11 (TeX Live 2010) (format=latex 2010.9.9)  4 FEB 2011 16:11
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**\def\makegifs{}\input{poems.tex}
+(./poems.tex (/usr/local/texlive/2009/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/local/texlive/2009/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/Users/doug/LaTeX/inputs/me.sty
+me.sty: Personalized Author Information, dja
+(/usr/local/texlive/2009/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2007/08/22 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count87
+\calc@Bcount=\count88
+\calc@Adimen=\dimen103
+\calc@Bdimen=\dimen104
+\calc@Askip=\skip43
+\calc@Bskip=\skip44
+LaTeX Info: Redefining \setlength on input line 76.
+LaTeX Info: Redefining \addtolength on input line 77.
+\calc@Ccount=\count89
+\calc@Cskip=\skip45
+)
+(/usr/local/texlive/2009/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(/usr/local/texlive/2009/texmf-dist/tex/latex/tools/xspace.sty
+Package: xspace 2006/05/08 v1.12 Space after command names (DPC,MH)
+)
+\c@numparcounter=\count90
+
+(/usr/local/texlive/2009/texmf-dist/tex/latex/paralist/paralist.sty
+Package: paralist 2002/03/18 v2.3b Extended list environments (BS)
+\pltopsep=\skip46
+\plpartopsep=\skip47
+\plitemsep=\skip48
+\plparsep=\skip49
+\pl@lab=\toks14
+)
+\MyTmpFootNoteBox=\box26
+
+(/usr/local/texlive/2009/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip10
+Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
+)
+* Package me.sty loaded.
+) (./poems.sty) (/Users/doug/LaTeX/inputs/hyperlatex.sty
+Package: hyperlatex 2000/03/29 v2.5 LaTeX2e package for Hyperlatex mode
+
+Package: 'hyperlatex' v2.5 Otfried Cheong
+(/usr/local/texlive/2009/texmf-dist/tex/latex/tools/verbatim.sty
+Package: verbatim 2003/08/22 v1.5q LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks15
+\verbatim@line=\toks16
+\verbatim@in@stream=\read1
+)
+\c@htmldepth=\count91
+\c@htmlautomenu=\count92
+
+**********************************************
+* Making GIF bitmaps from Hyperlatex source! *
+**********************************************
+\@makegifcmds=\write3
+\openout3 = `poems.makegif'.
+
+\@gifbox=\box27
+\@gifcount=\count93
+) (./poems.aux)
+\openout1 = `poems.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 16.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 16.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 16.
+ (./matthew_arnold-.tex
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 4.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 4.
+ [1
+
+]) (./rexroth-.tex [2] [3] [4]
+Missing character: There is no ê in font cmr10!
+
+[5] [6] [7] [8]
+Missing character: There is no ê in font cmr10!
+ [9]) (./stopping_by_woods-.tex [10] [11] [12] [13])
+(./houseman-.tex [14]) (./masefield-.tex) (./auden-.tex [15] [16] [17] [18])
+(./neruda-.tex [19] [20]) (./yeats-.tex [21]
+Missing character: There is no è in font cmr10!
+ [22] [23] [24] [25] [26] [27]
+[28] [29] [30] [31] [32]) (./donne-.tex [33]
+Missing character: There is no è in font cmr10!
+ [34] [35] [36] [37] [38])
+(./fenton-.tex [39] [40] [41] [42] [43] [44] [45]) (./lawrence-.tex [46]
+[47]) (./wordsworth-.tex
+Missing character: There is no è in font cmr10!
+) (./misc-.tex [48] [49] [50] [51] [52] [53] [54]
+[55] [56]) [57] (./poems.aux) ) 
+Here is how much of TeX's memory you used:
+ 853 strings out of 493748
+ 10242 string characters out of 3143570
+ 60182 words of memory out of 3000000
+ 4149 multiletter control sequences out of 15000+200000
+ 8235 words of font info for 29 fonts, out of 3000000 for 9000
+ 714 hyphenation exceptions out of 8191
+ 26i,5n,21p,394b,237s stack positions out of 5000i,500n,10000p,200000b,50000s
+
+Output written on poems.dvi (57 pages, 138736 bytes).

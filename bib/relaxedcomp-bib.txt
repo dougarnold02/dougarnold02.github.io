@@ -1,0 +1,12 @@
+@techreport{relaxedcomp,
+  author =	 {D.J. Arnold
+		  and Louis des~Tombe
+		  and Steven Krauwer
+		  and Louisa Sadler},
+  year =	 1988,
+  month =	 {May},
+  institution =	 {Department of Language and Linguistics, University of
+                  Essex},
+  title =	 { `{Relaxed}' Compositionality in {M}achine {T}ranslation
+                  }
+

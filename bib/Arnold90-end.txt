@@ -1,0 +1,10 @@
+
+%A D.J. Arnold
+%B Translating and the Computer 10
+%E Pamela Mayorcas
+%T Text typology and Machine Translation: an overview 
+%C London
+%I Aslib
+%L Arnold:90
+%D 1990
+%P 73-89

@@ -1,0 +1,9 @@
+@techreport{diff-t-cases,
+  author =	 {D.J. Arnold},
+  year =	 1987,
+  month =	 {February},
+  title =	 { Difficult {T}-cases in version 3.0 },
+  institution =	 {Department of Language and Linguistics, University of
+                  Essex}
+}
+

@@ -1,0 +1,10 @@
+@article{SadlerArnold:94,
+   author  =  {Louisa Sadler and D.J. Arnold},
+   year    =  1994,
+   journal =  {Journal of Linguistics},
+   pages   =  {187-226},
+   title   =  {Prenominal Adjectives and the Phrasal/Lexical Distinction},
+   volume  =  30,
+   annote    = {ISSN ??}
+}
+

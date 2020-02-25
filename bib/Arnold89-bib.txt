@@ -1,0 +1,8 @@
+@PhdThesis{Arnold:89,
+   author  =  {D.J. Arnold},
+   address =  {Colchester, UK},
+   year    =  1989,
+   school    = {University of Essex},
+   title     =  {Theoretical and Descriptive Issues in {Machine} {Translation}}
+}
+

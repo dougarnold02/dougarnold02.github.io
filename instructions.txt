@@ -1,0 +1,17 @@
+Edit: use emacs on index.tex
+To add a bib entry:
+   - edit the relevant bit of index.tex, if the entry's citation key is Arnold2020xxx
+   - make sure it is in Arnold-major.bib or Arnold-minor.bib
+   - add the entry in a single file to bib/Arnold2020xxx-bib.txt
+     - cd bib
+     - make Arnold2020xxx-bib.txt
+     - make all
+     - cd -
+   - now run 
+     - make latex  (this will set things up for the run of make bib)
+     - make bib
+     - make
+     - make view
+   - if you do not have privatewww directly mounted, then do 
+     - make sync-put
+

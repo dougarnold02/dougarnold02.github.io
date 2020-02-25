@@ -1,0 +1,11 @@
+
+%A Doug Arnold
+%A Louisa Sadler
+%B Proceedings of the LFG11 Conference, Hong Kong University, Hong Kong
+%E Miriam Butt and Tracy Holloway King
+%T  Resource Splitting and Reintegration with Supplementals 
+%C Stanford, Ca.
+%I CSLI Publications
+%P 26-46
+%L ArnoldSadlerSplitting2011
+%D 2011

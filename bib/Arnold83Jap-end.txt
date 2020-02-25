@@ -1,0 +1,7 @@
+
+%T Eurotra Interface Structure: a linguistic view 
+%C Brussels
+%A D.J. Arnold
+%J Eurotra-Japanese National Project Joint Workshop on MT
+%D 1983
+%L Arnold83Jap

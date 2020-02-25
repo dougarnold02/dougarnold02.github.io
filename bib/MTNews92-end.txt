@@ -1,0 +1,8 @@
+
+%N 3
+%A D.J. Arnold
+%T  Eurotra  
+%L MTNews92
+%D 1992
+%J MT News International (Newsletter of the International Association for Machine Translation)
+%P 7-10

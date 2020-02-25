@@ -1,0 +1,11 @@
+@techreport{ETL5,
+  author =	 {D.J. Arnold
+		  and L. Jaspaert
+		  and L. des~Tombe},
+  address =	 {Luxembourg},
+  year =	 1984,
+  month =	 {May},
+  institution =	 {DGXIII, CEC},
+  title =	 { {E}urotra Linguistic Specifications ({ETL}-5) }
+}
+

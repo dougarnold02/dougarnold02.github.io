@@ -1,0 +1,9 @@
+
+%T  On the Analysis of English Exhaustive Conditionals 
+%L arnold-borsley2014
+%A Doug Arnold
+%A Robert D. Borsley
+%D 2014 
+%B Proceedings of the 21th International Conference on Head-Driven Phrase Structure Grammar, University at Buffalo
+%P 27-47
+%E Stefan Mueller

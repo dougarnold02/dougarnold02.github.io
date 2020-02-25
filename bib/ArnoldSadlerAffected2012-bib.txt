@@ -1,0 +1,12 @@
+@InProceedings{ArnoldSadlerAffected2012,
+  author =	 {Doug Arnold and Louisa Sadler},
+  title =	 { Affected experiencers and mixed semantics in {LFG}/{G}lue},
+  booktitle =	 {Proceedings of the LFG12 Conference, Udayana University, Bali},
+  year =	 2012,
+  editor =	 {Miriam Butt and Tracy Holloway King},
+  publisher =	 {CSLI Publications},
+  address =	 {Stanford, Ca.},
+  pages =	 {44-63},
+  url =		 {http://cslipublications.stanford.edu/LFG/17/papers/lfg12arnoldsadler.pdf}
+}
+

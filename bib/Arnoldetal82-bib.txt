@@ -1,0 +1,10 @@
+@techreport{Arnoldetal82,
+  author =	 {D.J. Arnold and P.A. Bennett and R.L. Johnson and
+                  J. McNaught and H.L. Somers and P.J. Whitelock and
+                  Y.A. Wilks},
+  address =	 {Manchester},
+  year =	 1982,
+  institution =	 {{CCL}, {UMIST}},
+  title =	 {Trace in {E}urotra}
+}
+

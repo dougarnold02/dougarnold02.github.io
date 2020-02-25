@@ -1,0 +1,10 @@
+@book{et6,
+  author =	 {H. Alshawi and D. J. Arnold and D. M. Carter and
+                  J. Lindop and K. Netter and S.G. Pulman and
+                  J-I. Tsujii and H. Uskoreit.},
+  address =	 {Cambridge},
+  year =	 1990,
+  publisher =	 {S.R.I.},
+  title =	 {ET6/1 Phase 2: Assessment and Feasibility Report}
+}
+

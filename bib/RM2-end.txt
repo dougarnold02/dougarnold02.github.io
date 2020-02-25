@@ -1,0 +1,12 @@
+
+%A D.J. Arnold
+%A e\0Tombe
+%A Steven Krauwer
+%A Nino Varile
+%B Eurotra Reference Manual 2.0. (October 1986), 3.0 (February 1987)
+%E Steven Krauwer and Maggie King
+%T  Chapter III: Eurotra Mu-2  
+%I RUU, Utrecht, and DGXIII, CEC, Luxembourg
+%L RM2
+%D 1987
+%P 23-71

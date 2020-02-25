@@ -1,0 +1,11 @@
+
+%A D.J. Arnold
+%A R.L. Johnson
+%B Progress in Machine Translation
+%E \0D.K. Kelly
+%T Robust Processing in Machine Translation 
+%C Wilmslow, UK.
+%I Sigma Press
+%L ArnoldJohnson:89
+%D 1989
+%P 231-242

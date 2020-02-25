@@ -1,0 +1,10 @@
+@inproceedings{Balkanetal95d,
+  author =	 {Lorna Balkan and Doug Arnold and Frederik Fouvry},
+  address =	 {Dublin, 4-7 July 1995},
+  year =	 1995,
+  publisher =	 {Dublin City University},
+  booktitle =	 {{CSNLP} 1995. Fourth International Conference on the
+                  Cognitive Science of Natural Language Processing},
+  title =	 {Test Suites for {NLP}}
+}
+

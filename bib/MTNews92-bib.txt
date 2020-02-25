@@ -1,0 +1,11 @@
+@article{MTNews92,
+  author =	 {D.J. Arnold},
+  year =	 1992,
+  month =	 {September},
+  journal =	 {{MT} News International (Newsletter of the
+                  {I}nternational Association for Machine Translation)},
+  number =	 3,
+  pages =	 {7-10},
+  title =	 { {E}urotra }
+}
+

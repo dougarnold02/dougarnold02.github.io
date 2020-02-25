@@ -1,0 +1,12 @@
+
+%B Proceedings of COLING-86
+%T The CAT Framework in Eurotra: A Theoretically Committed Notation for MT 
+%C Bonn
+%A D.J. Arnold
+%A S. Krauwer
+%A M. Rosner
+%A \0Tombe
+%A G.B. Varile
+%P 297-303
+%D 1986
+%L ArnoldKrauwerRo:86

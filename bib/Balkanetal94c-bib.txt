@@ -1,0 +1,10 @@
+@article{Balkanetal94c,
+    author =  {Lorna Balkan and D.J. Arnold and Siety Meijer},
+    year =  1994,
+    journal =  {AISB Proceedings},
+    number =  4,
+    pages =  {95-98},
+    title =  {Test Suites for {N}atural {L}anguage {P}rocessing},
+    volume =  47
+}
+

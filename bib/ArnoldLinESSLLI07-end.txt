@@ -1,0 +1,8 @@
+
+%A Doug Arnold
+%A Evita Linardaki
+%O Presented at the Workshop `Exemplar-Based Models of Language Acquisition and Use', ESSLLI 2007
+%T  HPSG-DOP: Towards Exemplar-based HPSG 
+%C Dublin
+%L ArnoldLinESSLLI07
+%D 2007

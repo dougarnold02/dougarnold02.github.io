@@ -1,0 +1,11 @@
+@incollection{ArnoldJohnson:89,
+   author =  {D.J. Arnold and R.L. Johnson},
+   booktitle =  {Progress in {Machine} {Translation}},
+   address =  {Wilmslow, UK.},
+   year    =  1989,
+   editor  =  {Ian~D.K. Kelly},
+   publisher =  {Sigma Press},
+   pages =  {231-242},
+   title =  {Robust Processing in {Machine} {Translation}}
+}
+

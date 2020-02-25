@@ -1,0 +1,15 @@
+@InProceedings{ArnoldBorsley08,
+  author =	 {Doug Arnold 
+		  and Robert D. Borsley},
+  title =	 { Non-restrictive Relative Clauses, Ellipsis and Anaphora },
+  booktitle =	 {Proceedings of the 15th International Conference on Head-Driven Phrase
+                  Structure Grammar (HPSG08), NICT, Keihanna, Japan },
+  pages =	 {325-345},
+  year =	 2008,
+  editor =	 { Stefan M\"{u}ller},
+  address =	 {Stanford, Ca.},
+  publisher =	 {CSLI Publications},
+  annote =	 { ISSN 1535-1793},
+  url =		 {http://cslipublications.stanford.edu/HPSG/9/arnold-borsley.pdf}
+}
+

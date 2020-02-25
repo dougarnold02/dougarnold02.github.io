@@ -1,0 +1,16 @@
+
+%A \0Tombe
+%A D.J. Arnold
+%A L. Jaspaert
+%A R. Johnson
+%A S. Krauwer
+%A M. Rosner
+%A G.B. Varile
+%A S. Warwick
+%B Proceedings of the Conference on Theoretical and Methodological Issues in Machine Translation of Natural Languages
+%C Hamilton, N.Y.
+%T A Preliminary Linguistic Framework for Eurotra (June 1985) 
+%I Colgate Univ.
+%L Tombe_etal:85
+%D 1985
+%P 283-288

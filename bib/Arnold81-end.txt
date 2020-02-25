@@ -1,0 +1,8 @@
+
+%V 20 
+%N 3
+%T Review of \emphSpeech Act Classification by Th. Ballmer and W. Brennenstuhl, Springer Verlag, Berlin, 1981
+%A D.J. Arnold
+%J Incorporated Linguist
+%D 1981
+%L Arnold81

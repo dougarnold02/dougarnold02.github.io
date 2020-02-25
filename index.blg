@@ -1,0 +1,47 @@
+This is BibTeX, Version 0.99d (TeX Live 2019)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: index.aux
+The style file: mybibentry-with-url.bst
+Database file #1: Arnold-major.bib
+Database file #2: Arnold-minor.bib
+You've used 30 entries,
+            2595 wiz_defined-function locations,
+            817 strings with 13147 characters,
+and the built_in function-call counts, 13172 in all, are:
+= -- 1254
+> -- 555
+< -- 48
++ -- 181
+- -- 151
+* -- 991
+:= -- 1918
+add.period$ -- 141
+call.type$ -- 30
+change.case$ -- 60
+chr.to.int$ -- 0
+cite$ -- 30
+duplicate$ -- 685
+empty$ -- 1219
+format.name$ -- 215
+if$ -- 3046
+int.to.chr$ -- 1
+int.to.str$ -- 31
+missing$ -- 24
+newline$ -- 186
+num.names$ -- 130
+pop$ -- 252
+preamble$ -- 1
+purify$ -- 30
+quote$ -- 0
+skip$ -- 425
+stack$ -- 0
+substring$ -- 515
+swap$ -- 205
+text.length$ -- 22
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 210
+warning$ -- 0
+while$ -- 126
+width$ -- 0
+write$ -- 490

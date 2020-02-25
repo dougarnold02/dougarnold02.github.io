@@ -1,0 +1,10 @@
+
+%P 27-47
+%C Stanford
+%T  Non-Restrictive Relative Clauses in Construction Based HPSG 
+%D 2004
+%A D.J. Arnold
+%L Arnold04a
+%E Stefan Mueller
+%B Proceedings of the 11th International Conference on Head-Driven Phrase Structure Grammar 
+%I CSLI Publications

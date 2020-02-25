@@ -1,0 +1,12 @@
+@techreport{ETL3,
+  author =	 {D.J. Arnold
+		  and L. Jaspaert
+		  and L. des~Tombe},
+  address =	 {Luxembourg},
+  year =	 1984,
+  month =	 {January},
+  institution =	 {{DGXIII}, {CEC}},
+  title =	 { Preliminary linguistic specifications for {E}urotra,
+                  version 2 ({ETL}-3) }
+}
+

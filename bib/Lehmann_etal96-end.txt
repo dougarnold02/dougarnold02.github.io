@@ -1,0 +1,22 @@
+
+%V 2
+%A Sabine Lehmann
+%A Stephan Oepen
+%A Sylvie Regnier-Prost
+%A Klaus Netter
+%A Veronika Lux
+%A Judith Klein
+%A Kirsten Falkedal
+%A Frederik Fouvry
+%A Dominique Estival
+%A Eva Dauphin
+%A Herve Compagnion
+%A Judith Baur
+%A Lorna Balkan
+%A Doug Arnold
+%B Proceedings of the 16th International Conference on Computational Linguistics (COLING-96)
+%T TSNLP --- Test Suites for Natural Language Processing
+%C Center for Sprogteknologi, Copenhagen
+%L Lehmann_etal:96
+%D 1996
+%P 711-716 

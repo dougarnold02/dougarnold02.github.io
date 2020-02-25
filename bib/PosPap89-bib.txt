@@ -1,0 +1,10 @@
+@inproceedings{PosPap89,
+  author =	 {D.J. Arnold},
+  address =	 {Manchester},
+  month =	 {August},
+  year =	 1989,
+  organization = {{UMIST}},
+  booktitle =	 {Workshop on MT Basic Research ``into the 90's''},
+  title =	 {Position Paper on Tools and Formalisms}
+}
+

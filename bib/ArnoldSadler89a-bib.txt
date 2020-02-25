@@ -1,0 +1,12 @@
+@incollection{ArnoldSadler:89a,
+   author    =  {D.J. Arnold and Louisa Sadler},
+   booktitle =  {Proceedings of the {ESADE} Conference
+                 in Language Learning and Business Education},
+   address   =  {Barcellona},
+   year      =  1989,
+   editor    =  {Peter Silcock},
+   publisher =  {Escuela Superior de Administracion y Direccion de Empresas},
+   pages     =  {155-168},
+   title     =  {{MiMo}: a Multilingual {MT} Research Tool}
+}
+

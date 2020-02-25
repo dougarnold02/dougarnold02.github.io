@@ -1,0 +1,14 @@
+@InProceedings{ArnoldLinLFG07,
+  author =	 {Doug Arnold 
+		  and Evita Linardaki},
+  title =	 { Linguistic Constraints in {LFG-DOP} },
+  booktitle =	 {Proceedings of the LFG07 Conference},
+  year =	 2007,
+  editor =	 {Miriam Butt and Tracy Holloway King},
+  publisher =	 {CSLI Publications},
+  address =	 {Stanford, Ca.},
+  pages =	 {66-86},
+  annote =	 {Essex Research Reports in Linguistics, vol 56},
+  url =		 {http://cslipublications.stanford.edu/LFG/12/lfg07.html}
+}
+

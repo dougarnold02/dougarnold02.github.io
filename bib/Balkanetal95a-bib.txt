@@ -1,0 +1,8 @@
+@techreport{Balkanetal95a,
+  author =	 {Lorna Balkan and Doug Arnold and Frederik Fouvry and
+                  et al},
+  year =	 1995,
+  institution =	 {TSNLP Project, CL/MT Group, University of Essex},
+  title =	 {The Construction of Test Material}
+}
+

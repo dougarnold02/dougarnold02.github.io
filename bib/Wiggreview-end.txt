@@ -1,0 +1,7 @@
+
+%V 69
+%T Review of \emphComputer Translation of Natural Language by W. Goshawke, I.D.K. Kelly, and J.D. Wigg, Sigma Press, 1987 
+%A D.J. Arnold
+%J AISBQ
+%D 1989
+%L Wiggreview

@@ -1,0 +1,11 @@
+@article{Arnold07,
+  author =	 {D.J. Arnold},
+  title =	 { {Non-Restrictive} Relatives are not Orphans },
+  journal =	 {Journal of Linguistics},
+  year =	 2007,
+  volume =	 43,
+  number =	 2,
+  pages =	 {272--309},
+  url =		 {http://journals.cambridge.org/}
+}
+

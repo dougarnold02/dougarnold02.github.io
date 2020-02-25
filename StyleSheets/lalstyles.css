@@ -1,0 +1,9 @@
+BODY { margin: 75px; background-color: white; color: black; font-family: arial, sans-serif }
+TABLE { font-family: arial, sans-serif }
+P { font-family: arial, sans-serif }
+H1 { font-weight: bold; font-size: 24pt; text-align: center }
+H2 { font-weight: bold; font-size: 16pt }
+A:link { color: purple; font-weight: bold; text-decoration: none }
+A:hover { color: red; font-weight: bold; text-decoration: none }
+A:active { color: red; font-weight: bold; text-decoration: none }
+A:visited { color: purple; font-weight: bold; text-decoration: none }

@@ -1,0 +1,12 @@
+@article{ArnoldSadler:91,
+   author =  {D.J. Arnold and Louisa Sadler},
+   year =  1991,
+   journal =  {{Machine} {Translation}},
+   pages =  {193-200},
+   title =  {Transfer Formalisms},
+   volume =  6,
+   annote   = {(Working Papers in Language Processing 7, \emph{Some Formal
+              Issues in Transfer}, Department of Language and Linguistics,
+              University of Essex, July, l989)}
+}
+

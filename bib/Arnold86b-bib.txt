@@ -1,0 +1,10 @@
+@article{Arnold:86b,
+   author  =  {D.J. Arnold},
+   year    =  1986,
+   journal =  {Proceedings of the IEEE},
+   number  =  7,
+   pages   =  {979-992},
+   title   =  {{Eurotra}: a {European} perspective on {MT}},
+   volume  =  74
+}
+

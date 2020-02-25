@@ -1,0 +1,11 @@
+
+%A Doug Arnold
+%A Louisa Sadler
+%B Proceedings of the LFG13 Conference, University of Debrecen, Hungary
+%E Miriam Butt and Tracy Holloway King
+%T  Displaced Dependent Constructions 
+%C Stanford, Ca.
+%I CSLI Publications, url http://www.stanford.edu/group/cslipublications/cslipublications/LFG/18/papers/lfg13arnoldsadler.pdf 
+%L ArnoldSadlerDD2013
+%P 48-68
+%D 2013

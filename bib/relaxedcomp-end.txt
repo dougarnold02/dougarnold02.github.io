@@ -1,0 +1,9 @@
+
+%T  `Relaxed' Compositionality in Machine Translation  
+%A D.J. Arnold
+%A e\0Tombe
+%A Steven Krauwer
+%A Louisa Sadler
+%I Department of Language and Linguistics, University of Essex
+%D 1988
+%L relaxedcomp

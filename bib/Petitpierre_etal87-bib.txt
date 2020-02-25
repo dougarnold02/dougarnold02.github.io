@@ -1,0 +1,12 @@
+@inproceedings{Petitpierre_etal:87,
+   author =  {D. Petitpierre and S. Krauwer and
+              L. des~Tombe and D.J. Arnold and G.B. Varile},
+   address =  {Copenhagen},
+   year    =  1987,
+   booktitle =  {Proceedings of the Third Conference of the
+                 European Chapter of the Association
+                 for Computational Linguistics (EACL-3)},
+   pages   =  {134-139},
+   title   =  {A Model for Preference}
+}
+

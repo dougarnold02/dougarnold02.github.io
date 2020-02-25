@@ -1,0 +1,9 @@
+
+%V 74 
+%N 7
+%A D.J. Arnold
+%T Eurotra: a European perspective on MT
+%L Arnold:86b
+%D 1986
+%J Proceedings of the IEEE
+%P 979-992

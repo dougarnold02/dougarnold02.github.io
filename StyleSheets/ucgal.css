@@ -1,0 +1,36 @@
+BODY { background-color: white; 
+       color: black; 
+       font-family: arial, sans-serif; 
+       margin-left:  9%;
+       margin-right: 6%
+ }
+TABLE { font-family: arial, sans-serif }
+P { font-family: arial, sans-serif }
+H1 { text-align: center; font-weight: bold; font-size: large ; center }
+H2 { color: #A11F16; font-weight: bold; font-size: large ; margin-bottom: 0}
+UL { margin-top: 0 }
+A:link {    color: #1B8E9C; font-weight: medium; text-decoration: underline }
+A:visited { color: #A11F16; font-weight: medium; text-decoration: underline }
+A:hover {   color: #66DDDD;  }
+
+/*
+     FILE ARCHIVED ON 22:06:17 Nov 08, 2015 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 13:42:36 Jan 21, 2020.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  exclusion.robots.policy: 0.203
+  CDXLines.iter: 13.562 (3)
+  LoadShardBlock: 61.442 (3)
+  captures_list: 99.344
+  RedisCDXSource: 20.531
+  esindex: 0.015
+  load_resource: 788.989
+  PetaboxLoader3.datanode: 163.06 (5)
+  exclusion.robots: 0.218
+  PetaboxLoader3.resolve: 683.201 (2)
+*/

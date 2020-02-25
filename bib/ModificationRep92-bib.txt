@@ -1,0 +1,11 @@
+@techreport{ModificationRep92,
+  author =	 {Doug Arnold
+		  and Kerry Maxwell
+		  and Louisa Sadler},
+  year =	 1992,
+  month =	 {December},
+  institution =	 {CL/MT Group, Department of Language and Linguistics,
+                  University of Essex},
+  title =	 { Monolingual Research on {Modification} }
+}
+

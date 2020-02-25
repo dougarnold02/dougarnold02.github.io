@@ -1,0 +1,11 @@
+
+%A D.J. Arnold
+%A Louisa Sadler
+%B Proceedings of the ESADE Conference in Language Learning and Business Education
+%E Peter Silcock
+%T MiMo: a Multilingual MT Research Tool 
+%C Barcellona
+%I Escuela Superior de Administracion y Direccion de Empresas
+%L ArnoldSadler:89a
+%D 1989
+%P 155-168

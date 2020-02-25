@@ -1,0 +1,12 @@
+@techreport{ArnoldSchmidt92,
+  author =	 {D.J. Arnold
+		  and Paul Schmidt},
+  year =	 1992,
+  month =	 {February},
+  institution =	 {Department of Language and Linguistics, University of
+                  Essex},
+  title =	 { Evaluations of Some {MT} Systems and Formalisms: Report
+                  prepared for {E}urolang {P}roject, Task 1, Inventory of
+                  Techniques }
+}
+

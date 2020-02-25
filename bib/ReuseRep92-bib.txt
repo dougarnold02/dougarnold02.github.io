@@ -1,0 +1,11 @@
+@techreport{ReuseRep92,
+  author =	 {D.Arnold and T.Badia and J. van~Genabith and D.Kohl
+                  and S.Markantonatou and S.Momma and S.Pulman and
+                  L.Sadler and P.Schmidt},
+  year =	 1992,
+  editor =	 {S. Markantonatou and L. Sadler},
+  institution =	 {Commission of the European Communities},
+  title =	 {Reusability of Grammatical Resources and Grammar
+                  Development in {ALEP}}
+}
+

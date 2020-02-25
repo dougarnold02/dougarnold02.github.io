@@ -1,0 +1,11 @@
+@Unpublished{arnoldlagb04,
+  author =	 {Doug Arnold},
+  title =	 { {Non-Restrictive} Relatives are not Orphans },
+  note =	 {Paper presented at the Autumn Meeting of the Linguistics
+                  Association of Great Britain, Roehamton, University of Surrey},
+  month =	 {September},
+  year =	 2004,
+  url =
+                  {http://www.essex.ac.uk/linguistics/research/resgroups/clgroup/papers/doug/lagb04.pdf}
+}
+

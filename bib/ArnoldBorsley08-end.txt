@@ -1,0 +1,11 @@
+
+%A Doug Arnold
+%A Robert D. Borsley
+%E  Stefan Mueller
+%D 2008
+%L ArnoldBorsley08
+%C Stanford, Ca.
+%P 325-345
+%B Proceedings of the 15th International Conference on Head-Driven Phrase Structure Grammar (HPSG08), NICT, Keihanna, Japan 
+%T  Non-restrictive Relative Clauses, Ellipsis and Anaphora 
+%I CSLI Publications

@@ -1,0 +1,22 @@
+
+%V 30
+%A Louisa Sadler
+%A D.J. Arnold
+%T Prenominal Adjectives and the Phrasal/Lexical Distinction
+%L SadlerArnold:94
+%D 1994
+%J Journal of Linguistics
+%P 187-226
+
+%V 4
+%A D.J. Arnold
+%O ISSN 1017-6568 
+%S Studies in Machine Translation and Natural Language Processing
+%B Grammatical Formalisms: Issues in Migration and Expressivity
+%E Stella Markantonatou and Louisa Sadler
+%T Reusability --- general considerations
+%C Luxembourg
+%I Office for Official Publication of the European Communities
+%P 11-34
+%D 1994
+%L Arnold:94

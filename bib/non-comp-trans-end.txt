@@ -1,0 +1,7 @@
+
+%T  Non-compositionality and translation  
+%A D.J. Arnold
+%A Louisa Sadler
+%I Department of Language and Linguistics, University of Essex
+%D 1987
+%L non-comp-trans

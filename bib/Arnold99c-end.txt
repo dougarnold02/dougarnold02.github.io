@@ -1,0 +1,9 @@
+
+%A Doug Arnold
+%O 6 pages
+%B Proc European Conference of the Association for Computational Linguistics (EACL'99) Workshop on Computer and Internet Supported Education in Language and Speech Technology
+%T Web Access to Corpora: the W3Corpora Project
+%C University of Bergen, Norway
+%I European Association for Computational Linguistics 
+%L Arnold99c
+%D 1999

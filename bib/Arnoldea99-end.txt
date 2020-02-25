@@ -1,0 +1,11 @@
+
+%C Dept. of Language and Linguistics, University of Essex
+%T Corpora and Grammars on the Web: the W3Corpora--IGE Project, Final Report JTAP--2/247
+%A Doug Arnold
+%A Bas Aarts
+%A Justin Buckley
+%A Ylva Berglund
+%A Gerald Nelson
+%A Martin Rondell
+%D 1999
+%L Arnoldea99

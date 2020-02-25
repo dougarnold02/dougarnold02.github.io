@@ -1,0 +1,9 @@
+
+%A Doug Arnold
+%A Ylva Berglund
+%B TALC-98 (Third International Conference on Teaching and Language Corpora)
+%T WWW Access to Corpora: a tool for teaching and learning about Corpora
+%C Keeble College, Oxford
+%I Humanities Computing Unit, Oxford University, Oxford
+%L ArnoldBerglund98
+%D 1998

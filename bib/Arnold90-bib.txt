@@ -1,0 +1,11 @@
+@incollection{Arnold:90,
+   author    =  {D.J. Arnold},
+   booktitle =  {Translating and the Computer 10},
+   address   =  {London},
+   year      =  1990,
+   editor    =  {Pamela Mayorcas},
+   publisher =  {Aslib},
+   pages     =  {73-89},
+   title     =  {Text typology and {M}achine {T}ranslation: an overview}
+}
+

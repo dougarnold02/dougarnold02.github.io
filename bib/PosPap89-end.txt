@@ -1,0 +1,8 @@
+
+%A D.J. Arnold
+%B Workshop on MT Basic Research ``into the 90's''
+%C Manchester
+%T Position Paper on Tools and Formalisms 
+%L PosPap89
+%D 1989
+%I UMIST

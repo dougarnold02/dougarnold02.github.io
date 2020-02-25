@@ -1,0 +1,10 @@
+
+%B Proceedings of the Second International Conference on Theoretical and Methodological Issues in Machine Translation
+%T Relaxed Compositionality in MT
+%C Pittsburg
+%A D.J. Arnold
+%A S. Krauwer
+%A \0Tombe
+%A L.G. Sadler
+%D 1988
+%L Arnold_etal:88

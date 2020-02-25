@@ -1,0 +1,793 @@
+%% Time-stamp: <15 Feb 2020, 16:47:06 GMT (doug: a14019.essex.ac.uk): index.tex>
+\documentclass[a4paper]{article}
+\usepackage{me}
+\usepackage{hyperlatex}
+\usepackage{frames}
+% clicking a menu item should use the
+% whole navigator window for the new page
+\xmlattributes{a}{target="_top"}
+
+\T \newcommand{\hlink}[1]{\xlink{{\tt #1}}{#1}}
+\W \renewcommand{\navigationname}{Contents}
+          % ---------------------------------------------------
+          % hyperlatex declarations: 
+\htmltitle{Doug Arnold's Home Page}
+% \htmldepth{1} 
+\W \renewcommand{\HlxIcons}{./img/}
+          % sets the location of the html icons
+
+\W\newcommand{\new}{\htmlimage[border="0"]{./img/new1.gif}}
+\T\newcommand{\new}{\emph{(*new*)}}
+
+% \mybitmap{alternativetext}{imagefile}
+\newcommand{\mybitmap}[2]{%
+ \xlink{\htmlimage[border="0" alt="#1"
+   align=middle]{#2}}
+  }
+
+\newcommand{\Item}[2]{\item\xlink{#1}{#2}}
+
+\title{%\mybitmap{}{./img/me.gif}{./img/me1.jpg}
+        Doug Arnold's Home Page
+       %\mybitmap{}{./img/me.gif}{./img/me2.jpg}
+      }
+\htmltitle{Doug Arnold's Home Page}
+\date{}
+\author{\MyEmail}
+
+\usepackage{bibentry}
+\bibliographystyle{mybibentry-with-url}
+\begin{document}
+\nobibliography{Arnold-major,Arnold-minor}
+\maketitle
+%  --------------------------------------------------------------
+
+%\htmlimage[align=right width=70 height=50 hspace=3]{./0003.JPG}
+%\htmlimage[align=right height=50 hspace=3]{./img/me2.jpg}
+\xlink{\htmlimage[align=right border="0" width=200 hspace=5]{./img/me-2012.jpg}}
+      {./img/me-2012.jpg}
+I am currently a Visiting Fellow in the \xlink{Department of Language and Linguistics}{http://www.essex.ac.uk/linguistics/} at 
+\xlink{Essex}{http://www.essex.ac.uk}. 
+
+I was educated at Cambridge (English Literature), and at the
+University of Essex (MA and PhD in Theoretical Linguistics), where I was a
+Lecturer/Senior Lecturer between 1981 and October 2017. Prior to this I had spent two years teaching English
+in Japan, and a year as a lecturer in Computational Linguistics at
+the University of Manchester Institute of Science and Technology. I have also held visiting positions at the \xlink{University of Paris Diderot 
+(Paris 7)}{http://www.univ-paris-diderot.fr/} and \xlink{The University of
+Tokyo}{http://www.c.u-tokyo.ac.jp/}. 
+
+My main \textbf{research interests} are in formal and descriptive grammar, especially
+syntax and semantics, and 
+``Constraint Based'' approaches 
+(\xlink{LFG}
+          {http://www.essex.ac.uk/linguistics/external/LFG},
+\xlink{HPSG}
+          {http://www.essex.ac.uk/linguistics/external/HPSG}).
+
+%% Between 2010 and 2013, I was Head of Department of 
+%% \xlink{Language and Linguistics}{http://www.essex.ac.uk/linguistics/}. The current Head is 
+%% \xlink{Nancy Kula}{http://www.essex.ac.uk/langling/staff/profile.aspx?ID=80}.
+
+% I was formerly book reviews editor for the Journal 
+%     \xlink{\textbf{Machine Translation}}{http://www.ccl.umist.ac.uk/staff/harold/MTjnl/}.
+% The new book review editor is Remi Zajac (\mailto{zajac[@]crl.nmsu.edu}).
+
+%\new \xlink{Tasks for new MA Students}{./ma-cl/new-student-tasks/} \new
+%\new \xlink{FAQ for new Students on the MA in CL}{./ma-cl/faq/} \new
+
+%%  ---------------------------------------------------------------------- 
+\section{Teaching}
+
+As a Visiting Fellow, I don't do any teaching nowadays.
+
+In the past I have taught on the following courses (in some cases the materials may
+still be available on-line):
+\newcommand{\Course}[3]{\item #1 %
+                        [\xlink{Module Directory Entry}{#3},%
+                         \xlink{Module Materials Page}{http://orb.essex.ac.uk/#2}].%
+                       }
+%\newcommand{\CourseCat}[3]{http://www.essex.ac.uk/courses/Default.aspx?coursecode=#1\&level=#2\&period=#3}
+\newcommand{\CourseCat}[3]{http://www.essex.ac.uk/modules/Default.aspx?coursecode=#1\&level=#2\&period=#3}
+
+% \item\xlink{#1}{#2}}
+\begin{itemize}
+\Course{LG111 Words and Sentences\label{lg111}}
+       {lg/lg111}
+       {\CourseCat{LG111}{4}{SP}} (2016-17)
+\Course{LG114 Language Variation and Change\label{lg114}}
+       {lg/lg114}
+       {\CourseCat{LG114}{4}{SP}} (2016-17)
+\Course{LG211 Semantics and Pragmatics\label{lg211}}
+       {lg/lg202}
+       {\CourseCat{LG211}{5}{SP}} (2016-17)
+\Course{LG614 Syntactic Theory II\label{lg614}}
+       {lg/lg614}
+       {\CourseCat{LG614}{7}{SP}} (2016-17)
+\Course{lg213 Research Methods\label{lg213}}
+       {lg/lg213}
+       {\CourseCat{LG213}{5}{SP}} (2016-17)
+% \Course {LG230 Linguistic Review}
+%         {http://orb.essex.ac.uk/lg/lg230/} 
+%         {\CourseCat{LG230}{5}{FY}} 
+\end{itemize}
+
+% My office hours are Monday 11:00-12:00, and Friday 11:00-12:00; you can also see me
+% at other times (send me an email if I am not here).
+
+% Since I'm on study leave in 2013-2014, I don't have office hours. But if you want to
+% talk to me, you can mail me, and we can arrange to meet.
+
+% This is my \xlink{timetable}{./timetable.html}, including
+% my office hours.
+
+
+I sometimes contributed to the Department's professional development course for research
+students (lg595). %, see \hlink{http://courses.essex.ac.uk/lg/lg595/index.htm}.
+
+It's not normal teaching, but I have played an active part in a the 
+\xlink{Language and Computation Group}{http://cswww.essex.ac.uk/LAC/}
+seminar, and I keep related materials 
+\xlink{here (Autumn 2007)}{http://www.essex.ac.uk/linguistics/research/resgroups/clgroup/Resources/Nugues/}.
+
+%(I also sometimes teach a course in Semantics
+% \Course{Semantics}{http://clwww.essex.ac.uk/course/LG517/}, 
+% but not this year).
+% I also sometimes give two lectures on 
+% \xlink{{\bf Semantics} for LG111 Introduction to Linguistics} 
+%    {./courses/lg111/}
+
+I used to be scheme director for the 
+        \xlink{Masters' Degree in Computational Linguistics}
+              {http://privatewww.essex.ac.uk/\~{}doug/ma-cl/} (which no longer
+              exists, but there is \xlink{Web Page for alumni}
+      {./ma-cl/alumnus-page/} from the Degree).
+
+In the more distant past, I used to teach:
+\newcommand{\OldCourse}[3]{\item #1 %
+                        [\xlink{Module Materials Page}{http://orb.essex.ac.uk/#2}].%
+                       }
+
+\begin{itemize}
+\OldCourse {LG102 Language in Use}
+        {lg/lg102/} 
+        {\CourseCat{LG102}{4}{FY}}\label{LG102}
+\OldCourse {LG105 Foundations of Linguistics}
+        {lg/lg105/} 
+        {\CourseCat{LG105}{4}{FY}}
+\OldCourse{LG287 Meaning and Words}
+       {lg/lg287}
+       {\CourseCat{LG287}{5}{FY}}
+\OldCourse{LG511 Computational Linguistics (1)}
+       {lg/LG511/} 
+       {}%{\CourseCat{LG511}{7}{AU}}
+\OldCourse{LG611 Computational Linguistics (2)}
+       {lg/LG611/}
+       {}%{\CourseCat{LG611}{7}{SP}}
+\OldCourse{LG517 Semantics}
+       {} 
+       {}%{\CourseCat{LG519}{7}{AU}}
+\OldCourse{LG514 Syntactic Theory I}
+       {lg/lg514}
+       {\CourseCat{LG514}{7}{AU}}
+\OldCourse{LG518 Introduction to Head Drived Phrase Structure Grammar}
+       {lg/LG518/} 
+       {}%{\CourseCat{LG518}{7}{AU}}
+\OldCourse{LG618 Topics in Head Driven Phrase Structure Grammar}
+        {lg/LG618/}
+        {}%{\CourseCat{LG618}{7}{SP}}
+\OldCourse{LG519 Prolog and Natural Language Processing (1)}
+       {lg/LG519/} 
+       {}%{\CourseCat{LG519}{7}{AU}}
+\OldCourse{LG619 Prolog and Natural Language Processing (2)}
+       {lg/LG619/}
+       {}%{\CourseCat{LG619}{7}{SP}}
+\OldCourse{LA872 Principles and Practice of Writing in the L2}
+       {la/la872}
+       {\CourseCat{LA872}{7}{AU}}
+\OldCourse{LA886 Writing in the L2}
+       {la/la886}
+       {\CourseCat{LA886}{7}{SP}}
+\end{itemize}
+
+In some cases, materials for these courses is still available on-line.
+
+I also used to teach a course on Corpora (especially using the BNC), the materials are 
+\xlink{here (LG275 Language Research Skills)}{http://orb.essex.ac.uk/lg/LG275/doug}
+
+I spent the summer term of 2016 on research leave at the
+\xlink{University of Tokyo}{http://www.u-tokyo.ac.jp/en/}. While I was there, I gave
+some lectures, you can find the slides etc. 
+\xlink{here}{http://DougArnold.paperplane.io/Todai2016/}.
+
+\section{Phd Students}
+These are my recent and current PhD students:
+\begin{description}
+
+% \newcommand{\Student}[3]{\item[#1 (\mailto{#2},\xlink{webpage}{#3}) ]}
+\newcommand{\Student}[2]{\item[#1 (\mailto{#2}) ]}
+\Student{Lorna Balkan}
+        {balka[@]essex.ac.uk}
+        %\xlink{webpage}{http://privatewww.essex.ac.uk/\~{}balka} 
+        \xlink{\emph{A treatment of Verb Phrase ellipsis for Machine Translation}}
+        {http://www.essex.ac.uk/linguistics/publications/theses/1990-1999/1998.aspx},
+        University of Essex 1998.
+
+\Student{Andy Way}
+        {away[@]ca.dcu.ie}
+        %\xlink{webpage}{http://www.compapp.dcu.ie/\~{}away/}
+        \emph{{LFG-DOT}: a hybrid architecture for robust {MT}}, 
+        University of Essex
+        2001.
+
+\Student{Frederik Fouvry}
+        {fouvry[@]CoLi.Uni-SB.DE}
+        %\xlink{webpage}{http://www.coli.uni-sb.de/\~{}fouvry/} 
+        \xlink{\emph{Robust processing for constraint-based grammar formalisms}}
+              {http://www.coli.uni-sb.de/~fouvry/thesis-phd.html}
+              University of Essex, 2003.
+
+\Student{Yasu Kawata}
+%        {ykawat[@]cs.nyu.edu}
+%        {http://www.cs.nyu.edu/cs/projects/proteus/kawata/}
+       {ykawat[@]essex.ac.uk}
+       %\xlink{webpage}{http://privatewww.essex.ac.uk/\~{}ykawat/}
+        \xlink{\emph{Tagsets for Morphosyntactic Corpus Annotation: the idea of a `reference
+       tagset' for Japanese}}
+              {http://www.essex.ac.uk/linguistics/external/clmt/papers/theses/},
+       University of Essex, 2005.
+
+\Student{Maria Flouraki}
+        {maria.flouraki[@]gmail.com}
+        %\xlink{webpage}{http://privatewww.essex.ac.uk/\~{}mflour}
+        \xlink{\emph{Aspect in Modern Greek: an HPSG Approach}}
+              {http://www.essex.ac.uk/linguistics/external/clmt/papers/theses/}, 
+        University of Essex, 2005. 
+
+\Student{Evita Linardaki}
+        {elinaro[@]essex.ac.uk}
+        %\xlink{webpage}{http://privatewww.essex.ac.uk/\~{}elinaro}
+        \xlink{Linguistic and statistical extensions of Data Oriented Parsing}
+              {http://www.essex.ac.uk/linguistics/external/clmt/papers/theses/}
+        University of Essex, 2006.
+
+\Student{Miriam Urgelles}{murgel[@]essex.ac.uk}
+        %\xlink{webpage}{http://privatewww.essex.ac.uk/\~{}murgel}
+        \xlink{`Anyway' A Formal Approach to the Syntax and Semantics of Discourse
+                  Markers}
+              {http://www.essex.ac.uk/linguistics/external/clmt/papers/theses/}
+        University of Essex, 2009.
+
+\Student{Voula Ghotsoulia}{vghotsoulia[@]yahoo.co.uk}
+        %\xlink{http://privatewww.essex.ac.uk/\~{}pghots/}{webpage}
+        \emph{An Entailment-Based Approach to Semantic Role Annotation}
+        University of Essex, 2010.
+
+%% \Student{James Read}{jcread[@]essex.ac.uk}
+%%         working on Machine Translation
+%%         [\xlink{webpage}{http://privatewww.essex.ac.uk/\~{}jcread/}].
+
+%% \Student{Bedour Alsharifi}{yaalsh[@]essex.ac.uk}
+%%        working on Adjectives in Modern Standard, and Kuwaiti Arabic, in LFG.
+%%        (Joint supervision with \xlink{Louisa Sadler}{http://privatewww.essex.ac.uk/\~{}louisa/}).
+%% %        [\xlink{webpage}{http://privatewww.essex.ac.uk/\~{}yaalsh/}].
+
+\Student{Ahmad Alotaibi}{asdalo[@]essex.ac.uk}
+       \xlink{\emph{The Copula in Arabic: Description and Analysis}}{http://repository.essex.ac.uk/21096/1/Alotaibi2017.pdf}
+       % [\xlink{webpage}{http://privatewww.essex.ac.uk/\~{}asdalo/}].
+       University of Essex, 2017.
+       (Joint supervision with \xlink{Bob Borsley}{http://privatewww.essex.ac.uk/\~{}rborsley/}).
+
+\Student{Tagreed Alzahrani}{tahalz[@]essex.ac.uk}
+        \xlink{\emph{Floating and Non-floating Quantifiers in Hijazi Arabic: an HPSG Analysis}}{http://repository.essex.ac.uk/26282/}
+          University of Essex, 2019.
+       (Joint supervision with \xlink{Bob Borsley}{http://privatewww.essex.ac.uk/\~{}rborsley/}).
+
+\Student{Fatemah Alharthy}{fmdalh[@]essex.ac.uk}
+      working on Masdar in Modern Standard, and South Western Arabic, in LFG. 
+       (joint supervision with \xlink{Louisa Sadler}{http://privatewww.essex.ac.uk/\~{}louisa/}).
+\end{description}
+
+There is much wisdom about the art of PhD supervision (or, as he calls it `Thesis
+Prevention') to be found in \xlink{the thoughts of
+Father A Hacker (S.J.)}{ThesisPrevention/index.pdf}. More seriously, Gordon
+B. Davis's paper `\xlink{Advising and Supervising Doctoral Students: Lessons I Have
+  Learned}{http://misrc.umn.edu/workingpapers/fullpapers/2004/0412_052404.pdf}' is
+well worth reading.
+
+
+
+%% %%  ---------------------------------------------------------------------- 
+%% \section{Administration}
+%% % \begin{itemize}
+%% 
+%% I am GTA Coordinator and First year Linguistics Coordinator.
+%% 
+%% I am module director for \link{lg111}{lg111}, \link{lg114}{lg114}, and \link{lg614}{lg614} (see above).
+%% 
+%% In the Autumn term of 2016-17, I will be Academic Offences Officer (in the Spring and
+%% Summer terms it will be \xlink{Vineeta Chand}{http://www.essex.ac.uk/langling/staff/profile.aspx?ID=2444}).
+%% 
+%% In the Spring and Summer Terms of 2016-2017, I will be course director for 
+%% \xlink{BA Linguistics}{http://www.essex.ac.uk/courses/details.aspx?mastercourse=UG00241\&subgroup=1}.
+%% and 
+%% \xlink{BA English Language and Linguistics}{http://www.essex.ac.uk/courses/details.aspx?mastercourse=UG00131\&subgroup=1}.
+%% 
+%% Between summer 2010 and summer 2013, I was Head of Department (the current Head is 
+%% \xlink{Nancy Kula}{http://www.essex.ac.uk/langling/staff/profile.aspx?ID=80}).
+%% 
+%% I was the editor of the \emph{Essex Research Reports in Linguistics}, between about
+%% 2008 and 2013 (when the series was discontinued). You can find copies of the reports in the University \xlink{research repository}
+%% {http://repository.essex.ac.uk/cgi/search/archive/advanced?screen=Search\&dataset=archive\&documents_merge=ALL\&documents=\&title_merge=ALL\&title=\&creators_name_merge=ALL\&creators_name=\&creators_id_merge=ALL\&creators_id=\&abstract_merge=ALL\&abstract=\&date=\&keywords_merge=ALL\&keywords=\&subjects_merge=ANY\&divisions_merge=ANY\&department_merge=ALL\&department=\&editors_name_merge=ALL\&editors_name=\&refereed=EITHER\&publication_merge=ALL\&publication=\&grant_number_merge=ALL\&grant_number=\&id_number_merge=ALL\&id_number=\&publisher_merge=ALL\&publisher=Essex+Research+Reports+in+Linguistics\&satisfyall=ALL\&order=-date\%2Fcreators_name\%2Ftitle\&_action_search=Search}.
+%% 
+%% %% If you would like to publish a paper in the Reports series, please see \xlink{this
+%% %%   link}{./ERRL-EditorialPolicy/} for the (very simple) instructions.
+%% 
+%% Previously, I had been  scheme director for the 
+%%         \xlink{Masters' Degree in Computational Linguistics}
+%%               {http://www.essex.ac.uk/coursefinder/CourseDetails.aspx?course=MA++Q10312}
+%%               (and see also \xlink{this page}
+%%               {http://privatewww.essex.ac.uk/\~{}doug/ma-cl/}), and the 
+%%         \xlink{BA in English Language}
+%% %              {http://www.essex.ac.uk/linguistics/ugops/ell/ellengsyll.shtm}.
+%%               {http://www.essex.ac.uk/linguistics/undergraduate/ba_ell/ba_english_lang.aspx}.
+%% %\end{itemize}
+%% 
+%% %% But in 2009-10,
+%% %% \xlink{Louisa Sadler}{http://privatewww.essex.ac.uk/\~{}louisa} will be in charge of
+%% %% the MA in CL, and 
+%% %% \xlink{Nancy Kula}{http://privatewww.essex.ac.uk/\~{}nckula}
+%% %% will be in charge of the BA in English Language.
+%% 
+%% %% Normally, I am in charge of \xlink{LG230-2-FY Linguistic Review}{http://www2.essex.ac.uk/courses/result.asp?coursecode=LG230\&level=2\&period=FY\&yearofcourse=07}.
+%% %% But in 2009-10, the person who is in charge here will be
+%% %% \xlink{Peter Patrick}{http://privatewww.essex.ac.uk/\~{}patrickp}.
+%% 
+%% %% Normally, I am the main academic person responsible for undergraduate admissions to the
+%% %% Linguistics/English Langauge courses in the 
+%% %% Department (i.e. the courses that are not Modern Languages). 
+%% %% But in Autumn 2009-10, this will by 
+%% %% \xlink{Nancy Kula}{http://privatewww.essex.ac.uk/\~{}nckula}.
+%% %% (This job is sometimes
+%% %% called the `undergraduate admissions coordinator', or `undergraduate selection'; in
+%% %% some Universities and Departments it would be called `Admissions Tutor'.) 
+%% 
+%% 
+%% % I used to be \xlink{Graduate Research Coordinator}
+%% %                   {http://www.essex.ac.uk/linguistics/pgr/} with general responsibility
+%% % for research students in Language and Linguistics at Essex. The new
+%% % Graduate Research Coordinator is Claudia Felser \mailto{felsec[@]essex.ac.uk}.
+%% 
+%%  ---------------------------------------------------------------------- 
+\section{Recent Projects}
+
+\begin{description}
+
+\item[PARSEME] Between March 2013 and September 2017 I was involved in the
+  \xlink{COST}{http://www.cost.eu} (European Cooperation in Science and Technology
+  framework) Action Project IC1207: \xlink{PARSEME: PARSing and Multi-word
+    Expressions. Towards linguistic precision and computational efficiency in natural
+    language processing}{http://www.cost.eu/domains_actions/ict/Actions/IC1207}'.
+
+\item[Alliance Project] ``Interface Issues in Constraint Based Grammar''.  Follow 
+\xlink{this link}{http://www.essex.ac.uk/linguistics/research/resgroups/clgroup/Alliance05Project/}.
+
+%% \item[Non-Restrictive Relatives] Over the couple of years I have been working on
+%% the grammar of non-restrictive (appositive) relative clauses. (See under
+%% \link{Downloadable Papers}{sec:downloadable-papers}).
+
+\item[ACL Anthology] I was an associate editor of the 
+\xlink{ACL Anthology}{http://www.ldc.upenn.edu/acl/} for several years
+(a Digital Archive of Research Papers in Computational Linguistics). In particular, I
+put together a lot of the bibliographic data (in the form of BibTeX entries). My part
+in this was completed around 2005.
+% You can get an overview of the work  and find individual bibliographies
+% \xlink{here}{http://www.essex.ac.uk/linguistics/research/resgroups/clgroup/aclbib/}, and
+% you can search the whole bibliography 
+% \xlink{here}{http://www.essex.ac.uk/linguistics/external/clmt/bibsearch/}.
+
+\item[W3Corpora]
+In the late 1990s, I worked on a project on
+making corpus resources available over the World Wide Web. Here is
+% \xlink{the original proposal}{./papers/JTAP-proposal.ps}; 
+% \xlink{a talk I gave at a recent conference}{./papers/drh.ps};
+\xlink{the final report of the project}
+      {http://www.essex.ac.uk/linguistics/external/clmt/w3c-ige/FinalReport/}, and a link to 
+\xlink{the web page of the project itself}{http://www.essex.ac.uk/linguistics/external/clmt/w3c/}.
+
+\item[Eurotra]
+In the 1980s and early 1990s I played a role in the Eurotra Machine Translation
+Project (\xlink{Wikipedia Entry}{https://en.wikipedia.org/wiki/Eurotra}, see also
+\xlink{here}{http://www-sk.let.uu.nl/stt/eurotra.html}, and
+\xlink{here}{http://www.hutchinsweb.me.uk/IntroMT-14.pdf}), and was part of a number
+of spin off projects.
+\end{description}
+
+%% ------------------------------------------------------------------ 
+\section{Downloadable Papers}\label{sec:downloadable-papers}
+
+\newcommand{\clgrouppapersdoug}
+           {http://www.essex.ac.uk/linguistics/research/resgroups/clgroup/papers/doug}
+\newcommand{\BibLink}[1]{~{}{[\small\xlink{BibTeX}{bib/#1-bib.txt},\xlink{Endnote}{bib/#1-end.txt}]}}
+
+
+Only on-line, or downloadable papers are listed here.
+
+\paragraph{2020}
+\begin{itemize}
+\item \bibentry{ArnoldGodard19Relative}~\BibLink{ArnoldGodard19Relative}
+\end{itemize}
+\paragraph{2017}
+\begin{itemize}
+\item \bibentry{AlsunamiArnoldBorsley2017}~\BibLink{AlsunamiArnoldBorsley2017}
+\end{itemize}
+
+\paragraph{2016}
+\begin{itemize}
+
+\item \bibentry{arnold-lucas2016}~\BibLink{arnold-lucas2016}
+\item \bibentry{ArnoldBargmann16IdiomPoster}~\BibLink{ArnoldBargmann16IdiomPoster}
+
+\end{itemize}
+
+\paragraph{2015}
+
+\begin{itemize}
+\item  \bibentry{arnold-spencer2015}~\BibLink{arnold-spencer2015}
+\item  \bibentry{ArnoldIdiomsPoster15}~\BibLink{ArnoldIdiomsPoster15}
+\end{itemize}
+
+\paragraph{2014}
+
+\begin{itemize}
+\item \bibentry{arnold-borsley2014}~\BibLink{arnold-borsley2014}
+\item \bibentry{ArnoldSadler2014}~\BibLink{ArnoldSadler2014}
+\end{itemize}
+
+\paragraph{2013}
+
+\begin{itemize}
+\item \bibentry{ArnoldSadlerDD2013}~\BibLink{ArnoldSadlerDD2013}
+\end{itemize}
+
+\paragraph{2012}
+\begin{itemize}
+\item \bibentry{ArnoldSadlerAffected2012}~\BibLink{ArnoldSadlerAffected2012}
+\end{itemize}
+
+\paragraph{2011}
+\begin{itemize}
+\item \bibentry{ArnoldSadlerSplitting2011} \BibLink{ArnoldSadlerSplitting2011}
+\end{itemize}
+
+\paragraph{2010}
+
+\begin{itemize}
+\item \bibentry{ArnoldBorsley2010}~\BibLink{ArnoldBorsley2010}
+\item \bibentry{ArnoldSadlerPottsian10}~\BibLink{ArnoldSadlerPottsian10}
+\end{itemize}
+
+\paragraph{2009}
+
+\begin{itemize}
+\item \bibentry{arnoldlagb09}~\BibLink{lagb09}
+\end{itemize}
+
+\paragraph{2008}% ------------------------------------------ 
+
+\begin{itemize}
+\item\bibentry{ArnoldBorsley08}\BibLink{ArnoldBorsley08}
+\end{itemize}
+
+\paragraph{2007}% ------------------------------------------ 
+
+\begin{itemize}
+
+\item\bibentry{Arnold07}\BibLink{Arnold07}
+
+\item\bibentry{ArnoldLinLFG07}\BibLink{ArnoldLinLFG07}
+
+\item\bibentry{Arnold07DOPricher}\BibLink{Arnold07DOPricher}
+
+\item\bibentry{ArnoldLinESSLLI07}\BibLink{ArnoldLinESSLLI07}
+%\item Doug Arnold and Evita Linardaki (2007a) `\xlink{{HPSG-DOP}: Towards
+%    Exemplar-based {HPSG}}{\clgrouppapersdoug/esslli07.pdf}' Paper presented at the
+%  Workshop `Exemplar-Based Models of Language Acquisition and Use', ESSLLI 2007,
+%  Dublin, 6--17, August, 2007.
+
+\item\bibentry{ArnoldLinTFSG07}\BibLink{ArnoldLinTFSG07}%%     
+%\item  Doug Arnold and Evita Linardaki (2007)
+%   `\xlink{A Data-Oriented Parsing Model for
+%       HPSG}{\clgrouppapersdoug/tfsg07.pdf}'
+%   In \xlink{\emph{2nd International Workshop on Typed Feature Structure Grammars (TFSG'07)}}
+%   {http://cst.dk/anders/tfsg/tfsg07.html},
+%   Tartu, Estonia, 24-26, May,   2007.
+\end{itemize}
+
+\paragraph{2006}% ------------------------------------------ 
+\begin{itemize}
+
+\item \bibentry{arnold-sadler-villa06a}
+%
+%\item Doug Arnold, Louisa Sadler, and Aline Villavicencio. `Portuguese: Corpora,
+%  coordination and agreement'. In \xlink{\emph{Linguistic Evidence: Empirical,
+%      Theoretical, and Computational Perspectives
+%      (LingEvid2005)}}{http://www.sfb441.uni-tuebingen.de/LingEvid2006/}, 
+%  SFB441,
+%  Tuebingen, February 2006.
+  [\xlink{Abstract}{\clgrouppapersdoug/lingevid06abs.pdf}, 
+   \xlink{Full Paper}{\clgrouppapersdoug/LingEvid2006.pdf} 
+  ]~\BibLink{arnold-sadler-villa06a}
+\end{itemize}
+
+\paragraph{2005}% ------------------------------------------ 
+\begin{itemize}
+
+% \item Doug Arnold (2005) 
+%      \xlink{`Non-Restrictive Relatives are not Orphans'}
+%      {\clgrouppapersdoug/arnold05.pdf} (this is the long version of the LAGB paper
+%      mentioned below).
+
+\item\bibentry{villavicencio-etal05}\BibLink{villavicencio-etal05}
+%\item  Aline Villavicencio, Louisa Sadler, and Doug Arnold (2005)
+%  \xlink{An HPSG Account of Closest Conjunct Agreement in NP Coordination in Portuguese}
+%  {http://cslipublications.stanford.edu/HPSG/6/vsa.pdf} in 
+%    \xlink{\emph{Proceedings of the 12th International Conference on Head-Driven Phrase
+%    Structure Grammar}}
+%    {http://cslipublications.stanford.edu/HPSG/6/toc.shtml},
+%    Stefan Mueller, ed., CSLI Publications, Stanford, CA.
+%    [\xlink{Local Copy}{\clgrouppapersdoug/hpsg05.pdf}]
+
+\end{itemize}
+\paragraph{2004}% ------------------------------------------ 
+\begin{itemize}
+\item\bibentry{arnoldlagb04}~\BibLink{arnoldlagb04}
+ 
+\item\bibentry{Arnold04a}~\BibLink{Arnold04a}
+\end{itemize}
+
+   
+\paragraph{2003}% ------------------------------------------ 
+\begin{itemize}
+ \item \bibentry{Arnold03}[\xlink{Draft}{\clgrouppapersdoug/TranslatBook.pdf}]~\BibLink{Arnold03}
+\end{itemize}
+
+\paragraph{2000}
+\begin{itemize}
+%
+\item\bibentry{arnold00errl}~\BibLink{arnold00-errl}
+
+\item\bibentry{Arnold00}~\BibLink{Arnold00}
+
+\end{itemize}
+
+\paragraph{1999}% ------------------------------------------ 
+\begin{itemize}
+\item\bibentry{Arnold99c}~\BibLink{Arnold99c}
+
+% \item   Doug Arnold (1999)
+%         \xlink{Web Access to Corpora: the {W3Corpora} Project}
+%         {\clgrouppapersdoug/eacl99.ps}, 
+%         European Association for Computational Linguistics
+%         Post-Conference Workshop on Computer and Internet
+%         Supported Education in Language and Speech
+%         Technology,
+%         University of Bergen, Norway.     
+
+\item\bibentry{Arnoldea99}
+
+%\item Doug Arnold, Bas Aarts, Justin Buckley, Ylva Berglund, Gerald Nelson, and
+%      Martin Rondell (1999) 
+%      \xlink{Corpora and Grammars on the Web: The W3Corpora-IGE Project}
+%            {http://www.essex.ac.uk/linguistics/clmt/w3c-ige/FinalReport/}, 
+%      Final Report, JTAP--2/247.
+%
+\end{itemize}
+
+\paragraph{1998}% ------------------------------------------ 
+\begin{itemize}
+\item\bibentry{ArnoldBerglund98}~\BibLink{ArnoldBerglund98}
+
+%     \item Doug Arnold and Ylva Berglund (1998) 
+%     \xlink{WWW Access to Corpora: a tool for teaching and learning about Corpora}
+%           {http://clwww.essex.ac.uk/w3c/corpus_ling/TALC.html}, 
+%      Presented at TALC98, Keeble College, Oxford.
+\end{itemize}
+
+\paragraph{Pre 1998}% -------------------------------------- 
+\begin{itemize}
+\item 
+  D.J. Arnold, Lorna Balkan, Siety Meijer, R.Lee Humphreys and Louisa Sadler
+  \xlink{{\bf Machine Translation: an Introductory Guide}}{http://www.essex.ac.uk/linguistics/external/clmt/MTbook/}, 
+  Blackwells-NCC, London, 1994, ISBN: 1855542-17x.  
+     %
+     \begin{itemize} 
+     \item Thanks to Ross Smith
+       (\xlink{ross.smith[@]es.pwcglobal.com}{mailto:ross.smith[@]es.pwcglobal.com}), a
+       \xlink{Spanish summary of the book}{./MTINTRO-SP.html} is available.
+     \end{itemize}
+%
+\item
+  Doug Arnold and Louisa Sadler
+  \xlink{``Noun-modifying adjectives in HPSG''}{\clgrouppapersdoug/arnold-sadler.pdf}:
+  Working Papers in Language Processing 35,
+  Department of Language and Linguistics, University of Essex,
+  April 1992.~\BibLink{Arnold-etal-94}
+%
+\item  D.J. Arnold
+     \xlink{``Transfer''}{\clgrouppapersdoug/transfer.pdf}, Working Papers in Language
+     Processing, 40, Dept. of Language and Linguistics, University of
+     Essex, 1992). This is an English version of 
+     ``Sur la Conception du Transfert'', 
+     in P. Bouillon and A. Clas, eds.,  {\bf La Traductique}, Les
+     Presses de l'universite de Montreal, Montreal, 1993, pp 64-76.~\BibLink{Arnold-93b}
+
+%  I recently gave a talk at the Institute for Cultural Research in
+%  London, entitled (somewhat grandly) ``The Nature of Human Language: Why
+%  we can't talk to Computers.'' 
+%  The 
+%      \xlink{slides for this talk are available}
+%            {\clgrouppapersdoug/icr-slides.ps}, 
+%  as a fairly large PostScript file (nearly 7Mg).
+%  
+%
+%  \item D.J. Arnold, Dave Moffat, Louisa Sadler and Andy Way
+%      ``Automatic Test Suite Generation'', 
+%      {\bf Machine Translation}, 
+%      Vol. 8, 1-2, 1993, pp 29-38, (Working Papers in Language
+%      Processing 27, Department of Language and Linguistics, University
+%      of Essex September 1991). 
+%  
+%  \item D.J. Arnold, R. Lee Humphreys and Louisa Sadler
+%       ``Evaluation: an Assessment'', 
+%       {\bf Machine Translation}, 
+%       Vol. 8, 1-2, 1993, pp 1-24.
+%  
+%  
+%  \item Louisa Sadler and D.J. Arnold
+%       ``Unification and Machine Translation'', 
+%       {\bf META}, 
+%       Vol. 37, 4, 1992, pp 657-680.
+
+\end{itemize}
+
+If you really want, you can see 
+\xlink{a longer list of publications}{./Publications.html}
+
+
+%%  ------------------------------------------------------------------ 
+\section{On the Web}
+
+On the \textbf{web}, I am the author/maintainer of a number of pages, including:
+\begin{itemize} 
+\Item {\LaTeX\ for Linguists}
+          {http://www.essex.ac.uk/linguistics/external/clmt/latex4ling}.
+\Item {Lexical Functional Grammar}
+          {http://www.essex.ac.uk/linguistics/external/LFG}.
+\end{itemize}
+These are sites that I don't maintain, but have some other involvement with:
+\begin{itemize}
+\Item {Essex Language and Computation Group Web Page}{http://cswww.essex.ac.uk/LAC/} 
+\Item {Essex Language and Computation Group Wiki}{http://lac.essex.ac.uk/}
+\end{itemize}
+I used to maintain:
+\begin{itemize}
+\Item {Head Driven Phrase Structure Grammar}
+          {https://hpsg.hu-berlin.de/HPSG/} (I maintained it many years while it was
+          at Essex; it moved to Berlin in 2018).
+\Item {CoBaLiSE}
+            {http://www.essex.ac.uk/linguistics/external/clmt/cobalise/}
+            which used to organize meetings for people interested in Constraint Based
+            Linguistics in the SE of England.  
+\Item {CL Group}
+         {http://www.essex.ac.uk/linguistics/research/resgroups/clgroup/}
+         The Constraint Based Linguistics Group at Essex; (see also 
+           \xlink{Language and Computation Group WebPage}
+                 {http://cswww.essex.ac.uk/LAC/}, 
+         and the 
+         \xlink{Language and Computation Group Wiki}
+               {http://lac.essex.ac.uk/}; and also
+         and the webpage for the \xlink{Flatlands Workshop}
+         {http://www.essex.ac.uk/linguistics/research/resgroups/clgroup/Flatlands08/}).
+\Item {CL/MT research group at Essex}
+          {http://www.essex.ac.uk/linguistics/external/clmt}.
+\Item {The UCGAL (University Council of General and Applied Linguistics) webpage}
+            {http://www.essex.ac.uk/linguistics/external/UCGAL/} while it was at
+            Essex. It is now \xlink{here}{http://www.linguistics.ac.uk/}.
+\Item {W3Corpora: WWW access to Corpora}
+            {http://www.essex.ac.uk/linguistics/external/clmt/w3c/}.
+\Item {The CL/MT On-Line Bibliographies}
+            {http://www.essex.ac.uk/linguistics/external/clmt/bibsearch/}.
+\Item {ACL Bibliographies}
+            {http://www.essex.ac.uk/linguistics/research/resgroups/clgroup/aclbib/}
+\item The Linguistics Association of Great Britain  
+    \xlink{(LAGB) web site}{http://www.lagb.org.uk/}, and the 
+    \xlink{LAGB Mailing List}{http://www.jiscmail.ac.uk/lists/lagb.html}.
+%    \\
+%    An archive of the mailing list up to Feburary 2006 can be found
+%   \xlink{here}{http://www.essex.ac.uk/linguistics/external/LAGB/Mail/}.
+
+\Item {A `notice board' of job adverts, conference announcements, etc.}
+          {http://www.essex.ac.uk/linguistics/external/clmt/News/}, but I stopped in 2004 (so
+          it has only historic interest).
+\Item {An extensive list of `other sites' of linguistic interest}
+          {http://www.essex.ac.uk/linguistics/external/clmt/other_sites/}, but I stopped 
+          some years ago, 
+          because the search engines got to be so good (so it has only historic interest).
+\end{itemize}
+
+
+\begin{rawxml}
+<!--Google search -->
+<center>
+<FORM method=GET action="http://www.google.com/search">
+<TABLE bgcolor="#FFFFFF"><tr><td><a href="http://www.google.com">
+<img src="http://www.google.com/logos/Google_Safe.gif" border="0"
+alt="Google" width="115" height="45" align="absmiddle"></a>
+<INPUT TYPE=text name=q size=25 maxlength=255 value="site:www.essex.ac.uk">
+<!-- INPUT TYPE=text name=q size=25 maxlength=255 value="" -->
+<INPUT TYPE=hidden name=safe value=vss>
+<INPUT TYPE=hidden name=vss value=1>
+<INPUT TYPE=submit name=sa value="Google Search">
+</td></tr></TABLE>
+</FORM>
+</center>
+<!-- Google search --><br>
+\end{rawxml}
+
+%%  ---------------------------------------------------------------------- 
+\section{Personal things}
+
+\begin{itemize}
+
+\item \xlink{Pictures of Rory, Ewan, and Jess (c. 2011)}{./pictures/Kids2011/}.
+\item \xlink{Pictures of Rory, Ewan, and Jess (c. 2000)}{./pictures/RoryAndEwan00/}.
+\item \xlink{Pictures of Rory, Ewan, Jess, and me from Xmas 1999}{./pictures/1999/}.
+\item \xlink{A number of somewhat grainy, and out of date, pictures of the kids}
+            {./pictures/Kids} (from when they were small and cute).
+
+%\item  \xlink{My own, old, bookmarks file}{./bookmarks.html}
+%\item  \xlink{My ``Favorites'' file(s)}{./Favorites/}
+\end{itemize}
+
+A link to \xlink{`My Essex'}{https://www.essex.ac.uk/myessex/}.
+
+
+%%  ---------------------------------------------------------------------- 
+\section{How to Contact Me}
+
+Doug Arnold,\\
+\mailto{doug\#essex.ac.uk}\\
+\xlink{Department of Language and Linguistics}{http://www.essex.ac.uk/linguistics},\\
+\xlink{University of Essex}{http://www.essex.ac.uk/},
+Wivenhoe Park,\\
+Colchester, C04 3SQ, UK.\\
+
+%: 4.207\\
+% room: 4.326\\
+% room: 4.314\\
+room: 4.334\\
+tel: +44 (0)1206 872084\\
+% tel: +44 (0)1206 874267\\
+Fax: +44 (0)1206 872198\\
+email: \mailto{doug\#essex.ac.uk}.
+
+To find my room, have a look at 
+\xlink{this map}{http://findyourway.essex.ac.uk/?search=4.334}
+(you may want to zoom in a bit more).
+
+
+Here is \xlink{a map of the area around the University}
+              {http://www.streetmap.co.uk/streetmap.dll?G2M?X=602766\&Y=223830\&A=Y\&Z=3}.
+
+For other maps relating to the University see \hlink{http://www.essex.ac.uk/visiting/maps/}.
+
+For travel information see 
+%% \hlink{http://www.essex.ac.uk/about/find.html}.
+\hlink{http://www.essex.ac.uk/about/colchester/travel.aspx}
+
+For the University phone book, see \hlink{https://www.essex.ac.uk/phonebook/}.
+
+%\bibliography{Arnold-major,Arnold-minor}
+\end{document}
+% LocalWords:  privatewww

@@ -1,0 +1,7 @@
+
+%T  Eurotra: An Assessment of the Current State of the EC's MT Programme  
+%A D J Arnold
+%A L Sadler
+%I Department of Language and Linguistics, University of Essex
+%D 1991
+%L ArnoldSadler91-rep

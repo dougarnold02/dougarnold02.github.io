@@ -1,0 +1,37 @@
+
+%V 8 
+%N 1-2
+%A D.J. Arnold
+%A \0Lee Humphreys
+%A Louisa Sadler
+%T Evaluation: an Assessment
+%L Arnold_etal:93c
+%D 1993
+%J Machine Translation
+%P 1-24
+
+%V 8
+%N 1-2
+%A D.J. Arnold
+%A Dave Moffat
+%A Louisa Sadler
+%A Andy Way
+%T Automatic Test Suite Generation
+%P 29-38
+%J Machine Translation
+%D 1993
+%L Arnold_etal:93b
+
+%A D.J. Arnold
+%A Toni Badia
+%A \0Genabith
+%A Stella Markantonatou
+%A Stefan Momma
+%A Louisa Sadler
+%A Paul Schmidt
+%B Proceedings of the Sixth Conference of the European Chapter of the Association for Computational Linguistics (EACL-6)
+%T Experiments in Reusability of Grammatical Resources
+%C RUU, Utrecht
+%P 12-20
+%D 1993
+%L Arnold_etal:93

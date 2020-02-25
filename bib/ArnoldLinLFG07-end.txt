@@ -1,0 +1,11 @@
+
+%A Doug Arnold
+%A Evita Linardaki
+%B Proceedings of the LFG07 Conference
+%E Miriam Butt and Tracy Holloway King
+%T  Linguistic Constraints in LFG-DOP 
+%C Stanford, Ca.
+%I CSLI Publications
+%P 66-86
+%L ArnoldLinLFG07
+%D 2007

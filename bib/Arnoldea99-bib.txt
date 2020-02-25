@@ -1,0 +1,13 @@
+@Unpublished{Arnoldea99,
+  author =	 {Doug Arnold and Bas Aarts and Justin Buckley and
+                  Ylva Berglund and Gerald Nelson and Martin Rondell},
+  title =	 {Corpora and Grammars on the Web: the
+                  {W3Corpora}--{IGE} {Project}, {Final Report}
+                  {JTAP}--2/247},
+  month =	 {February},
+  year =	 1999,
+  address =	 {Dept. of Language and Linguistics, University of
+                  Essex},
+  url =		 {http://www.essex.ac.uk/linguistics/external/clmt/w3c-ige/FinalReport/}
+}
+

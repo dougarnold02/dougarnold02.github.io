@@ -1,0 +1,10 @@
+@book{Arnold_etal:94,
+   author =  {D.J. Arnold and Lorna Balkan and
+              Siety Meijer and R.Lee Humphreys and Louisa Sadler},
+   address   =  {London},
+   year      =  1994,
+   publisher =  {Blackwells-NCC},
+   title     =  {{Machine} {Translation}: an Introductory Guide},
+   note      = {ISBN: 1855542-17x}
+}
+

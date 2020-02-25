@@ -1,0 +1,12 @@
+@inproceedings{Noord_etal:89,
+   author  =  {G. van~Noord and J. Dorrepaal and
+              D.J. Arnold and S. Krauwer and L. Sadler and L. des~Tombe},
+   year    =  1989,
+   booktitle =  {Proceedings of the Fourth Conference of the
+                 European Chapter of the Association
+                 for Computational Linguistics ({EACL}-5)},
+   address = {Manchester},
+   pages   =  {299-307},
+   title   =  {An Approach to Sentence-Level Anaphora in {Machine} {Translation}}
+}
+

@@ -1,0 +1,9 @@
+
+%A Louisa Sadler
+%A D.J. Arnold
+%B Proceedings of the 15th International Conference on Computational Linguistics, volume II
+%C Nantes, France
+%T A Constraint-Based Approach to Translating Anaphoric Dependencies
+%L SadlerArnold:92c
+%D 1992
+%P 728-734

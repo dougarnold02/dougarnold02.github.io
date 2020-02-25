@@ -1,0 +1,8 @@
+
+%T  Design and Implementation of Test Suite Tools  
+%A Doug Arnold
+%A Martin Rondell
+%A Frederik Fouvry
+%I TSNLP Project, CL/MT Group, University of Essex
+%D 1994
+%L Arnold_ea94

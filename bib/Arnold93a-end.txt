@@ -1,0 +1,10 @@
+
+%V 7
+%N 1
+%A D.J. Arnold
+%O (Current Research in Machine Translation: contribution to peer group commentary) 
+%T Reaction to Somers
+%L Arnold:93a
+%D 1993
+%J Machine Translation
+%P 247-251

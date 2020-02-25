@@ -1,0 +1,13 @@
+@InProceedings{ArnoldSadlerDD2013,
+  author =	 {Doug Arnold and Louisa Sadler},
+  title =	 { Displaced Dependent Constructions },
+  booktitle =	 {Proceedings of the LFG13 Conference, University of Debrecen, Hungary},
+  pages =	 {48-68},
+  year =	 2013,
+  editor =	 {Miriam Butt and Tracy Holloway King},
+  address =	 {Stanford, Ca.},
+  publisher =	 {CSLI Publications},
+  url =
+                  {http://www.stanford.edu/group/cslipublications/cslipublications/LFG/18/papers/lfg13arnoldsadler.pdf}
+}
+

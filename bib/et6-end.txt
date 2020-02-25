@@ -1,0 +1,14 @@
+
+%T ET6/1 Phase 2: Assessment and Feasibility Report 
+%C Cambridge
+%A H. Alshawi
+%A D. J. Arnold
+%A D. M. Carter
+%A J. Lindop
+%A K. Netter
+%A S.G. Pulman
+%A J-I. Tsujii
+%A H. Uskoreit.
+%I S.R.I.
+%D 1990
+%L et6

@@ -1,0 +1,10 @@
+
+%N 3
+%V 11
+%A D.J. Arnold
+%O ISSN 0922-6567 
+%T  Parameterizing Lexical Conceptual Structure for Interlingual Machine Translation. A Review of ``Machine Translation; A View from the Lexicon'' by Bonnie Jean Dorr 
+%L Arnold96
+%J Machine Translation
+%D 1996
+%P 217-241

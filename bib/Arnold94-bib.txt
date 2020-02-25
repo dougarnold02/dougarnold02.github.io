@@ -1,0 +1,25 @@
+@article{SadlerArnold:94,
+   author  =  {Louisa Sadler and D.J. Arnold},
+   year    =  1994,
+   journal =  {Journal of Linguistics},
+   pages   =  {187-226},
+   title   =  {Prenominal Adjectives and the Phrasal/Lexical Distinction},
+   volume  =  30,
+   annote    = {ISSN ??}
+}
+
+@incollection{Arnold:94,
+   author    =  {D.J. Arnold},
+   booktitle =  {Grammatical Formalisms: Issues in Migration and Expressivity},
+   address   =  {Luxembourg},
+   year      =  1994,
+   editor    =  {Stella Markantonatou and Louisa Sadler},
+   publisher =  {Office for Official Publication of the European Communities},
+   pages     =  {11-34},
+   series    =  {Studies in {M}achine {T}ranslation and
+                 {N}atural {L}anguage {P}rocessing},
+   title     =  {Reusability --- general considerations},
+   volume    =  4,
+   note      = {ISSN 1017-6568}
+}
+

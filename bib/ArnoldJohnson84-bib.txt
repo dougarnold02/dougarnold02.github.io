@@ -1,0 +1,12 @@
+@inproceedings{ArnoldJohnson:84,
+   author =  {D.J. Arnold and R.L. Johnson},
+   address =  {Stanford},
+   year =  1984,
+   booktitle =  {Proceedings of the 11th International Conference on
+               Computational Linguistics ({COLING}-84)},
+   pages =  {472-475},
+   title =  {Robust processing in {Machine} {Translation}},
+   note  =  {(Also: Report CSCM-19, Cognitive Studies
+                          Centre, University of Essex)}
+}
+

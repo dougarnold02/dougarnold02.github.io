@@ -1,0 +1,9 @@
+
+%T  Eurotra Linguistic Specifications, version 3 (ELS-3)  
+%C Luxembourg
+%A D.J. Arnold
+%A L. Jaspaert
+%A }\0Tombe
+%I DGXIII, CEC
+%D 1985
+%L ELS3

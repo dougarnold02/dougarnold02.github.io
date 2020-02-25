@@ -1,0 +1,14 @@
+@article{Arnold:86a,
+   author =   {D.J. Arnold},
+   address =  {Berlin},
+   year =     1986,
+   editor =  {H. Somers},
+   publisher =  {Mouton de Gruyter},
+   journal =  {Multilingua},
+   number =  3,
+   pages =  {136-138},
+   title =  {General view of the design methodology (of {Eurotra})},
+   volume =  5,
+   note   =  {(Special issue dedicated to the {E}urotra {MT} project)}
+}
+

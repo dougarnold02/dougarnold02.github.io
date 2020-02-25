@@ -1,0 +1,12 @@
+
+%T Machine Translation: an Introductory Guide
+%C London
+%A D.J. Arnold
+%A Lorna Balkan
+%A Siety Meijer
+%A R.Lee Humphreys
+%A Louisa Sadler
+%I Blackwells-NCC
+%O ISBN: 1855542-17x 
+%D 1994
+%L Arnold_etal:94

@@ -1,0 +1,11 @@
+@inproceedings{Arnold_etal:88,
+ author =  {D.J. Arnold and S. Krauwer and L. des~Tombe and L.G. Sadler},
+ address =  {Pittsburg},
+ year    =  1988,
+ booktitle =  {Proceedings of the Second International Conference on
+                 Theoretical and Methodological Issues in {Machine} {Translation}},
+ title =  {Relaxed Compositionality in {MT}},
+ annote  =  {(Also, Working Papers in Language Processing 5,
+          Dept. of Language and Linguistics, University of Essex)}
+}
+

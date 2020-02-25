@@ -1,0 +1,10 @@
+@techreport{MiMoReport,
+  author =	 {D.J. Arnold
+		  and Louisa Sadler},
+  year =	 1989,
+  month =	 {April},
+  institution =	 {Department of Language and Linguistics, University of
+                  Essex},
+  title =	 { {MiMo}: Theoretical Aspects of the System }
+}
+

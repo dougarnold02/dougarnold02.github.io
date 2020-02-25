@@ -1,0 +1,9 @@
+@techreport{TransferRep92,
+  author =	 {D.J. Arnold},
+  year =	 1992,
+  month =	 {September},
+  institution =	 {Department of Language and Linguistics, University of
+                  Essex},
+  title =	 { Transfer }
+}
+

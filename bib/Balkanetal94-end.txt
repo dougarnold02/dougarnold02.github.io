@@ -1,0 +1,37 @@
+
+%T  Test Suite Design Annotation Scheme  
+%A Lorna Balkan
+%A Siety Meijer
+%A Doug Arnold
+%A Dominique Estival
+%A Kirsten Falkedal
+%A Sabine Lehmann
+%A Eva Dauphin
+%A Klaus Netter
+%A Sylvie Regnier-Prost
+%A Stephan Oepen
+%I TSNLP Project, CL/MT Group, University of Essex
+%D 1994
+%L Balkanetal94b
+
+%T Issues in Test Suite Design 
+%A Lorna Balkan
+%A Siety Meijer
+%A Doug Arnold
+%A Eva Dauphin
+%A Dominique Estival
+%A Kirsten Falkedal
+%A Sabine Lehmann
+%A Klaus Netter
+%A Sylvie Regnier--Prost
+%I TSNLP Project, CL/MT Group, University of Essex
+%D 1994
+%L Balkanetal94a
+
+%T  Test Suites for Natural Language Processing  
+%A Lorna Balkan
+%A D.J. Arnold
+%A S. Meijer
+%J ASLIB Conference: Translating and the Computer, 16
+%D 1994
+%L Balkanetal94

@@ -1,0 +1,8 @@
+
+%A D.J. Arnold
+%B Proceedings of DRH-97 (Digital Resources in the Humanities)
+%T WWW-IGE: World Wide Web Access to Corpora and the Internet Grammar of English
+%C St. Anne's College Oxford
+%L DRH97
+%P 711-716
+%D 1997

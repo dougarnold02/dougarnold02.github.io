@@ -1,0 +1,10 @@
+
+%T TSNLP: Test Suites for Natural Language Processing 
+%C Paris, 6-7 July 1994
+%A Lorna Balkan
+%A Klaus Netter
+%A Doug Arnold
+%A Siety Meijer
+%J Language Engineering Convention --- Journees du genie linguistique
+%D 1994
+%L Balkanetal95c

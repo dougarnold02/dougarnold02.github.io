@@ -1,0 +1,14 @@
+@InProceedings{ArnoldBerglund98,
+  author =	 {Doug Arnold and Ylva Berglund},
+  title =	 {{WWW} Access to Corpora: a tool for teaching and
+                  learning about Corpora},
+  booktitle =	 {TALC-98 (Third International Conference on Teaching
+                  and Language Corpora)},
+  year =	 1998,
+  address =	 {Keeble College, Oxford},
+  publisher =	 {Humanities Computing Unit, Oxford University,
+                  Oxford},
+  month =	 {24--27 July},
+  url =		 {http://www.essex.ac.uk/linguistics/external/clmt/w3c/corpus_ling/TALC.html}
+}
+

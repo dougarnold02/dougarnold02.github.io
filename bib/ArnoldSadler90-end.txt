@@ -1,0 +1,9 @@
+
+%V 5 
+%T The Theoretical Basis of MiMo
+%A D.J. Arnold
+%A L. Sadler
+%P 195-222
+%J Machine Translation
+%D 1990
+%L ArnoldSadler:90

@@ -1,0 +1,11 @@
+@techreport{coordpaps,
+  author =	 {D.J. Arnold
+		  and Louisa Sadler
+		  and Leonor Juarez},
+  year =	 1988,
+  month =	 {February},
+  institution =	 {Department of Language and Linguistics, University of
+                  Essex},
+  title =	 { Papers on Coordination }
+}
+

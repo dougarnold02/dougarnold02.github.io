@@ -1,0 +1,12 @@
+
+%L AlsunamiArnoldBorsley2017
+%D 2017 
+%C Stanford, CA
+%E Mueller, Stefan
+%I CSLI Publications
+%P 5-25
+%T  Simple and Complex Comparatives in Modern Standard Arabic 
+%A Abeer Alsulami
+%A Doug Arnold
+%A Robert D. Borsley
+%B Proceedings of the 24th International Conference on Head-Driven Phrase Structure Grammar, University of Kentucky, Lexington

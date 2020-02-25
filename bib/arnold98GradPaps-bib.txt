@@ -1,0 +1,9 @@
+@Book{arnold98GradPaps,
+  editor =	 {Doug Arnold},
+  title =	 {Essex Graduate Papers in Language and Linguistics,
+                  Vol II},
+  year =	 1998,
+  publisher =	 {Dept of Language and Linguistics, University of
+                  Essex}
+}
+

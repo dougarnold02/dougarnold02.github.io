@@ -1,0 +1,11 @@
+@incollection{ ArnoldGodard19Relative,
+  author =	 {Doug Arnold and Dani\`{e}le Godard},
+  title =	 { Relative Clauses in {HPSG} },
+  year =	 2019,
+  booktitle =	 {Head-Driven Phrase Structure Grammar: The handbook},
+  editor =	 { Stefan M\"{u}ller and Anne Abeill\'{e} and Robert D. Borsley and Jean-Pierre Koenig},
+  publisher =	 {Language Science Press},
+  address =	 {Berlin},
+  note =	 {Prepublished version},
+  url =		 {https://hpsg.hu-berlin.de/Projects/HPSG-handbook/PDFs/relative-clauses.pdf}
+}

@@ -1,0 +1,12 @@
+
+%P 427-447
+%D 2005
+%A  Aline Villavicencio
+%A Louisa Sadler
+%A Doug Arnold 
+%E Stephan Mueller
+%L villavicencio-etal05
+%B Proceedings of the 12th International Conference on Head-Driven Phrase Structure Grammar
+%C Stanford, CA
+%T  An HPSG Account of Closest Conjunct Agreement in NP Coordination in Portuguese 
+%I CSLI Publications

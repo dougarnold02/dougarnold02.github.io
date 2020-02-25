@@ -1,0 +1,10 @@
+@article{Arnold_etal:93c,
+   author  =  {D.J. Arnold and R.~Lee Humphreys and Louisa Sadler},
+   year    =  1993,
+   journal =  {{Machine} {Translation}},
+   number  =  {1-2},
+   pages   =  {1-24},
+   title   =  {Evaluation: an Assessment},
+   volume  =  8
+}
+

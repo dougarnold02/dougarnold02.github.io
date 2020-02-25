@@ -1,0 +1,17 @@
+@InProceedings{villavicencio-etal05,
+  author =	 { Aline Villavicencio
+		  and Louisa Sadler
+		  and Doug Arnold },
+  title =	 { An {HPSG} Account of Closest Conjunct Agreement in {NP}
+                  Coordination in {P}ortuguese },
+  booktitle =	 {Proceedings of the 12th International Conference on
+                  Head-Driven Phrase Structure Grammar},
+  year =	 2005,
+  editor =	 {Stephan M\"uller},
+  address =	 {Stanford, CA},
+  publisher =	 {CSLI Publications},
+  pages =	 {427-447},
+  url =          {http://www.stanford.edu/group/cslipublications/cslipublications/HPSG/2005/vsa.pdf},
+  annote =	 {Lisbon}
+}
+

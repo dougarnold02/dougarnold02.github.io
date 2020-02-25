@@ -1,0 +1,7 @@
+
+%T  MiMo: Theoretical Aspects of the System  
+%A D.J. Arnold
+%A Louisa Sadler
+%I Department of Language and Linguistics, University of Essex
+%D 1989
+%L MiMoReport

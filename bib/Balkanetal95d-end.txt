@@ -1,0 +1,10 @@
+
+%B CSNLP 1995. Fourth International Conference on the Cognitive Science of Natural Language Processing
+%T Test Suites for NLP 
+%C Dublin, 4-7 July 1995
+%A Lorna Balkan
+%A Doug Arnold
+%A Frederik Fouvry
+%I Dublin City University
+%D 1995
+%L Balkanetal95d

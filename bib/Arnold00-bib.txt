@@ -1,0 +1,13 @@
+@Article{Arnold00,
+  author =	 {D.J. Arnold},
+  title =	 { World {Wide} {Web} Access to Corpora },
+  journal =	 {Corpus-Based Research in English Language and Linguistics: Monograph
+                  Issue of Cuadernos de Filologia Inglesa de la Universidad de Murcia},
+  year =	 2000,
+  volume =	 9,
+  number =	 1,
+  pages =	 {125-145},
+  note =	 {Pascual Cantos Gomez, editor, ISSN 0213-5485},
+  url =          {http://www.essex.ac.uk/linguistics/research/clgroup/papers/doug/w3corpora00.pdf}
+}
+

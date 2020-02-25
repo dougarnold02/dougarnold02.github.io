@@ -1,0 +1,11 @@
+@techreport{ELS3,
+  author =	 {D.J. Arnold
+		  and L. Jaspaert
+		  and L. des~Tombe},
+  address =	 {Luxembourg},
+  year =	 1985,
+  month =	 {January},
+  institution =	 {DGXIII, CEC},
+  title =	 { {E}urotra Linguistic Specifications, version 3 ({ELS}-3)
+                  }
+

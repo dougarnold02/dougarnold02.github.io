@@ -1,0 +1,8 @@
+
+%T  Papers on Coordination  
+%A D.J. Arnold
+%A Louisa Sadler
+%A Leonor Juarez
+%I Department of Language and Linguistics, University of Essex
+%D 1988
+%L coordpaps

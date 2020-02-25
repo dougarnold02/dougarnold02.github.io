@@ -1,0 +1,7 @@
+
+%T  Noun-Modifying Adjectives in HPSG  
+%A D.J. Arnold
+%A Louisa Sadler
+%I Department of Language and Linguistics, University of Essex
+%D 1992
+%L ArnoldSadler92adj

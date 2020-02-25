@@ -1,0 +1,10 @@
+@techreport{SadlerArnold92-rep,
+  author =	 {Louisa Sadler
+		  and D.J. Arnold},
+  year =	 1992,
+  month =	 {February},
+  institution =	 {Department of Language and Linguistics, University of
+                  Essex},
+  title =	 { Unification and {M}achine {T}ranslation }
+}
+

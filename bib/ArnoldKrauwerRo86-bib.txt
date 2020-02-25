@@ -1,0 +1,11 @@
+@inproceedings{ArnoldKrauwerRo:86,
+   author =  {D.J. Arnold and S. Krauwer and
+              M. Rosner and L. des~Tombe and G.B. Varile},
+   address =  {Bonn},
+   year    =  1986,
+   booktitle =  {Proceedings of {COLING}-86},
+   pages =  {297-303},
+   title =  {The {CAT} Framework in {Eurotra}:
+             A Theoretically Committed Notation for {MT}}
+}
+

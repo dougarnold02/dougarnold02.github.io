@@ -1,0 +1,10 @@
+
+%A D.J. Arnold
+%B La Traductique
+%E P. Bouillon and A. Clas
+%T Sur la Conception du Transfert 
+%C Montreal
+%I Les Presses de l'Universite de Montreal
+%L Arnold:93b
+%D 1993
+%P 64-76

@@ -1,0 +1,13 @@
+@inproceedings{Sadler_etal:90,
+   author  =  {Louisa Sadler and Ian Crookston and D.J. Arnold and Andy Way},
+   address =  {Linguistics Research Center, Austin, Texas},
+   year    =  1990,
+   booktitle =  {Third International Conference on Theoretical and
+               Methodological Issues in {Machine} {Translation} 11-13 June 1990},
+   title =    {{LFG} and {Translation}},
+   note  =  {(Page numbers not integrated)},
+   annote=  {Also, Working Papers in Language Processing 9
+              Department of Language and Linguistics,
+              University of Essex, December 1989)}
+}
+

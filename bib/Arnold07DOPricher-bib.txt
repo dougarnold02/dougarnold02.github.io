@@ -1,0 +1,13 @@
+@InCollection{Arnold07DOPricher,
+  author =	 {Doug Arnold},
+  title =	 { {DOP}-based models for richer grammatical frameworks },
+  booktitle =	 {Martin Atkinson --- the Minimalist Muse},
+  pages =	 {17-41},
+  publisher =	 {Dept. of Language and Linguistics, University of Essex},
+  year =	 2007,
+  editor =	 {Andrew Radford},
+  volume =	 53,
+  series =	 {Essex Research Reports in Linguistics},
+  url =		 {http://repository.essex.ac.uk/id/eprint/112}
+}
+

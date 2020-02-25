@@ -1,0 +1,11 @@
+
+%T  One of those Constructions that Really Needs a Proper Analysis 
+%D 2016 
+%A Doug Arnold
+%A Christoper Lucas
+%L arnold-lucas2016
+%P 43-63
+%B Proceedings of the Joint 2016 Conference on Head-driven Phrase Structure Grammar and Lexical Functional Grammar, Polish Academy of Sciences, Warsaw, Poland
+%E Arnold, Doug, Butt, Miriam, Crysmann, Berthold and Mueller, Stefan
+%I CSLI Publications
+%C Stanford, CA

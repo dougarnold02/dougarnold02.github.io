@@ -1,0 +1,11 @@
+
+%A Doug Arnold
+%A Evita Linardaki
+%B 2nd International Workshop on Typed Feature Structure Grammars (TFSG'07)
+%E Anders Sogaard and Petter Haugereid
+%C Tartu, Estonia
+%T  A Data-Oriented Parsing Model for HPSG 
+%I Center for Sprogteknologi, Kobenhavens Universitet, Working Papers, Report No. 8, ISN1600-339X 
+%L ArnoldLinTFSG07
+%P 1-9
+%D 2007
