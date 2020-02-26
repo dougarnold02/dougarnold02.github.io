@@ -51,7 +51,7 @@ endif
 git     :
 	git status
 	git add .
-	git commit -m "Index files Changed"
+	git commit -m "Files Changed"
 	git push origin
 
 
@@ -82,7 +82,7 @@ targets := $(targets) permissions,\ fixpermissions,\ perms,
 # targets := $(targets) unison
 targets := $(targets) git
 
-# tmp-x :
+# 	tmp-x :
 #	 echo "$(subst $(HOME)/Box Sync/Default\ Sync\ Folder/,,$(CWD))"
 #	echo $(subst $(HOME)/Documents/Magic Briefcase/,,$(CWD))/
 # $(subst Magic Briefcase,foo,$(CWD))
