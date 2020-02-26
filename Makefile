@@ -1,4 +1,4 @@
-# Time-stamp: <6 Nov 2018, 19:42:26 GMT (doug: a14019.essex.ac.uk): Makefile>
+# Time-stamp: <26 Feb 2020, 13:22:43 GMT (doug: a14019.essex.ac.uk): Makefile>
 # ~/public_html/Makefile ...
 texfile = index
 htmldirectory = ./
@@ -11,9 +11,15 @@ include ./genericMakefile
 all : index.html Publications.html
 # sync-put
 
-index.html : index.tex
+index.html : index.tex git
 	$(htmlcmd) $<
 	chmod a+r *.html
+
+git     :
+	git add .
+	git commit -m "Index files Changed"
+	git push origin
+
 
 Publications.html : ~/BibTeX/Arnold-major.bib ~/BibTeX/Arnold-minor.bib $(texfile:.tex=).aux
 # rm -f $@
@@ -37,7 +43,6 @@ new : newdir
 newdir : 
 	umask 022 && tar -xvf newdir.tar 
 	printf "Rename newdir to whatever you want..\n"
-
 
 targets := $(targets) all,\ index.html,\ Publications.html
 targets := $(targets) newdir
