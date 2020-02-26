@@ -1,7 +1,8 @@
 # This was a *mistake* making the shell -i caused processes to hang!
 # SHELL=/bin/zsh -i
 # webpageurl ?= "http://privatewww.essex.ac.uk/~doug/"
-webpageurl = http://dougarnold.paperplane.io/
+# webpageurl = http://dougarnold.paperplane.io/
+webpageurl = https://dougarnold02.github.io/
 #  # This was for syncing with unison, but I've simplified things.
 #  # It seems to me simpler just to keep the directories totally synced with unison
 #  # so everything is done in the .prf file [[file:~/.unison/myweb.prf]].
@@ -46,32 +47,42 @@ ifeq "$(test)" "1"
    rsyncopts := $(rsyncopts) -n
 endif
 
+# interact with github
+git     :
+	git status
+	git add .
+	git commit -m "Index files Changed"
+	git push origin
+
+
 # Sync with the corresponding directory on unix4
-CWD = $(realpath .)
-LOCALROOT = $(HOME)/Dropbox/myweb/           # where do the files really live
-REMOTEROOT = myweb/                          # where do the files live on the remote site (e.g. unix4)
-
-# Notice this preserves permissions -- so make sure they are right on the sending side
-# that's what the chmod does (because this is not my default umask)
-# Notice the source side path always ends in a /; use test=1 for a dry run
-sync     : sync-put
-sync-put : fixpermissions
-	rsync  $(rsyncopts)  -e ssh $(LOCALROOT) unix4.essex.ac.uk:$(REMOTEROOT)
-
-sync-get :
-	@echo "\tAre you sure?\n\t -- You only need this if you have changed things directly on unix4!! If so, do:"
-	@echo "\trsync"  $(rsyncopts)  -e ssh unix4.essex.ac.uk:$(REMOTEROOT) $(LOCALROOT)
+# CWD = $(realpath .)
+# LOCALROOT = $(HOME)/Dropbox/myweb/           # where do the files really live
+# REMOTEROOT = myweb/                          # where do the files live on the remote site (e.g. unix4)
+# 
+# 
+# # Notice this preserves permissions -- so make sure they are right on the sending side
+# # that's what the chmod does (because this is not my default umask)
+# # Notice the source side path always ends in a /; use test=1 for a dry run
+# sync     : sync-put
+# sync-put : fixpermissions
+# 	rsync  $(rsyncopts)  -e ssh $(LOCALROOT) unix4.essex.ac.uk:$(REMOTEROOT)
+# 
+# sync-get :
+# 	@echo "\tAre you sure?\n\t -- You only need this if you have changed things directly on unix4!! If so, do:"
+# 	@echo "\trsync"  $(rsyncopts)  -e ssh unix4.essex.ac.uk:$(REMOTEROOT) $(LOCALROOT)
 
 fixpermissions :
 	chmod -R -vv  u=rwX,go=rX .
 perms : fixpermissions
 permissions : fixpermissions
 
-targets := $(targets) "sync-put,  sync-get (with test=1, do a dry run)"
+# targets := $(targets) "sync-put,  sync-get (with test=1, do a dry run)"
 targets := $(targets) permissions,\ fixpermissions,\ perms,
-targets := $(targets) unison
+# targets := $(targets) unison
+targets := $(targets) git
 
-tmp-x :
+# tmp-x :
 #	 echo "$(subst $(HOME)/Box Sync/Default\ Sync\ Folder/,,$(CWD))"
 #	echo $(subst $(HOME)/Documents/Magic Briefcase/,,$(CWD))/
 # $(subst Magic Briefcase,foo,$(CWD))
