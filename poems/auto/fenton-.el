@@ -1,5 +1,5 @@
 (TeX-add-style-hook
- "yeats-"
+ "fenton-"
  (lambda ()
    (LaTeX-add-environments
     '("array" LaTeX-env-args ["argument"] 1)
