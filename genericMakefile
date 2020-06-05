@@ -47,11 +47,11 @@ ifeq "$(test)" "1"
    rsyncopts := $(rsyncopts) -n
 endif
 
-# interact with github
+# interact with github, to discard changes do: git restore ChangedFile
 git     :
 	git status
 	git add .
-	git commit -m "Files Changed"
+	git commit -m "Files Changed in the following way..."
 	git push origin
 
 
