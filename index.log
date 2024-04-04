@@ -1,88 +1,88 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2020.2.4)  26 FEB 2020 13:21
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2022/dev) (preloaded format=pdflatex 2021.8.5)  4 APR 2024 18:00
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **index
 (./index.tex
-LaTeX2e <2020-02-02>
-L3 programming layer <2020-01-31>
-(/usr/local/texlive/2019/texmf-dist/tex/latex/base/article.cls
-Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
-(/usr/local/texlive/2019/texmf-dist/tex/latex/base/size10.clo
-File: size10.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+LaTeX2e <2021-06-01> patch level 1
+L3 programming layer <2021-07-12>
+(/usr/local/texlive/2021/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2021/02/12 v1.4n Standard LaTeX document class
+(/usr/local/texlive/2021/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2021/02/12 v1.4n Standard LaTeX file (size option)
 )
-\c@part=\count167
-\c@section=\count168
-\c@subsection=\count169
-\c@subsubsection=\count170
-\c@paragraph=\count171
-\c@subparagraph=\count172
-\c@figure=\count173
-\c@table=\count174
+\c@part=\count182
+\c@section=\count183
+\c@subsection=\count184
+\c@subsubsection=\count185
+\c@paragraph=\count186
+\c@subparagraph=\count187
+\c@figure=\count188
+\c@table=\count189
 \abovecaptionskip=\skip47
 \belowcaptionskip=\skip48
-\bibindent=\dimen134
+\bibindent=\dimen138
 )
 (/Users/doug/LaTeX/inputs/me.sty
 me.sty: Personalized Author Information, dja
-(/usr/local/texlive/2019/texmf-dist/tex/latex/tools/calc.sty
+(/usr/local/texlive/2021/texmf-dist/tex/latex/tools/calc.sty
 Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count175
-\calc@Bcount=\count176
-\calc@Adimen=\dimen135
-\calc@Bdimen=\dimen136
+\calc@Acount=\count190
+\calc@Bcount=\count191
+\calc@Adimen=\dimen139
+\calc@Bdimen=\dimen140
 \calc@Askip=\skip49
 \calc@Bskip=\skip50
 LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count177
+\calc@Ccount=\count192
 \calc@Cskip=\skip51
 )
-(/usr/local/texlive/2019/texmf-dist/tex/latex/base/ifthen.sty
-Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2020/11/24 v1.1c Standard LaTeX ifthen package (DPC)
 )
-(/usr/local/texlive/2019/texmf-dist/tex/latex/tools/xspace.sty
+(/usr/local/texlive/2021/texmf-dist/tex/latex/tools/xspace.sty
 Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
 )
-(/usr/local/texlive/2019/texmf-dist/tex/latex/microtype/microtype.sty
-Package: microtype 2019/11/18 v2.7d Micro-typographical refinements (RS)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/microtype/microtype.sty
+Package: microtype 2021/03/14 v2.8c Micro-typographical refinements (RS)
 
-(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/keyval.sty
+(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
-\KV@toks@=\toks14
+\KV@toks@=\toks16
 )
-\MT@toks=\toks15
-\MT@count=\count178
+\MT@toks=\toks17
+\MT@count=\count193
 LaTeX Info: Redefining \textls on input line 790.
-\MT@outer@kern=\dimen137
-LaTeX Info: Redefining \textmicrotypecontext on input line 1354.
-\MT@listname@count=\count179
+\MT@outer@kern=\dimen141
+LaTeX Info: Redefining \textmicrotypecontext on input line 1374.
+\MT@listname@count=\count194
 
-(/usr/local/texlive/2019/texmf-dist/tex/latex/microtype/microtype-pdftex.def
-File: microtype-pdftex.def 2019/11/18 v2.7d Definitions specific to pdftex (RS)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/microtype/microtype-pdftex.def
+File: microtype-pdftex.def 2021/03/14 v2.8c Definitions specific to pdftex (RS)
 
-LaTeX Info: Redefining \lsstyle on input line 914.
-LaTeX Info: Redefining \lslig on input line 914.
+LaTeX Info: Redefining \lsstyle on input line 915.
+LaTeX Info: Redefining \lslig on input line 915.
 \MT@outer@space=\skip52
 )
 Package microtype Info: Loading configuration file microtype.cfg.
 
-(/usr/local/texlive/2019/texmf-dist/tex/latex/microtype/microtype.cfg
-File: microtype.cfg 2019/11/18 v2.7d microtype main configuration file (RS)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/microtype/microtype.cfg
+File: microtype.cfg 2021/03/14 v2.8c microtype main configuration file (RS)
 ))
-\c@numparcounter=\count180
+\c@numparcounter=\count195
 
-(/usr/local/texlive/2019/texmf-dist/tex/latex/paralist/paralist.sty
+(/usr/local/texlive/2021/texmf-dist/tex/latex/paralist/paralist.sty
 Package: paralist 2017/01/22 v2.7 Extended list environments
 \pltopsep=\skip53
 \plpartopsep=\skip54
 \plitemsep=\skip55
 \plparsep=\skip56
-\pl@lab=\toks16
+\pl@lab=\toks18
 )
-\MyTmpFootNoteBox=\box45
+\MyTmpFootNoteBox=\box50
 
-(/usr/local/texlive/2019/texmf-dist/tex/latex/url/url.sty
+(/usr/local/texlive/2021/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip16
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
@@ -91,158 +91,141 @@ Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 Package: hyperlatex 2000/03/29 v2.5 LaTeX2e package for Hyperlatex mode
 
 Package: 'hyperlatex' v2.5 Otfried Cheong
-(/usr/local/texlive/2019/texmf-dist/tex/latex/tools/verbatim.sty
-Package: verbatim 2019/11/10 v1.5r LaTeX2e package for verbatim enhancements
-\every@verbatim=\toks17
-\verbatim@line=\toks18
+(/usr/local/texlive/2021/texmf-dist/tex/latex/tools/verbatim.sty
+Package: verbatim 2020-07-07 v1.5u LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks19
+\verbatim@line=\toks20
 \verbatim@in@stream=\read2
 )
-\c@htmldepth=\count181
-\c@htmlautomenu=\count182
+\c@htmldepth=\count196
+\c@htmlautomenu=\count197
 )
 (/Users/doug/LaTeX/inputs/frames.sty)
-(/usr/local/texlive/2019/texmf-dist/tex/latex/natbib/bibentry.sty
+(/usr/local/texlive/2021/texmf-dist/tex/latex/natbib/bibentry.sty
 Package: bibentry 2007/10/30 1.5 (PWD)
 )
-(/usr/local/texlive/2019/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
-File: l3backend-pdfmode.def 2019-04-06 L3 backend support: PDF mode
-\l__kernel_color_stack_int=\count183
-\l__pdf_internal_box=\box46
+(/usr/local/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2021-08-04 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count198
+\l__pdf_internal_box=\box51
 )
 (./index.aux)
 \openout1 = `index.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Info: Redefining \microtypecontext on input line 40.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Info: Redefining \microtypecontext on input line 41.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: Automatic font expansion enabled (level 2),
 (microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
-Package microtype Info: Using default expansion set `basictext'.
-LaTeX Info: Redefining \showhyphens on input line 40.
+Package microtype Info: Using default expansion set `alltext-nott'.
+LaTeX Info: Redefining \showhyphens on input line 41.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
 
-(/usr/local/texlive/2019/texmf-dist/tex/latex/microtype/mt-cmr.cfg
+(/usr/local/texlive/2021/texmf-dist/tex/latex/microtype/mt-cmr.cfg
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
 (RS)
 )
 (./index.bbl)
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 42.
+(Font)              <12> on input line 43.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 42.
+(Font)              <8> on input line 43.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 42.
+(Font)              <6> on input line 43.
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `cmtt' (encoding: OT1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
  [1
 
-{/usr/local/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+{/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 LaTeX Font Info:    Font shape `OT1/cmtt/bx/n' in size <10> not available
-(Font)              Font shape `OT1/cmtt/m/n' tried instead on input line 210.
+(Font)              Font shape `OT1/cmtt/m/n' tried instead on input line 216.
 
-Overfull \hbox (14.20032pt too wide) in paragraph at lines 227--229
+Overfull \hbox (14.20032pt too wide) in paragraph at lines 233--235
 []\OT1/cmr/m/it/10 (-20) Robust pro-cess-ing for constraint-
  []
 
-
-Overfull \hbox (2.6809pt too wide) in paragraph at lines 263--265
+[2]
+Overfull \hbox (2.6809pt too wide) in paragraph at lines 269--271
 []\OT1/cmr/m/it/10 (-20) An Entailment-Based Ap-
  []
 
-[2]
-Overfull \hbox (10.84058pt too wide) in paragraph at lines 282--285
+
+Overfull \hbox (10.84058pt too wide) in paragraph at lines 288--291
 []\OT1/cmr/m/it/10 (-20) Floating and Non-floating Quan-
  []
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 418.
+(Font)              <7> on input line 424.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 418.
+(Font)              <5> on input line 424.
 [3]
-Overfull \hbox (19.73454pt too wide) in paragraph at lines 444--445
+Overfull \hbox (19.73454pt too wide) in paragraph at lines 450--451
 \OT1/cmr/m/n/10 (-20) Pub-li-ca-tions.  $http : / / www . stanford . edu / grou
 p / cslipublications / cslipublications /
  []
 
 [4]
-Overfull \hbox (17.35368pt too wide) in paragraph at lines 466--467
+Overfull \hbox (17.35368pt too wide) in paragraph at lines 472--473
 \OT1/cmr/m/n/10 (-20) cslipublications . stanford . edu / HPSG / 2010 / arnold 
 -[] borsley . pdf$  [\OT1/cmr/m/n/9 (-20) Bib-TeX,Endnote] 
  []
 
 
-Overfull \hbox (9.20866pt too wide) in paragraph at lines 467--468
+Overfull \hbox (9.20866pt too wide) in paragraph at lines 473--474
 \OT1/cmr/m/n/10 (-20) tions.  $http : / / cslipublications . stanford . edu / L
 FG / 15 / papers / lfg10arnoldsadler .
  []
 
 [5]
-Overfull \hbox (3.12856pt too wide) in paragraph at lines 492--497
+Overfull \hbox (3.12856pt too wide) in paragraph at lines 498--503
 \OT1/cmr/m/n/10 (-20) ac . uk / linguistics / research / resgroups / clgroup / 
 papers / doug / esslli07 . pdf$ [\OT1/cmr/m/n/9 (-20) Bib-
  []
 
-[6] [7] [8]
-Underfull \hbox (badness 10000) in paragraph at lines 758--764
-
- []
-
-
-Overfull \hbox (38.32802pt too wide) in paragraph at lines 782--783
-[]\OT1/cmr/m/n/10 (-20) For other maps re-lat-ing to the Uni-ver-sity see \OT1/
-cmtt/m/n/10 http://www.essex.ac.uk/visiting/maps/\OT1/cmr/m/n/10 (-20) . 
- []
-
-
-Overfull \hbox (32.34088pt too wide) in paragraph at lines 784--787
-[]\OT1/cmr/m/n/10 (-20) For travel in-for-ma-tion see \OT1/cmtt/m/n/10 http://w
-ww.essex.ac.uk/about/colchester/travel.aspx 
- []
-
-[9] (./index.aux) ) 
+[6] [7] [8] [9] (./index.aux) ) 
 Here is how much of TeX's memory you used:
- 2827 strings out of 481248
- 45054 string characters out of 5918199
- 316969 words of memory out of 5000000
- 17958 multiletter control sequences out of 15000+600000
- 542319 words of font info for 110 fonts, out of 8000000 for 9000
+ 2973 strings out of 478542
+ 47907 string characters out of 5850388
+ 383785 words of memory out of 5000000
+ 20748 multiletter control sequences out of 15000+600000
+ 414357 words of font info for 131 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,6n,46p,696b,312s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/cm-super
-/cm-super-ts1.enc}</usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfon
-ts/cm/cmbx10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfont
-s/cm/cmbx12.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts
-/cm/cmr10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/c
-m/cmr17.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/
-cmr7.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr
-9.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10
-.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.
-pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.p
-fb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb
->
-Output written on index.pdf (9 pages, 157789 bytes).
+ 57i,6n,67p,696b,328s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2021/texmf-dist/fonts/enc/dv
+ips/cm-super/cm-super-ts1.enc}</usr/local/texlive/2021/texmf-dist/fonts/type1/p
+ublic/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/pu
+blic/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/pub
+lic/amsfonts/cm/cmr10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/publi
+c/amsfonts/cm/cmr17.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/
+amsfonts/cm/cmr7.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/ams
+fonts/cm/cmr9.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfon
+ts/cm/cmti10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfont
+s/cm/cmtt10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts
+/cm/cmtt12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/
+sfrm1000.pfb>
+Output written on index.pdf (9 pages, 165152 bytes).
 PDF statistics:
- 75 PDF objects out of 1000 (max. 8388607)
+ 85 PDF objects out of 1000 (max. 8388607)
  53 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 15361 words of extra memory for PDF output out of 17280 (max. 10000000)
+ 27649 words of extra memory for PDF output out of 29859 (max. 10000000)
 
