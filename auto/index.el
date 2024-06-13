@@ -3,10 +3,10 @@
  (lambda ()
    (TeX-add-to-alist 'LaTeX-provided-class-options
                      '(("article" "a4paper")))
-   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "path")
    (add-to-list 'LaTeX-verbatim-macros-with-braces-local "url")
-   (add-to-list 'LaTeX-verbatim-macros-with-delims-local "path")
+   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "path")
    (add-to-list 'LaTeX-verbatim-macros-with-delims-local "url")
+   (add-to-list 'LaTeX-verbatim-macros-with-delims-local "path")
    (TeX-run-style-hooks
     "latex2e"
     "article"
@@ -33,8 +33,6 @@
     "lg614"
     "lg213"
     "LG102"
-    "sec:downloadable-papers")
-   (LaTeX-add-environments
-    '("display" LaTeX-env-args ["argument"] 0)))
+    "sec:downloadable-papers"))
  :latex)
 
