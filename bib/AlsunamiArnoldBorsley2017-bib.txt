@@ -1,6 +1,6 @@
 @inproceedings{AlsunamiArnoldBorsley2017,
   author =	 {Alsulami, Abeer and Arnold, Doug and Borsley, Robert D.},
-  title =	 { Simple and Complex Comparatives in Modern Standard {A}rabic },
+  title =	 { Simple and Complex Comparatives in {M}odern {S}tandard {A}rabic },
   booktitle =	 {Proceedings of the 24th International Conference on Head-Driven Phrase
                   Structure Grammar, University of Kentucky, Lexington},
   editor =	 {M\"{u}ller, Stefan},
