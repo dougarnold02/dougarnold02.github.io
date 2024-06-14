@@ -1,5 +1,27 @@
-Edit: use emacs on index.tex
-To add a bib entry:
+# ## -*- mode:org; org-descriptive-links:nil; -*-
+- Edit: use emacs on index.tex
+- use hyperlatex-format-buffer to update the html
+- The webpage now lives on github, so you need to do various things to export the html to
+  the git repository. See https://cli.github.com/manual/
+  (This is for the command line interface. There is also a GUI: github-desktop.app.
+  - check authorisation:
+    - gh auth status
+  - login to the git repository (and follow the instructions):
+    - gh auth login
+      you get prompted -- just follow the instructions
+  - see what you have in the repository:
+    - gh browse
+      (this opens https://github.com/dougarnold02/dougarnold02.github.io)
+  - when finished:
+    - gh auth logout
+  - then you use `git' commands to interact with the repository :
+    - git status
+      to see how things stand
+    - git push
+      to push changes to the repository
+    - git add
+      to add a file to the list of files to be tracked ('git add .' will add the whole directory)
+- To add a bib entry:
    - edit the relevant bit of index.tex, adding the citation key
    - if the entry's citation key is Arnold2020xxx, then make sure it is in the
      Arnold-major.bib or Arnold-minor.bib

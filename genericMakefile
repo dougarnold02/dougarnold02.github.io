@@ -51,8 +51,8 @@ endif
 git     :
 	git status
 	git add .
-	@echo "Do: git commit -m 'Files Changed in the following way...'"
-	@echo "then do: git push origin"
+	@echo "You can now do: git commit -m 'Files Changed in the following way...'"
+	@echo "and then do: git push origin"
 
 
 # Sync with the corresponding directory on unix4
