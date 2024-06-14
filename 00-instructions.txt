@@ -19,29 +19,33 @@
       to see how things stand
     - git push
       to push changes to the repository
-    - git add
+    - git add file
       to add a file to the list of files to be tracked ('git add .' will add the whole directory)
+    - git commit -m 'Files Changed in the following way...'
+      to commit the changes
+    - git push origin
+      to actually push the changes to the repository
 - To add a bib entry:
-   - edit the relevant bit of index.tex, adding the citation key
-   - if the entry's citation key is Arnold2020xxx, then make sure it is in the
-     Arnold-major.bib or Arnold-minor.bib
-   - make sure the bib entry contains a url field (if you want the paper to be downloadable)
-   - add the entry in a single file to bib/Arnold2020xxx-bib.txt:
-     - cd bib
-     - make Arnold2020xxx-bib.txt
-     - make all
-     - cd -
-   - now run 
-     - make latex  (this will set things up for the run of make bib)
-     - make bib
-     - make
-     - make view
-   - if you do not have privatewww directly mounted, then do 
-     - make sync-put
-   - if you mess things up, you will need to:
-     - remove the index.bbl (by hand) [because this is where the text comes from]
-     - go back to the start, and maybe: make -W index.tex all
-   - update:
-     - research gate and
-     - academia.edu
-     - eprint archive at Essex
+  - edit the relevant bit of index.tex, adding the citation key
+  - if the entry's citation key is Arnold2020xxx, then make sure it is in the
+    Arnold-major.bib or Arnold-minor.bib
+  - make sure the bib entry contains a url field (if you want the paper to be downloadable)
+  - add the entry in a single file to bib/Arnold2020xxx-bib.txt:
+    - cd bib
+    - make Arnold2020xxx-bib.txt
+    - make all
+    - cd -
+  - now run 
+    - make latex  (this will set things up for the run of make bib)
+    - make bib
+    - make
+    - make view
+  - if you do not have privatewww directly mounted, then do 
+    - make sync-put
+  - if you mess things up, you will need to:
+    - remove the index.bbl (by hand) [because this is where the text comes from]
+    - go back to the start, and maybe: make -W index.tex all
+  - update:
+    - research gate and
+    - academia.edu
+    - eprint archive at Essex
