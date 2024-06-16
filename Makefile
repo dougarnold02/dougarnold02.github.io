@@ -1,4 +1,4 @@
-# Time-stamp: <26 Feb 2020, 13:26:23 GMT (doug: a14019.essex.ac.uk): Makefile>
+# Time-stamp: <16 Jun 2024, 13:04:17 BST (doug: a14019.essex.ac.uk): Makefile>
 # ~/public_html/Makefile ...
 texfile = index
 htmldirectory = ./
@@ -8,10 +8,10 @@ defaulttarget=all
 include ~/LaTeX/Maketex/Makefile
 include ./genericMakefile
 
-all : index.html Publications.html
+all : index.html Publications.html git
 # sync-put
 
-index.html : index.tex git
+index.html : index.tex 
 	$(htmlcmd) $<
 	chmod a+r *.html
 
